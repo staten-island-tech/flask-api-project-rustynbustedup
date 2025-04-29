@@ -1,23 +1,57 @@
-<html lang="en">
+<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Forza Horizon 4 Cars</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        table {
+            width: 95%;
+            margin: auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #999;
+            text-align: center;
+        }
+        th {
+            background-color: #eee;
+        }
+    </style>
 </head>
 <body>
-    
-
-
-
-
-
-
-
-
-
-
-
-
-    
+    <h1 style="text-align:center;">Forza Horizon 4 Car List</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Vehicle</th>
+                <th>Value</th>
+                <th>Speed</th>
+                <th>Handling</th>
+                <th>Acceleration</th>
+                <th>Launch</th>
+                <th>Braking</th>
+                <th>PI</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for car in cars %}
+            <tr>
+                <td>{{ loop.index0 }}</td>
+                <td>{{ car.Vehicle }}</td>
+                <td>{{ car.Value }}</td>
+                <td>{{ car.Sp }}</td>
+                <td>{{ car.Ha }}</td>
+                <td>{{ car.Ac }}</td>
+                <td>{{ car.La }}</td>
+                <td>{{ car.Br }}</td>
+                <td>{{ car.PI }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>

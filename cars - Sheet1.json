@@ -1,0 +1,7532 @@
+[
+  {
+    "Vehicle": "Abarth 124 Spider 2017\nAutoshow",
+    "Value": "43,500 CR\nCOMMON",
+    "Sp": "6",
+    "Ha": "5.9",
+    "Ac": "5.6",
+    "La": "7.6",
+    "Br": "5.4",
+    "PI": "C577"
+  },
+  {
+    "Vehicle": "Abarth 595 esseesse 1968\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "3.9",
+    "Ha": "4",
+    "Ac": "3.7",
+    "La": "4.9",
+    "Br": "4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Abarth 695 Biposto 2016\nAutoshow",
+    "Value": "48,000 CR\nRARE",
+    "Sp": "5.7",
+    "Ha": "6.3",
+    "Ac": "5.9",
+    "La": "7.5",
+    "Br": "6.4",
+    "PI": "B607"
+  },
+  {
+    "Vehicle": "Abarth Fiat 131 1980\nAutoshow",
+    "Value": "38,000 CR\nCOMMON",
+    "Sp": "5.5",
+    "Ha": "4.7",
+    "Ac": "5.5",
+    "La": "7.1",
+    "Br": "4.5",
+    "PI": "D449"
+  },
+  {
+    "Vehicle": "Acura Integra Type-R 2001\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.3",
+    "Ha": "5.8",
+    "Ac": "5.6",
+    "La": "6.9",
+    "Br": "5.4",
+    "PI": "C596"
+  },
+  {
+    "Vehicle": "Acura RSX Type-S 2002\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.3",
+    "Ha": "5.8",
+    "Ac": "5.6",
+    "La": "6.7",
+    "Br": "5.4",
+    "PI": "C588"
+  },
+  {
+    "Vehicle": "Acura NSX 2017\nAutoshow",
+    "Value": "170,000 CR\nRARE",
+    "Sp": "7.4",
+    "Ha": "7.6",
+    "Ac": "9.6",
+    "La": "10",
+    "Br": "8.3",
+    "PI": "S1850"
+  },
+  {
+    "Vehicle": "Alfa Romeo 155 Q4 1992\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.2",
+    "Ha": "5",
+    "Ac": "5.8",
+    "La": "7.8",
+    "Br": "4.7",
+    "PI": "C541"
+  },
+  {
+    "Vehicle": "Alfa Romeo 4C 2014\nAutoshow",
+    "Value": "74,000 CR\nRARE",
+    "Sp": "6.6",
+    "Ha": "7.1",
+    "Ac": "6.5",
+    "La": "8.8",
+    "Br": "7",
+    "PI": "A770"
+  },
+  {
+    "Vehicle": "Alfa Romeo 8C Competizione 2007\nAutoshow",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "6.6",
+    "Ac": "6.6",
+    "La": "8.2",
+    "Br": "6.8",
+    "PI": "A777"
+  },
+  {
+    "Vehicle": "Alfa Romeo 8C Competizione F.E. 2007\nA possible Wheelspin reward",
+    "Value": "550,000 CR\nFORZA EDITION",
+    "Sp": "7.6",
+    "Ha": "9.1",
+    "Ac": "8.3",
+    "La": "9.6",
+    "Br": "9.6",
+    "PI": "S1899"
+  },
+  {
+    "Vehicle": "Alfa Romeo 33 Stradale 1968\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "6.9",
+    "Ha": "5.8",
+    "Ac": "6.9",
+    "La": "8.6",
+    "Br": "5.5",
+    "PI": "A716"
+  },
+  {
+    "Vehicle": "Alfa Romeo Giulia Sprint GTA Stradale 1965\nAutoshow",
+    "Value": "300,000 CR\nRARE",
+    "Sp": "5.1",
+    "Ha": "4.6",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.5",
+    "PI": "D432"
+  },
+  {
+    "Vehicle": "Alfa Romeo Giulia TZ2 1965\nAutoshow",
+    "Value": "2,500,000 CR\nLEGENDARY",
+    "Sp": "6.3",
+    "Ha": "5.7",
+    "Ac": "5.8",
+    "La": "7",
+    "Br": "5.1",
+    "PI": "B639"
+  },
+  {
+    "Vehicle": "Alfa Romeo Giulia Quadrifoglio 2017\nAutoshow",
+    "Value": "120,000 CR\nRARE",
+    "Sp": "7.7",
+    "Ha": "7.2",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "7.9",
+    "PI": "A795"
+  },
+  {
+    "Vehicle": "Alfa Romeo Giulia Quadrifoglio F.E. 2017\nA possible Wheelspin reward",
+    "Value": "370,000 CR\nFORZA EDITION",
+    "Sp": "8.7",
+    "Ha": "8.1",
+    "Ac": "7.6",
+    "La": "9.1",
+    "Br": "8.7",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Alfa Romeo P3 1934\nPurchase: Edinburgh Castle",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "6.6",
+    "Ha": "5",
+    "Ac": "5.6",
+    "La": "7.1",
+    "Br": "4.9",
+    "PI": "B626"
+  },
+  {
+    "Vehicle": "Alfa Romeo Stelvio Quadrifoglio 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "80,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "5.9",
+    "Ac": "9",
+    "La": "10",
+    "Br": "6.3",
+    "PI": "A752"
+  },
+  {
+    "Vehicle": "Alpine A110 2017\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.7",
+    "Ha": "7",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "6.9",
+    "PI": "A740"
+  },
+  {
+    "Vehicle": "Alumi Craft Class 10 Race Car 2015\nAutoshow",
+    "Value": "100,000 CR\nEPIC",
+    "Sp": "5.3",
+    "Ha": "6.5",
+    "Ac": "6.6",
+    "La": "7.9",
+    "Br": "6.2",
+    "PI": "B673"
+  },
+  {
+    "Vehicle": "Alumi Craft Class 10 Race Car F.E. 2015\nA possible Wheelspin reward",
+    "Value": "350,000 CR\nFORZA EDITION",
+    "Sp": "6",
+    "Ha": "6.6",
+    "Ac": "7.7",
+    "La": "9.2",
+    "Br": "6.8",
+    "PI": "A800"
+  },
+  {
+    "Vehicle": "AMC Gremlin X 1973\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "5",
+    "Ha": "4.4",
+    "Ac": "5.2",
+    "La": "6.6",
+    "Br": "4.4",
+    "PI": "D394"
+  },
+  {
+    "Vehicle": "AMC Javelin AMX 1971\nAutoshow",
+    "Value": "35,000 CR\nRARE",
+    "Sp": "5.4",
+    "Ha": "4.5",
+    "Ac": "5.2",
+    "La": "6.6",
+    "Br": "4.2",
+    "PI": "C512"
+  },
+  {
+    "Vehicle": "AMC Rebel \"The Machine\" 1970\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.9",
+    "Ha": "4.6",
+    "Ac": "5.3",
+    "La": "6.8",
+    "Br": "4.4",
+    "PI": "C541"
+  },
+  {
+    "Vehicle": "AMG Transport Dynamics M12S Warthog CST 2554\nAutoshow",
+    "Value": "850,000 CR\nLEGENDARY",
+    "Sp": "5.2",
+    "Ha": "7.1",
+    "Ac": "9.7",
+    "La": "10",
+    "Br": "7.5",
+    "PI": "A756"
+  },
+  {
+    "Vehicle": "Apollo Intensa Emozione 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "1,050,000 CR\nLEGENDARY",
+    "Sp": "7.9",
+    "Ha": "10",
+    "Ac": "8.3",
+    "La": "9.6",
+    "Br": "10",
+    "PI": "S2984"
+  },
+  {
+    "Vehicle": "Ariel Atom 500 V8 2013\nReach Tier 11 in Horizon Life: Speed Zone Hero",
+    "Value": "108,000 CR\nEPIC",
+    "Sp": "7",
+    "Ha": "10",
+    "Ac": "8.6",
+    "La": "9.8",
+    "Br": "10",
+    "PI": "S2970"
+  },
+  {
+    "Vehicle": "Ariel Nomad 2016\nAutoshow",
+    "Value": "93,000 CR\nEPIC",
+    "Sp": "6",
+    "Ha": "6.3",
+    "Ac": "7.6",
+    "La": "9.2",
+    "Br": "6.1",
+    "PI": "A732"
+  },
+  {
+    "Vehicle": "Ascari KZ1R 2012\nAutoshow",
+    "Value": "240,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "8.6",
+    "Ac": "7.4",
+    "La": "8.6",
+    "Br": "8.9",
+    "PI": "S1866"
+  },
+  {
+    "Vehicle": "Aston Martin DB4 GT Zagato 1960\nComplete its Barn Find rumor",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "6.9",
+    "Ha": "5.4",
+    "Ac": "4.6",
+    "La": "5.1",
+    "Br": "4.6",
+    "PI": "B619"
+  },
+  {
+    "Vehicle": "Aston Martin DB5 1964\nAutoshow",
+    "Value": "800,000 CR\nLEGENDARY",
+    "Sp": "6.2",
+    "Ha": "4.7",
+    "Ac": "5.6",
+    "La": "7.1",
+    "Br": "4.3",
+    "PI": "C534"
+  },
+  {
+    "Vehicle": "Aston Martin DB11 2017\nAutoshow",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "7.1",
+    "Ac": "6.8",
+    "La": "8.4",
+    "Br": "7.6",
+    "PI": "S1810"
+  },
+  {
+    "Vehicle": "Aston Martin DB11 Preorder Car 2017\nGifted (Pre-Order bonus) / Forzathon Shop",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "8.9",
+    "Ha": "8.2",
+    "Ac": "6.7",
+    "La": "8.3",
+    "Br": "8.7",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Aston Martin DBR1 1958\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "7.1",
+    "Ha": "5.6",
+    "Ac": "5.3",
+    "La": "6.1",
+    "Br": "5.1",
+    "PI": "B688"
+  },
+  {
+    "Vehicle": "Aston Martin DBS Superleggera 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "7.4",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "8.1",
+    "PI": "S1853"
+  },
+  {
+    "Vehicle": "Aston Martin One-77 2010\nAutoshow",
+    "Value": "1,400,000 CR\nLEGENDARY",
+    "Sp": "8.3",
+    "Ha": "7.5",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "8",
+    "PI": "S1863"
+  },
+  {
+    "Vehicle": "Aston Martin V12 Vantage S 2013\nAutoshow",
+    "Value": "240,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "6.9",
+    "Ac": "6.6",
+    "La": "8.2",
+    "Br": "7.4",
+    "PI": "S1814"
+  },
+  {
+    "Vehicle": "Aston Martin Vanquish Zagato Coupé 2017\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "7.3",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "8",
+    "PI": "S1824"
+  },
+  {
+    "Vehicle": "Aston Martin Vantage 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "400,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "7.5",
+    "Ac": "6.9",
+    "La": "8.6",
+    "Br": "7.9",
+    "PI": "S1822"
+  },
+  {
+    "Vehicle": "Aston Martin Vanquish 2012\nAutoshow",
+    "Value": "348,000 CR\nRARE",
+    "Sp": "7.9",
+    "Ha": "7",
+    "Ac": "6.7",
+    "La": "8.3",
+    "Br": "7.5",
+    "PI": "S1802"
+  },
+  {
+    "Vehicle": "Aston Martin Vantage GT12 2016\nAutoshow",
+    "Value": "400,000 CR\nEPIC",
+    "Sp": "7.2",
+    "Ha": "8.4",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "9.1",
+    "PI": "S1846"
+  },
+  {
+    "Vehicle": "Aston Martin Vulcan 2016\nAutoshow",
+    "Value": "1,500,000 CR\nLEGENDARY",
+    "Sp": "8.1",
+    "Ha": "10",
+    "Ac": "7.5",
+    "La": "9",
+    "Br": "10",
+    "PI": "S2954"
+  },
+  {
+    "Vehicle": "Aston Martin Vulcan AMR Pro 2017\nA \"Hard-to-Find\" vehicle",
+    "Value": "1,500,000 CR\nEPIC",
+    "Sp": "7.7",
+    "Ha": "10",
+    "Ac": "7.5",
+    "La": "9",
+    "Br": "10",
+    "PI": "S2954"
+  },
+  {
+    "Vehicle": "Aston Martin Vulcan F.E. 2016\nA possible Wheelspin reward",
+    "Value": "1,750,000 CR\nFORZA EDITION",
+    "Sp": "8.4",
+    "Ha": "10",
+    "Ac": "7.6",
+    "La": "9.2",
+    "Br": "10",
+    "PI": "S2998"
+  },
+  {
+    "Vehicle": "ATS GT 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "8.3",
+    "Ha": "8",
+    "Ac": "7.7",
+    "La": "9.2",
+    "Br": "8.6",
+    "PI": "S1894"
+  },
+  {
+    "Vehicle": "Audi #2 Audi Sport quattro S1 1986\nAutoshow",
+    "Value": "375,000 CR\nLEGENDARY",
+    "Sp": "6.9",
+    "Ha": "8",
+    "Ac": "9.5",
+    "La": "8",
+    "Br": "8.1",
+    "PI": "S1850"
+  },
+  {
+    "Vehicle": "Audi R8 Coupé V10 plus 5.2 FSI quattro 2013\nAutoshow",
+    "Value": "290,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "7.2",
+    "Ac": "8.5",
+    "La": "9.5",
+    "Br": "7.7",
+    "PI": "S1824"
+  },
+  {
+    "Vehicle": "Audi R8 V10 plus 2016\nAutoshow",
+    "Value": "242,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "7.5",
+    "Ac": "9.1",
+    "La": "9.9",
+    "Br": "8.1",
+    "PI": "S1856"
+  },
+  {
+    "Vehicle": "Audi RS 2 Avant 1995\nAutoshow",
+    "Value": "50,000 CR\nCOMMON",
+    "Sp": "6.7",
+    "Ha": "5.3",
+    "Ac": "6.6",
+    "La": "8.7",
+    "Br": "5.2",
+    "PI": "B616"
+  },
+  {
+    "Vehicle": "Audi RS 3 Sportback 2011\nAutoshow",
+    "Value": "42,000 CR\nCOMMON",
+    "Sp": "6.7",
+    "Ha": "6.1",
+    "Ac": "6.8",
+    "La": "8.9",
+    "Br": "6.3",
+    "PI": "B699"
+  },
+  {
+    "Vehicle": "Audi RS 4 2006\nAutoshow",
+    "Value": "53,000 CR\nRARE",
+    "Sp": "7.5",
+    "Ha": "6.2",
+    "Ac": "7.5",
+    "La": "8.9",
+    "Br": "6.2",
+    "PI": "A729"
+  },
+  {
+    "Vehicle": "Audi RS 4 Avant 2001\nAutoshow",
+    "Value": "94,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6",
+    "Ac": "7.1",
+    "La": "9",
+    "Br": "5.5",
+    "PI": "B695"
+  },
+  {
+    "Vehicle": "Audi RS 4 Avant 2013\nAutoshow",
+    "Value": "83,000 CR\nRARE",
+    "Sp": "7.5",
+    "Ha": "6.2",
+    "Ac": "7",
+    "La": "8.7",
+    "Br": "6.7",
+    "PI": "A750"
+  },
+  {
+    "Vehicle": "Audi RS 5 Coupé 2011\nAutoshow",
+    "Value": "88,000 CR\nRARE",
+    "Sp": "7.3",
+    "Ha": "6.5",
+    "Ac": "7.3",
+    "La": "9",
+    "Br": "7",
+    "PI": "A750"
+  },
+  {
+    "Vehicle": "Audi RS 6 2003\nAutoshow",
+    "Value": "105,000 CR\nRARE",
+    "Sp": "7.4",
+    "Ha": "5.9",
+    "Ac": "6.7",
+    "La": "8.4",
+    "Br": "5.8",
+    "PI": "A710"
+  },
+  {
+    "Vehicle": "Audi RS 6 2009\nAutoshow",
+    "Value": "155,000 CR\nRARE",
+    "Sp": "8",
+    "Ha": "6.2",
+    "Ac": "7.6",
+    "La": "9.1",
+    "Br": "6.7",
+    "PI": "A743"
+  },
+  {
+    "Vehicle": "Audi RS 6 Avant 2015\nAutoshow",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "7.8",
+    "Ha": "6.2",
+    "Ac": "8.8",
+    "La": "10",
+    "Br": "6.7",
+    "PI": "A778"
+  },
+  {
+    "Vehicle": "Audi RS 7 Sportback 2013\nAutoshow",
+    "Value": "225,000 CR\nRARE",
+    "Sp": "8",
+    "Ha": "6.1",
+    "Ac": "8.3",
+    "La": "9.9",
+    "Br": "6.5",
+    "PI": "A761"
+  },
+  {
+    "Vehicle": "Audi S1 2015\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "6.3",
+    "Ha": "6.3",
+    "Ac": "6.8",
+    "La": "8.7",
+    "Br": "6.6",
+    "PI": "B679"
+  },
+  {
+    "Vehicle": "Audi Sport quattro 1983\nComplete its Barn Find rumor",
+    "Value": "175,000 CR\nLEGENDARY",
+    "Sp": "6.4",
+    "Ha": "5.2",
+    "Ac": "7.1",
+    "La": "8.8",
+    "Br": "5.2",
+    "PI": "B621"
+  },
+  {
+    "Vehicle": "Audi TT RS Coupé 2010\nA possible Wheelspin reward",
+    "Value": "66,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "6.3",
+    "Ac": "7.3",
+    "La": "9.2",
+    "Br": "6.2",
+    "PI": "A722"
+  },
+  {
+    "Vehicle": "Audi TTS Coupé 2015\nAutoshow",
+    "Value": "52,000 CR\nCOMMON",
+    "Sp": "7.4",
+    "Ha": "6.4",
+    "Ac": "7.3",
+    "La": "9",
+    "Br": "5.8",
+    "PI": "A740"
+  },
+  {
+    "Vehicle": "Austin FX4 Taxi 1964\nReach Tier 10 in Horizon Life: Isha's Taxis",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "4.5",
+    "Ha": "3.8",
+    "Ac": "3.6",
+    "La": "4.5",
+    "Br": "3.5",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Austin Seven 1924\nReach Tier 5 in Horizon Life: Horizon Super7",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "3.1",
+    "Ha": "4.1",
+    "Ac": "3",
+    "La": "3",
+    "Br": "4.4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Austin-Healey 3000 MkIII 1965\nAutoshow",
+    "Value": "50,000 CR\nCOMMON",
+    "Sp": "5.7",
+    "Ha": "4",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "3.6",
+    "PI": "D326"
+  },
+  {
+    "Vehicle": "Austin-Healey Sprite MkI 1958\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "4.3",
+    "Ha": "4",
+    "Ac": "3.9",
+    "La": "5.6",
+    "Br": "3.7",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Auto Union Type D 1939\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "8.7",
+    "Ha": "5.1",
+    "Ac": "6",
+    "La": "7.3",
+    "Br": "4.6",
+    "PI": "B692"
+  },
+  {
+    "Vehicle": "BAC Mono 2014\nAutoshow",
+    "Value": "160,000 CR\nEPIC",
+    "Sp": "6.8",
+    "Ha": "10",
+    "Ac": "7.5",
+    "La": "9",
+    "Br": "10",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Bentley 4-1/2 Liter Supercharged 1931\nComplete its Barn Find rumor",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "4.8",
+    "Ha": "3.7",
+    "Ac": "4",
+    "La": "5.9",
+    "Br": "3.7",
+    "PI": "D200"
+  },
+  {
+    "Vehicle": "Bentley 8-Liter 1931\nReach Tier 10 in Horizon Life: British Racing Green",
+    "Value": "1,500,000 CR\nLEGENDARY",
+    "Sp": "4.8",
+    "Ha": "3.7",
+    "Ac": "4.7",
+    "La": "5.8",
+    "Br": "3.7",
+    "PI": "D176"
+  },
+  {
+    "Vehicle": "Bentley Bentayga 2016\nAutoshow",
+    "Value": "180,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "6.1",
+    "Ac": "7.6",
+    "La": "9.4",
+    "Br": "6.3",
+    "PI": "A758"
+  },
+  {
+    "Vehicle": "Bentley Continental GT Speed 2013\nAutoshow",
+    "Value": "242,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "6.3",
+    "Ac": "7.8",
+    "La": "9.5",
+    "Br": "6.7",
+    "PI": "A774"
+  },
+  {
+    "Vehicle": "Bentley Continental GT Speed F.E. 2013\nA possible Wheelspin reward",
+    "Value": "492,000 CR\nFORZA EDITION",
+    "Sp": "7.4",
+    "Ha": "9.4",
+    "Ac": "8.1",
+    "La": "9.5",
+    "Br": "10",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Bentley Continental Supersports 2017\nAutoshow",
+    "Value": "200,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "6.3",
+    "Ac": "9.2",
+    "La": "10",
+    "Br": "7",
+    "PI": "A798"
+  },
+  {
+    "Vehicle": "Bentley Turbo R 1991\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.2",
+    "Ha": "5",
+    "Ac": "4.9",
+    "La": "5.5",
+    "Br": "4.8",
+    "PI": "C546"
+  },
+  {
+    "Vehicle": "BMW 1 Series M Coupe 2011\nAutoshow",
+    "Value": "55,000 CR\nRARE",
+    "Sp": "7",
+    "Ha": "6.4",
+    "Ac": "6.4",
+    "La": "8",
+    "Br": "6.4",
+    "PI": "A731"
+  },
+  {
+    "Vehicle": "BMW 2002 Turbo 1973\nAutoshow",
+    "Value": "26,000 CR\nCOMMON",
+    "Sp": "5.8",
+    "Ha": "4.6",
+    "Ac": "5.5",
+    "La": "5.9",
+    "Br": "4.5",
+    "PI": "D500"
+  },
+  {
+    "Vehicle": "BMW i8 2015\nAutoshow",
+    "Value": "140,000 CR\nRARE",
+    "Sp": "7.7",
+    "Ha": "6.6",
+    "Ac": "9",
+    "La": "10",
+    "Br": "6.6",
+    "PI": "A785"
+  },
+  {
+    "Vehicle": "BMW i8 Roadster 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "7.6",
+    "Ha": "6.4",
+    "Ac": "8.5",
+    "La": "10",
+    "Br": "6.4",
+    "PI": "A776"
+  },
+  {
+    "Vehicle": "BMW Isetta 300 Export 1957\nAutoshow",
+    "Value": "45,000 CR\nRARE",
+    "Sp": "3.2",
+    "Ha": "4",
+    "Ac": "3.3",
+    "La": "3.1",
+    "Br": "4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "BMW 850CSi 1995\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "7.3",
+    "Ha": "5.2",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "5.1",
+    "PI": "B612"
+  },
+  {
+    "Vehicle": "BMW M1 1981\nAutoshow",
+    "Value": "585,000 CR\nEPIC",
+    "Sp": "6.6",
+    "Ha": "5.4",
+    "Ac": "6.1",
+    "La": "7.2",
+    "Br": "5.4",
+    "PI": "B652"
+  },
+  {
+    "Vehicle": "BMW M2 Coupé 2016\nAutoshow",
+    "Value": "69,000 CR\nCOMMON",
+    "Sp": "7.1",
+    "Ha": "6.3",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "6.3",
+    "PI": "A737"
+  },
+  {
+    "Vehicle": "BMW M3 1991\nAutoshow",
+    "Value": "70,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "5.4",
+    "Ac": "6",
+    "La": "7.4",
+    "Br": "5",
+    "PI": "C586"
+  },
+  {
+    "Vehicle": "BMW M3 1997\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "7.1",
+    "Ha": "5.9",
+    "Ac": "6.3",
+    "La": "8",
+    "Br": "5.5",
+    "PI": "B694"
+  },
+  {
+    "Vehicle": "BMW M3 2005\nReach Tier 8 in Horizon Life: The Drift Run",
+    "Value": "33,000 CR\nCOMMON",
+    "Sp": "7",
+    "Ha": "6.1",
+    "Ac": "6.4",
+    "La": "8",
+    "Br": "5.7",
+    "PI": "A706"
+  },
+  {
+    "Vehicle": "BMW M3 2008\nAutoshow",
+    "Value": "48,000 CR\nRARE",
+    "Sp": "7.3",
+    "Ha": "6.3",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "6.4",
+    "PI": "A745"
+  },
+  {
+    "Vehicle": "BMW M3-GTR 2002\nA \"Hard-to-Find\" vehicle",
+    "Value": "120,000 CR\nEPIC",
+    "Sp": "7.2",
+    "Ha": "6.9",
+    "Ac": "6.6",
+    "La": "8.2",
+    "Br": "7",
+    "PI": "A765"
+  },
+  {
+    "Vehicle": "BMW M3 GTS 2010\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.4",
+    "Ha": "7.6",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "8",
+    "PI": "S1814"
+  },
+  {
+    "Vehicle": "BMW M4 Coupe 2014\nAutoshow",
+    "Value": "92,000 CR\nRARE",
+    "Sp": "7.7",
+    "Ha": "6.9",
+    "Ac": "6.5",
+    "La": "8.2",
+    "Br": "7.5",
+    "PI": "A800"
+  },
+  {
+    "Vehicle": "BMW M4 GTS 2016\nAutoshow",
+    "Value": "135,000 CR\nEPIC",
+    "Sp": "7.4",
+    "Ha": "8.1",
+    "Ac": "6.7",
+    "La": "8.4",
+    "Br": "8.8",
+    "PI": "S1841"
+  },
+  {
+    "Vehicle": "BMW M5 1988\nAutoshow",
+    "Value": "54,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "5.3",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "5.3",
+    "PI": "C594"
+  },
+  {
+    "Vehicle": "BMW M5 F.E. 1988\nA possible Wheelspin reward",
+    "Value": "304,000 CR\nFORZA EDITION",
+    "Sp": "7.3",
+    "Ha": "6.7",
+    "Ac": "6.7",
+    "La": "8.3",
+    "Br": "7.1",
+    "PI": "A800"
+  },
+  {
+    "Vehicle": "BMW M5 1995\nAutoshow",
+    "Value": "25,000 CR\nRARE",
+    "Sp": "7.3",
+    "Ha": "5.5",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "5.4",
+    "PI": "B634"
+  },
+  {
+    "Vehicle": "BMW M5 2003\nAutoshow",
+    "Value": "30,000 CR\nCOMMON",
+    "Sp": "7.6",
+    "Ha": "6",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "6",
+    "PI": "A719"
+  },
+  {
+    "Vehicle": "BMW M5 2009\nAutoshow",
+    "Value": "90,000 CR\nRARE",
+    "Sp": "7.6",
+    "Ha": "6.5",
+    "Ac": "6.5",
+    "La": "8.2",
+    "Br": "6.6",
+    "PI": "A758"
+  },
+  {
+    "Vehicle": "BMW M5 2012\nAutoshow",
+    "Value": "112,000 CR\nRARE",
+    "Sp": "7.9",
+    "Ha": "6.6",
+    "Ac": "6.5",
+    "La": "8.2",
+    "Br": "6.7",
+    "PI": "A790"
+  },
+  {
+    "Vehicle": "BMW M5 2018\nExpansion: Fortune Island",
+    "Value": "105,000 CR\nRARE",
+    "Sp": "8",
+    "Ha": "6.5",
+    "Ac": "9.3",
+    "La": "10",
+    "Br": "7.2",
+    "PI": "S1806"
+  },
+  {
+    "Vehicle": "BMW M6 Coupe 2013\nAutoshow",
+    "Value": "120,000 CR\nRARE",
+    "Sp": "7.9",
+    "Ha": "6.3",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "6.8",
+    "PI": "A779"
+  },
+  {
+    "Vehicle": "BMW M6 Coupe F.E. 2013\nA possible Wheelspin reward",
+    "Value": "370,000 CR\nFORZA EDITION",
+    "Sp": "9.1",
+    "Ha": "7.7",
+    "Ac": "7.4",
+    "La": "9",
+    "Br": "8.2",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "BMW X5 M 2011\nAutoshow",
+    "Value": "100,000 CR\nCOMMON",
+    "Sp": "7",
+    "Ha": "5.8",
+    "Ac": "7.4",
+    "La": "9.1",
+    "Br": "5.5",
+    "PI": "A708"
+  },
+  {
+    "Vehicle": "BMW X6 M 2015\nAutoshow",
+    "Value": "130,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6",
+    "Ac": "7.5",
+    "La": "9.4",
+    "Br": "5.8",
+    "PI": "A727"
+  },
+  {
+    "Vehicle": "BMW Z3 M Coupe 2002\nAutoshow",
+    "Value": "30,000 CR\nCOMMON",
+    "Sp": "6.8",
+    "Ha": "6.1",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "6.1",
+    "PI": "A713"
+  },
+  {
+    "Vehicle": "BMW Z4 M Coupe 2008\nAutoshow",
+    "Value": "82,000 CR\nRARE",
+    "Sp": "7",
+    "Ha": "6.5",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "6",
+    "PI": "A710"
+  },
+  {
+    "Vehicle": "BMW Z4 Roadster 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "35,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "6.7",
+    "Ac": "6.8",
+    "La": "8.4",
+    "Br": "6.7",
+    "PI": "A772"
+  },
+  {
+    "Vehicle": "BMW Z4 sDrive35is 2011\nAutoshow",
+    "Value": "58,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "6.2",
+    "Ac": "6.5",
+    "La": "8.2",
+    "Br": "5.7",
+    "PI": "A727"
+  },
+  {
+    "Vehicle": "Bowler EXR S 2012\nAutoshow",
+    "Value": "200,000 CR\nEPIC",
+    "Sp": "6.8",
+    "Ha": "6.2",
+    "Ac": "8.8",
+    "La": "10",
+    "Br": "6",
+    "PI": "A760"
+  },
+  {
+    "Vehicle": "Bugatti Chiron 2018\nAutoshow",
+    "Value": "2,400,000 CR\nLEGENDARY",
+    "Sp": "10",
+    "Ha": "8.3",
+    "Ac": "9.8",
+    "La": "10",
+    "Br": "8.7",
+    "PI": "S2938"
+  },
+  {
+    "Vehicle": "Bugatti Divo 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "9.3",
+    "Ha": "9.2",
+    "Ac": "9.9",
+    "La": "10",
+    "Br": "9.5",
+    "PI": "S2958"
+  },
+  {
+    "Vehicle": "Bugatti EB110 Super Sport 1992\nAutoshow",
+    "Value": "1,700,000 CR\nLEGENDARY",
+    "Sp": "8.5",
+    "Ha": "7.1",
+    "Ac": "9.2",
+    "La": "9.9",
+    "Br": "7.4",
+    "PI": "S1829"
+  },
+  {
+    "Vehicle": "Bugatti Type 35 C 1926\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "5",
+    "Ha": "4.9",
+    "Ac": "4.4",
+    "La": "4.8",
+    "Br": "4.8",
+    "PI": "D374"
+  },
+  {
+    "Vehicle": "Bugatti Veyron Super Sport 2011\nAutoshow",
+    "Value": "2,200,000 CR\nLEGENDARY",
+    "Sp": "9.9",
+    "Ha": "8",
+    "Ac": "9.9",
+    "La": "10",
+    "Br": "8.4",
+    "PI": "S2922"
+  },
+  {
+    "Vehicle": "Buick GSX 1970\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6",
+    "Ha": "4.8",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "4.4",
+    "PI": "C572"
+  },
+  {
+    "Vehicle": "Buick Regal GNX 1987\nAutoshow",
+    "Value": "130,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "4.7",
+    "Ac": "5.6",
+    "La": "7.1",
+    "Br": "4.5",
+    "PI": "C567"
+  },
+  {
+    "Vehicle": "Cadillac ATS-V 2016\nAutoshow",
+    "Value": "65,000 CR\nCOMMON",
+    "Sp": "7.5",
+    "Ha": "6.2",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "6.2",
+    "PI": "A737"
+  },
+  {
+    "Vehicle": "Cadillac CTS-V Sedan 2016\nAutoshow",
+    "Value": "80,000 CR\nCOMMON",
+    "Sp": "7.7",
+    "Ha": "6.2",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "6.6",
+    "PI": "A785"
+  },
+  {
+    "Vehicle": "Cadillac Eldorado Biarritz Convertible 1959\nAutoshow (DLC: Car Pass)",
+    "Value": "60,000 CR\nRARE",
+    "Sp": "5.9",
+    "Ha": "4.4",
+    "Ac": "5.2",
+    "La": "6.6",
+    "Br": "4.3",
+    "PI": "D400"
+  },
+  {
+    "Vehicle": "Cadillac Escalade ESV 2012\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "6",
+    "Ha": "5.7",
+    "Ac": "5",
+    "La": "6",
+    "Br": "5.9",
+    "PI": "C564"
+  },
+  {
+    "Vehicle": "Cadillac XTS Limousine 2013\nA possible Wheelspin reward",
+    "Value": "48,500 CR\nRARE",
+    "Sp": "6.1",
+    "Ha": "5.7",
+    "Ac": "4.6",
+    "La": "5.1",
+    "Br": "5.4",
+    "PI": "C534"
+  },
+  {
+    "Vehicle": "Can-Am Maverick X RS Turbo R 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5",
+    "Ha": "6.5",
+    "Ac": "8.2",
+    "La": "10",
+    "Br": "6.4",
+    "PI": "B692"
+  },
+  {
+    "Vehicle": "Caterham Superlight R500 2013\nAutoshow",
+    "Value": "82,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "6.9",
+    "Ac": "6.8",
+    "La": "7.9",
+    "Br": "7.1",
+    "PI": "S1804"
+  },
+  {
+    "Vehicle": "Caterham Superlight R500 F.E. 2013\nA possible Wheelspin reward",
+    "Value": "332,000 CR\nFORZA EDITION",
+    "Sp": "6.4",
+    "Ha": "7",
+    "Ac": "6.7",
+    "La": "8.4",
+    "Br": "7.1",
+    "PI": "S1804"
+  },
+  {
+    "Vehicle": "Chevrolet 150 Utility Sedan 1955\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "5.4",
+    "Ha": "3.8",
+    "Ac": "5",
+    "La": "6.3",
+    "Br": "3.6",
+    "PI": "D286"
+  },
+  {
+    "Vehicle": "Chevrolet Bel Air 1957\nAutoshow",
+    "Value": "130,000 CR\nRARE",
+    "Sp": "5.7",
+    "Ha": "4.3",
+    "Ac": "4.7",
+    "La": "5.1",
+    "Br": "4.3",
+    "PI": "D444"
+  },
+  {
+    "Vehicle": "Chevrolet Camaro IROC-Z 1990\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "4.6",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "3.9",
+    "PI": "C512"
+  },
+  {
+    "Vehicle": "Chevrolet Camaro Super Sport Coupe 1969\nAutoshow",
+    "Value": "110,000 CR\nRARE",
+    "Sp": "5.9",
+    "Ha": "4.9",
+    "Ac": "5.3",
+    "La": "6.7",
+    "Br": "4.6",
+    "PI": "C566"
+  },
+  {
+    "Vehicle": "Chevrolet Camaro Z28 1970\nAutoshow",
+    "Value": "53,000 CR\nRARE",
+    "Sp": "6",
+    "Ha": "4.7",
+    "Ac": "5.2",
+    "La": "6.5",
+    "Br": "4.3",
+    "PI": "C547"
+  },
+  {
+    "Vehicle": "Chevrolet Camaro Z28 1979\nA possible Wheelspin reward",
+    "Value": "35,000 CR\nRARE",
+    "Sp": "5.5",
+    "Ha": "4.8",
+    "Ac": "5.3",
+    "La": "6.7",
+    "Br": "4.4",
+    "PI": "D460"
+  },
+  {
+    "Vehicle": "Chevrolet Camaro Z/28 2015\nAutoshow",
+    "Value": "86,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "7.7",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "8.3",
+    "PI": "S1818"
+  },
+  {
+    "Vehicle": "Chevrolet Camaro ZL1 2017\nAutoshow",
+    "Value": "60,000 CR\nRARE",
+    "Sp": "7.8",
+    "Ha": "8",
+    "Ac": "7.3",
+    "La": "8.7",
+    "Br": "8.4",
+    "PI": "S1848"
+  },
+  {
+    "Vehicle": "Chevrolet Camaro ZL1 Preorder Car 2017\nGifted (Pre-Order bonus) / Forzathon Shop",
+    "Value": "60,000 CR\nRARE",
+    "Sp": "8.3",
+    "Ha": "8.8",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "9.3",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Chevrolet Camaro ZL1 1LE 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "8.4",
+    "Ac": "7",
+    "La": "8.6",
+    "Br": "8.8",
+    "PI": "S1849"
+  },
+  {
+    "Vehicle": "Chevrolet Chevelle Super Sport 396 1967\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "4.6",
+    "Ac": "5.2",
+    "La": "6.6",
+    "Br": "4.4",
+    "PI": "C561"
+  },
+  {
+    "Vehicle": "Chevrolet Chevelle Super Sport 454 1970\nAutoshow",
+    "Value": "80,000 CR\nRARE",
+    "Sp": "5.6",
+    "Ha": "4.6",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "4.3",
+    "PI": "C542"
+  },
+  {
+    "Vehicle": "Chevrolet Chevelle Super Sport Barrett-Jackson Edition 1970\nAutoshow (DLC: Barrett-Jackson Car Pack)",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "5.9",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "6.2",
+    "PI": "A757"
+  },
+  {
+    "Vehicle": "Chevrolet Colorado ZR2 2017\nA \"Hard-to-Find\" vehicle",
+    "Value": "46,000 CR\nRARE",
+    "Sp": "6.1",
+    "Ha": "5.7",
+    "Ac": "5.7",
+    "La": "7.3",
+    "Br": "5.6",
+    "PI": "C598"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette 1953\nAutoshow",
+    "Value": "135,000 CR\nLEGENDARY",
+    "Sp": "4.7",
+    "Ha": "4.4",
+    "Ac": "4.2",
+    "La": "4.3",
+    "Br": "4.2",
+    "PI": "D347"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette 1960\nAutoshow",
+    "Value": "150,000 CR\nEPIC",
+    "Sp": "6.2",
+    "Ha": "4.6",
+    "Ac": "5.2",
+    "La": "6.6",
+    "Br": "4.4",
+    "PI": "C521"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette Stingray 427 1967\nAutoshow",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "6.3",
+    "Ha": "5",
+    "Ac": "5.6",
+    "La": "6.7",
+    "Br": "4.8",
+    "PI": "B621"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette Z06 2002\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "7.7",
+    "Ha": "6.5",
+    "Ac": "6",
+    "La": "7.6",
+    "Br": "5.4",
+    "PI": "A748"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette Z06 2015\nAutoshow",
+    "Value": "110,000 CR\nRARE",
+    "Sp": "7.9",
+    "Ha": "8.2",
+    "Ac": "7",
+    "La": "8.6",
+    "Br": "8.9",
+    "PI": "S1871"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette Stingray Coupe 2020\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "7.6",
+    "Ac": "7.7",
+    "La": "9.2",
+    "Br": "7.7",
+    "PI": "S1830"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette ZR-1 1970\nAutoshow",
+    "Value": "310,000 CR\nRARE",
+    "Sp": "5.8",
+    "Ha": "5.1",
+    "Ac": "5.6",
+    "La": "6.7",
+    "Br": "4.7",
+    "PI": "B605"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette ZR-1 1995\nAutoshow",
+    "Value": "45,000 CR\nCOMMON",
+    "Sp": "7.1",
+    "Ha": "6.3",
+    "Ac": "6.4",
+    "La": "7.8",
+    "Br": "5.8",
+    "PI": "A741"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette ZR1 2009\nAutoshow",
+    "Value": "125,000 CR\nRARE",
+    "Sp": "8.2",
+    "Ha": "7.1",
+    "Ac": "6.7",
+    "La": "8.3",
+    "Br": "7.5",
+    "PI": "S1824"
+  },
+  {
+    "Vehicle": "Chevrolet Corvette ZR1 2019\nAutoshow (DLC: Car Pass)",
+    "Value": "225,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "8.5",
+    "Ac": "7.5",
+    "La": "9",
+    "Br": "9.2",
+    "PI": "S1895"
+  },
+  {
+    "Vehicle": "Chevrolet El Camino Super Sport 454 1970\nAutoshow",
+    "Value": "65,000 CR\nRARE",
+    "Sp": "6.6",
+    "Ha": "4.6",
+    "Ac": "5",
+    "La": "6.3",
+    "Br": "4.3",
+    "PI": "C556"
+  },
+  {
+    "Vehicle": "Chevrolet Impala Super Sport 1996\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "4.8",
+    "Ac": "5.4",
+    "La": "6.6",
+    "Br": "4.6",
+    "PI": "C510"
+  },
+  {
+    "Vehicle": "Chevrolet Impala Super Sport 409 1964\nAutoshow",
+    "Value": "46,000 CR\nCOMMON",
+    "Sp": "6.3",
+    "Ha": "4.3",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "4.2",
+    "PI": "C527"
+  },
+  {
+    "Vehicle": "Chevrolet Monte Carlo Super Sport 1988\nReach Tier 10 in Horizon Life: LaRacer",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "4.5",
+    "Ac": "5",
+    "La": "6.3",
+    "Br": "3.9",
+    "PI": "D415"
+  },
+  {
+    "Vehicle": "Chevrolet Nova Super Sport 1966\nAutoshow",
+    "Value": "70,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "4.8",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.5",
+    "PI": "C582"
+  },
+  {
+    "Vehicle": "Chevrolet Nova Super Sport 396 1969\nAutoshow",
+    "Value": "47,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "4.6",
+    "Ac": "5.3",
+    "La": "6.6",
+    "Br": "4.3",
+    "PI": "C552"
+  },
+  {
+    "Vehicle": "Chevrolet Nova Super Sport 396 F.E. 1969\nA possible Wheelspin reward",
+    "Value": "297,000 CR\nFORZA EDITION",
+    "Sp": "8.5",
+    "Ha": "7.3",
+    "Ac": "10",
+    "La": "10",
+    "Br": "7.5",
+    "PI": "S2981"
+  },
+  {
+    "Vehicle": "Chevrolet Silverado 1500 DeBerti Design Drift Truck 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.2",
+    "Ha": "7.6",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "7.7",
+    "PI": "S1849"
+  },
+  {
+    "Vehicle": "Chrysler VH Valiant Charger R/T E49 1972\nAutoshow",
+    "Value": "60,000 CR\nRARE",
+    "Sp": "5.9",
+    "Ha": "4.7",
+    "Ac": "5.2",
+    "La": "6.7",
+    "Br": "4.4",
+    "PI": "C557"
+  },
+  {
+    "Vehicle": "Citroën DS 23 1975\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.1",
+    "Ha": "4.6",
+    "Ac": "4.2",
+    "La": "5.8",
+    "Br": "4.4",
+    "PI": "D262"
+  },
+  {
+    "Vehicle": "Datsun 510 1970\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "4.8",
+    "Ha": "3.9",
+    "Ac": "4.7",
+    "La": "6.1",
+    "Br": "3.8",
+    "PI": "D209"
+  },
+  {
+    "Vehicle": "Dodge Challenger R/T 1970\nAutoshow",
+    "Value": "210,000 CR\nRARE",
+    "Sp": "6.2",
+    "Ha": "4.7",
+    "Ac": "5.2",
+    "La": "6.5",
+    "Br": "4.4",
+    "PI": "C562"
+  },
+  {
+    "Vehicle": "Dodge Challenger SRT Demon 2018\nReach Tier 10 in Horizon Life: The Stunt Driver",
+    "Value": "150,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "7",
+    "Ac": "6.3",
+    "La": "8",
+    "Br": "7.4",
+    "PI": "S1823"
+  },
+  {
+    "Vehicle": "Dodge Challenger SRT Hellcat 2015\nAutoshow",
+    "Value": "75,000 CR\nRARE",
+    "Sp": "8.1",
+    "Ha": "6.1",
+    "Ac": "5.9",
+    "La": "7.5",
+    "Br": "6.5",
+    "PI": "A776"
+  },
+  {
+    "Vehicle": "Dodge Charger Daytona HEMI 1969\nAutoshow",
+    "Value": "900,000 CR\nLEGENDARY",
+    "Sp": "5.9",
+    "Ha": "5.2",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.8",
+    "PI": "C595"
+  },
+  {
+    "Vehicle": "Dodge Charger R/T 1969\nAutoshow",
+    "Value": "103,000 CR\nRARE",
+    "Sp": "5.9",
+    "Ha": "4.7",
+    "Ac": "5.3",
+    "La": "6.8",
+    "Br": "4.3",
+    "PI": "C558"
+  },
+  {
+    "Vehicle": "Dodge Charger SRT Hellcat 2015\nAutoshow",
+    "Value": "80,000 CR\nRARE",
+    "Sp": "8.2",
+    "Ha": "6.1",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "6.5",
+    "PI": "A785"
+  },
+  {
+    "Vehicle": "Dodge Dart HEMI Super Stock 1968\nAutoshow",
+    "Value": "125,000 CR\nRARE",
+    "Sp": "5.4",
+    "Ha": "4.9",
+    "Ac": "5.5",
+    "La": "7",
+    "Br": "4.6",
+    "PI": "B626"
+  },
+  {
+    "Vehicle": "Dodge Durango SRT 2018\nAutoshow",
+    "Value": "70,000 CR\nRARE",
+    "Sp": "6.9",
+    "Ha": "5.9",
+    "Ac": "7.3",
+    "La": "9.2",
+    "Br": "5.5",
+    "PI": "A709"
+  },
+  {
+    "Vehicle": "Dodge SRT Viper GTS 2013\nAutoshow",
+    "Value": "95,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "7.3",
+    "Ac": "7",
+    "La": "8.2",
+    "Br": "7.2",
+    "PI": "S1831"
+  },
+  {
+    "Vehicle": "Dodge Viper ACR 2016\nAutoshow",
+    "Value": "150,000 CR\nEPIC",
+    "Sp": "6.9",
+    "Ha": "9.8",
+    "Ac": "7.6",
+    "La": "8.7",
+    "Br": "10",
+    "PI": "S1893"
+  },
+  {
+    "Vehicle": "Dodge Viper GTS ACR 1999\nAutoshow",
+    "Value": "75,000 CR\nRARE",
+    "Sp": "7.4",
+    "Ha": "5.9",
+    "Ac": "6.6",
+    "La": "8.1",
+    "Br": "5.9",
+    "PI": "A732"
+  },
+  {
+    "Vehicle": "Dodge Viper SRT10 ACR 2008\nAutoshow",
+    "Value": "90,000 CR\nRARE",
+    "Sp": "7.5",
+    "Ha": "9.2",
+    "Ac": "7.1",
+    "La": "8.3",
+    "Br": "9.6",
+    "PI": "S1866"
+  },
+  {
+    "Vehicle": "Donkervoort D8 GTO 2013\nAutoshow",
+    "Value": "175,000 CR\nEPIC",
+    "Sp": "6.9",
+    "Ha": "7.4",
+    "Ac": "6.7",
+    "La": "8.4",
+    "Br": "7.8",
+    "PI": "S1827"
+  },
+  {
+    "Vehicle": "DS Automobiles DS 3 Racing 2011\nA \"Hard-to-Find\" vehicle",
+    "Value": "38,000 CR\nCOMMON",
+    "Sp": "6.1",
+    "Ha": "6",
+    "Ac": "5.8",
+    "La": "7.3",
+    "Br": "6",
+    "PI": "B624"
+  },
+  {
+    "Vehicle": "Eagle Speedster 2012\nAutoshow",
+    "Value": "550,000 CR\nLEGENDARY",
+    "Sp": "6.8",
+    "Ha": "6.5",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "6.7",
+    "PI": "A740"
+  },
+  {
+    "Vehicle": "Exomotive Exocet Off-Road 2018\nExpansion: Fortune Island",
+    "Value": "50,000 CR\nEPIC",
+    "Sp": "5.4",
+    "Ha": "7.7",
+    "Ac": "6.8",
+    "La": "8.5",
+    "Br": "7.4",
+    "PI": "A729"
+  },
+  {
+    "Vehicle": "Ferrari #24 Ferrari Spa 330 P4 1967\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "7.6",
+    "Ha": "6.8",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "6",
+    "PI": "A799"
+  },
+  {
+    "Vehicle": "Ferrari 166MM Barchetta 1948\nAutoshow",
+    "Value": "6,500,000 CR\nLEGENDARY",
+    "Sp": "5.7",
+    "Ha": "5.1",
+    "Ac": "5.5",
+    "La": "7.1",
+    "Br": "4.9",
+    "PI": "C554"
+  },
+  {
+    "Vehicle": "Ferrari 250 California 1957\nAutoshow",
+    "Value": "8,000,000 CR\nLEGENDARY",
+    "Sp": "6.2",
+    "Ha": "4.6",
+    "Ac": "5.2",
+    "La": "6",
+    "Br": "4.5",
+    "PI": "C540"
+  },
+  {
+    "Vehicle": "Ferrari 250 GT Berlinetta Lusso 1962\nAutoshow",
+    "Value": "2,600,000 CR\nLEGENDARY",
+    "Sp": "6.3",
+    "Ha": "4.7",
+    "Ac": "5.6",
+    "La": "7.2",
+    "Br": "4.6",
+    "PI": "C568"
+  },
+  {
+    "Vehicle": "Ferrari 250 GTO 1962\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "7",
+    "Ha": "5.6",
+    "Ac": "5.3",
+    "La": "6.2",
+    "Br": "4.7",
+    "PI": "B679"
+  },
+  {
+    "Vehicle": "Ferrari 250LM 1963\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "7.1",
+    "Ha": "6",
+    "Ac": "5.1",
+    "La": "5.9",
+    "Br": "5.6",
+    "PI": "A732"
+  },
+  {
+    "Vehicle": "Ferrari 250 Testa Rossa 1957\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "6.9",
+    "Ha": "5.6",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "4.7",
+    "PI": "A704"
+  },
+  {
+    "Vehicle": "Ferrari 288 GTO 1984\nAutoshow",
+    "Value": "3,100,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "6.2",
+    "Ac": "6.8",
+    "La": "8.4",
+    "Br": "6.1",
+    "PI": "A768"
+  },
+  {
+    "Vehicle": "Ferrari 360 Challenge Stradale 2003\nAutoshow",
+    "Value": "200,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "7",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "7.4",
+    "PI": "A792"
+  },
+  {
+    "Vehicle": "Ferrari 365 GTB/4 1968\nAutoshow",
+    "Value": "600,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "5.1",
+    "Ac": "5.9",
+    "La": "7.1",
+    "Br": "4.6",
+    "PI": "B641"
+  },
+  {
+    "Vehicle": "Ferrari 430 Scuderia 2007\nAutoshow",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "7.4",
+    "Ac": "7.2",
+    "La": "8.8",
+    "Br": "7.9",
+    "PI": "S1834"
+  },
+  {
+    "Vehicle": "Ferrari 458 Italia 2009\nAutoshow",
+    "Value": "225,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "7.3",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "7.9",
+    "PI": "S1846"
+  },
+  {
+    "Vehicle": "Ferrari 458 Speciale 2013\nAutoshow",
+    "Value": "340,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "8.2",
+    "Ac": "7.6",
+    "La": "9.1",
+    "Br": "8.8",
+    "PI": "S1885"
+  },
+  {
+    "Vehicle": "Ferrari 488 GTB 2015\nAutoshow",
+    "Value": "290,000 CR\nEPIC",
+    "Sp": "8.5",
+    "Ha": "8.1",
+    "Ac": "7.5",
+    "La": "9.1",
+    "Br": "8.7",
+    "PI": "S1883"
+  },
+  {
+    "Vehicle": "Ferrari 488 Pista 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "8",
+    "Ha": "9",
+    "Ac": "8",
+    "La": "9.4",
+    "Br": "9.6",
+    "PI": "S2912"
+  },
+  {
+    "Vehicle": "Ferrari 500 Mondial 1953\nAutoshow",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "6.1",
+    "Ha": "5.1",
+    "Ac": "4.7",
+    "La": "5",
+    "Br": "4.7",
+    "PI": "C544"
+  },
+  {
+    "Vehicle": "Ferrari 512 S 1970\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "8",
+    "Ha": "8",
+    "Ac": "7.9",
+    "La": "9",
+    "Br": "7.5",
+    "PI": "S1872"
+  },
+  {
+    "Vehicle": "Ferrari 512 TR 1992\nAutoshow",
+    "Value": "270,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "6.3",
+    "Ac": "6.6",
+    "La": "7.7",
+    "Br": "5.8",
+    "PI": "A754"
+  },
+  {
+    "Vehicle": "Ferrari 575M Maranello 2002\nAutoshow",
+    "Value": "140,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "6.2",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "6.1",
+    "PI": "A772"
+  },
+  {
+    "Vehicle": "Ferrari 599 GTO 2010\nAutoshow",
+    "Value": "690,000 CR\nEPIC",
+    "Sp": "8.3",
+    "Ha": "7.9",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "8.5",
+    "PI": "S1861"
+  },
+  {
+    "Vehicle": "Ferrari 599XX 2010\nAutoshow",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "9.4",
+    "Ac": "7.9",
+    "La": "9.3",
+    "Br": "9.9",
+    "PI": "S2937"
+  },
+  {
+    "Vehicle": "Ferrari 599XX Evolution 2012\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "8.9",
+    "Ha": "10",
+    "Ac": "8.1",
+    "La": "9.5",
+    "Br": "10",
+    "PI": "S2979"
+  },
+  {
+    "Vehicle": "Ferrari 812 Superfast 2017\nStar Card: Story",
+    "Value": "1,400,000 CR\nLEGENDARY",
+    "Sp": "8.3",
+    "Ha": "8.1",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "8.6",
+    "PI": "S1897"
+  },
+  {
+    "Vehicle": "Ferrari California T 2014\nAutoshow",
+    "Value": "240,000 CR\nEPIC",
+    "Sp": "7.7",
+    "Ha": "6.7",
+    "Ac": "6.8",
+    "La": "8.5",
+    "Br": "7.3",
+    "PI": "S1804"
+  },
+  {
+    "Vehicle": "Ferrari Dino 246 GT 1969\nAutoshow",
+    "Value": "425,000 CR\nEPIC",
+    "Sp": "6",
+    "Ha": "4.8",
+    "Ac": "5",
+    "La": "5.8",
+    "Br": "4.5",
+    "PI": "C512"
+  },
+  {
+    "Vehicle": "Ferrari Enzo Ferrari 2002\nAutoshow",
+    "Value": "2,800,000 CR\nLEGENDARY",
+    "Sp": "8.4",
+    "Ha": "8",
+    "Ac": "7.4",
+    "La": "8.9",
+    "Br": "8.4",
+    "PI": "S1874"
+  },
+  {
+    "Vehicle": "Ferrari F12berlinetta 2012\nAutoshow",
+    "Value": "380,000 CR\nEPIC",
+    "Sp": "8.3",
+    "Ha": "7.3",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "7.9",
+    "PI": "S1868"
+  },
+  {
+    "Vehicle": "Ferrari F12tdf 2015\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "8.8",
+    "Ha": "8.3",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "9",
+    "PI": "S2901"
+  },
+  {
+    "Vehicle": "Ferrari F40 1987\nAutoshow",
+    "Value": "1,200,000 CR\nLEGENDARY",
+    "Sp": "7.7",
+    "Ha": "7",
+    "Ac": "7.5",
+    "La": "8.1",
+    "Br": "7",
+    "PI": "S1807"
+  },
+  {
+    "Vehicle": "Ferrari F40 Competizione 1989\nAutoshow",
+    "Value": "3,000,000 CR\nLEGENDARY",
+    "Sp": "8.5",
+    "Ha": "10",
+    "Ac": "7",
+    "La": "5.4",
+    "Br": "10",
+    "PI": "S2961"
+  },
+  {
+    "Vehicle": "Ferrari F50 1995\nAutoshow",
+    "Value": "2,000,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "7.1",
+    "Ac": "7.2",
+    "La": "8.5",
+    "Br": "7.4",
+    "PI": "S1815"
+  },
+  {
+    "Vehicle": "Ferrari F50 GT 1996\nAutoshow",
+    "Value": "1,200,000 CR\nLEGENDARY",
+    "Sp": "8.4",
+    "Ha": "10",
+    "Ac": "8.4",
+    "La": "9.5",
+    "Br": "10",
+    "PI": "S2992"
+  },
+  {
+    "Vehicle": "Ferrari F50 GT \"Welcome Pack\" 1996\nAutoshow (DLC: Welcome Pack",
+    "Value": "1,200,000 CR\nLEGENDARY",
+    "Sp": "8.4",
+    "Ha": "10",
+    "Ac": "8.3",
+    "La": "9.6",
+    "Br": "10",
+    "PI": "S2998"
+  },
+  {
+    "Vehicle": "Ferrari F355 Berlinetta 1994\nAutoshow",
+    "Value": "190,000 CR\nEPIC",
+    "Sp": "7.4",
+    "Ha": "6.3",
+    "Ac": "6.2",
+    "La": "7.4",
+    "Br": "6.3",
+    "PI": "A737"
+  },
+  {
+    "Vehicle": "Ferrari FF 2011\nAutoshow",
+    "Value": "255,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "6.6",
+    "Ac": "7.5",
+    "La": "8.8",
+    "Br": "7.2",
+    "PI": "S1815"
+  },
+  {
+    "Vehicle": "Ferrari FXX 2005\nAutoshow (DLC: Car Pass)",
+    "Value": "2,500,000 CR\nLEGENDARY",
+    "Sp": "8.3",
+    "Ha": "10",
+    "Ac": "8.7",
+    "La": "9.9",
+    "Br": "10",
+    "PI": "S2961"
+  },
+  {
+    "Vehicle": "Ferrari FXX K 2014\nAutoshow",
+    "Value": "2,700,000 CR\nLEGENDARY",
+    "Sp": "8.1",
+    "Ha": "10",
+    "Ac": "8.8",
+    "La": "9.9",
+    "Br": "10",
+    "PI": "S2989"
+  },
+  {
+    "Vehicle": "Ferrari GTC4Lusso 2017\nAutoshow (DLC: Car Pass)",
+    "Value": "430,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "7.3",
+    "Ac": "8.2",
+    "La": "9.4",
+    "Br": "7.9",
+    "PI": "S1840"
+  },
+  {
+    "Vehicle": "Ferrari LaFerrari 2013\nAutoshow",
+    "Value": "1,500,000 CR\nLEGENDARY",
+    "Sp": "9.5",
+    "Ha": "9.8",
+    "Ac": "8.2",
+    "La": "9.5",
+    "Br": "10",
+    "PI": "S2966"
+  },
+  {
+    "Vehicle": "Ferrari Portofino 2018\nAutoshow",
+    "Value": "215,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "7.3",
+    "Ac": "7.2",
+    "La": "8.8",
+    "Br": "7.9",
+    "PI": "S1834"
+  },
+  {
+    "Vehicle": "FIAT 124 Sport Spider 1980\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "4.9",
+    "Ha": "4",
+    "Ac": "4.2",
+    "La": "6.5",
+    "Br": "4",
+    "PI": "D244"
+  },
+  {
+    "Vehicle": "FIAT Dino 2.4 Coupe 1969\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.7",
+    "Ha": "4.7",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.5",
+    "PI": "D468"
+  },
+  {
+    "Vehicle": "FIAT X1/9 1975\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "4.8",
+    "Ha": "4.1",
+    "Ac": "4",
+    "La": "5.7",
+    "Br": "3.7",
+    "PI": "D127"
+  },
+  {
+    "Vehicle": "Ford #2 GT40 Mk II Le Mans 1966\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "6.6",
+    "Ac": "6",
+    "La": "7.2",
+    "Br": "6",
+    "PI": "A795"
+  },
+  {
+    "Vehicle": "Ford #5 RS1800 MK II 1977\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.4",
+    "Ha": "6.6",
+    "Ac": "6.9",
+    "La": "8.6",
+    "Br": "7",
+    "PI": "A729"
+  },
+  {
+    "Vehicle": "Ford #11 Rockstar F-150 Trophy Truck 2014\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6.4",
+    "Ha": "6.6",
+    "Ac": "6.6",
+    "La": "8",
+    "Br": "6.2",
+    "PI": "A785"
+  },
+  {
+    "Vehicle": "Ford #14 Rahal Letterman Lanigan Racing GRC Fiesta 2017\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "5.8",
+    "Ha": "7.7",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8",
+    "PI": "S1880"
+  },
+  {
+    "Vehicle": "Ford #25 RTR Mustang 2018\nReach Tier 19 in Horizon Life: Drift Adventure",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6.6",
+    "Ha": "7.9",
+    "Ac": "6.7",
+    "La": "8.4",
+    "Br": "8",
+    "PI": "S1871"
+  },
+  {
+    "Vehicle": "Ford #88 RTR Mustang 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6.6",
+    "Ha": "7.9",
+    "Ac": "6.7",
+    "La": "8.4",
+    "Br": "8",
+    "PI": "S1871"
+  },
+  {
+    "Vehicle": "Ford Anglia 105E 1959\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "3.9",
+    "Ha": "3.9",
+    "Ac": "3.7",
+    "La": "4.9",
+    "Br": "3.9",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Ford Bronco 1975\nAutoshow",
+    "Value": "38,000 CR\nCOMMON",
+    "Sp": "5.2",
+    "Ha": "4.2",
+    "Ac": "5.3",
+    "La": "7",
+    "Br": "3.9",
+    "PI": "D379"
+  },
+  {
+    "Vehicle": "Ford Bronco Barrett-Jackson Edition 1975\nAutoshow (DLC: Barrett-Jackson Car Pack)",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "5.4",
+    "Ha": "6.3",
+    "Ac": "6.6",
+    "La": "8.1",
+    "Br": "5.7",
+    "PI": "B630"
+  },
+  {
+    "Vehicle": "Ford Capri RS3100 1973\nAutoshow",
+    "Value": "55,000 CR\nRARE",
+    "Sp": "5.7",
+    "Ha": "4.7",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.4",
+    "PI": "D478"
+  },
+  {
+    "Vehicle": "Ford Capri RS3100 F.E. 1973\nStar Card: Complete all challenges",
+    "Value": "305,000 CR\nFORZA EDITION",
+    "Sp": "5.7",
+    "Ha": "6.5",
+    "Ac": "5.5",
+    "La": "7.1",
+    "Br": "5.3",
+    "PI": "B613"
+  },
+  {
+    "Vehicle": "Ford Crown Victoria Police Interceptor 2010\nA possible Wheelspin reward",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6",
+    "Ha": "5.1",
+    "Ac": "4.9",
+    "La": "5.6",
+    "Br": "4.7",
+    "PI": "C521"
+  },
+  {
+    "Vehicle": "Ford Custom \"Double Down\" 1932\nAutoshow (DLC: Barrett-Jackson Car Pack)",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "8.6",
+    "Ha": "8",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.2",
+    "PI": "S2927"
+  },
+  {
+    "Vehicle": "Ford De Luxe Coupe 1940\nAutoshow",
+    "Value": "44,000 CR\nCOMMON",
+    "Sp": "4.4",
+    "Ha": "3.8",
+    "Ac": "4.1",
+    "La": "5.5",
+    "Br": "3.7",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Ford De Luxe Five-Window Coupe 1932\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "4.4",
+    "Ha": "3.8",
+    "Ac": "3.9",
+    "La": "5.9",
+    "Br": "3.2",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Ford Escort RS1600 1973\nAutoshow",
+    "Value": "73,000 CR\nRARE",
+    "Sp": "5.2",
+    "Ha": "5",
+    "Ac": "5.4",
+    "La": "6.7",
+    "Br": "4.8",
+    "PI": "D440"
+  },
+  {
+    "Vehicle": "Ford Escort RS1800 1977\nAutoshow",
+    "Value": "88,000 CR\nRARE",
+    "Sp": "5.2",
+    "Ha": "4",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "3.7",
+    "PI": "D311"
+  },
+  {
+    "Vehicle": "Ford Escort RS Cosworth 1992\nAutoshow",
+    "Value": "66,000 CR\nRARE",
+    "Sp": "6",
+    "Ha": "5.3",
+    "Ac": "6",
+    "La": "8",
+    "Br": "5.3",
+    "PI": "C566"
+  },
+  {
+    "Vehicle": "Ford Escort RS Turbo 1986\nComplete its Barn Find rumor",
+    "Value": "25,000 CR\nRARE",
+    "Sp": "5.5",
+    "Ha": "5.2",
+    "Ac": "5.7",
+    "La": "7.3",
+    "Br": "4.9",
+    "PI": "C506"
+  },
+  {
+    "Vehicle": "Ford F-100 1956\nAutoshow",
+    "Value": "36,000 CR\nCOMMON",
+    "Sp": "4.9",
+    "Ha": "3.7",
+    "Ac": "4.9",
+    "La": "6.1",
+    "Br": "3.7",
+    "PI": "D221"
+  },
+  {
+    "Vehicle": "Ford F-150 Prerunner DeBerti Design Truck 2018\nReach Tier 15 in Horizon Life: The Eliminator",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.5",
+    "Ha": "6.3",
+    "Ac": "7.4",
+    "La": "9",
+    "Br": "6.3",
+    "PI": "A750"
+  },
+  {
+    "Vehicle": "Ford F-150 Raptor 2017\nAutoshow",
+    "Value": "63,000 CR\nCOMMON",
+    "Sp": "5.8",
+    "Ha": "5.9",
+    "Ac": "6.4",
+    "La": "8.5",
+    "Br": "5.4",
+    "PI": "B627"
+  },
+  {
+    "Vehicle": "Ford F-150 SVT Raptor 2011\nA possible Wheelspin reward",
+    "Value": "42,000 CR\nRARE",
+    "Sp": "6.1",
+    "Ha": "5.5",
+    "Ac": "5.8",
+    "La": "7.2",
+    "Br": "4.9",
+    "PI": "C564"
+  },
+  {
+    "Vehicle": "Ford Falcon GT F 351 2015\nAutoshow",
+    "Value": "60,000 CR\nRARE",
+    "Sp": "7.5",
+    "Ha": "6.1",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "6.4",
+    "PI": "A739"
+  },
+  {
+    "Vehicle": "Ford Falcon XA GT-HO 1972\nAutoshow",
+    "Value": "80,000 CR\nRARE",
+    "Sp": "7",
+    "Ha": "4.9",
+    "Ac": "5.5",
+    "La": "6.9",
+    "Br": "4.6",
+    "PI": "B608"
+  },
+  {
+    "Vehicle": "Ford Falcon XA GT-HO F.E. 1972\nA possible Wheelspin reward",
+    "Value": "330,000 CR\nFORZA EDITION",
+    "Sp": "7",
+    "Ha": "7.4",
+    "Ac": "7.2",
+    "La": "8.5",
+    "Br": "6.8",
+    "PI": "S1811"
+  },
+  {
+    "Vehicle": "Ford Fiesta ST 2014\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.1",
+    "Ha": "6.1",
+    "Ac": "5.8",
+    "La": "7.4",
+    "Br": "5.7",
+    "PI": "B621"
+  },
+  {
+    "Vehicle": "Ford Fiesta XR2 1981\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "4.8",
+    "Ha": "4.7",
+    "Ac": "4.9",
+    "La": "6.4",
+    "Br": "4.6",
+    "PI": "D324"
+  },
+  {
+    "Vehicle": "Ford Focus RS 2003\nAutoshow",
+    "Value": "30,000 CR\nCOMMON",
+    "Sp": "6",
+    "Ha": "6.2",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "6.4",
+    "PI": "B649"
+  },
+  {
+    "Vehicle": "Ford Focus RS 2009\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.3",
+    "Ha": "6.3",
+    "Ac": "6",
+    "La": "7.6",
+    "Br": "6.5",
+    "PI": "B696"
+  },
+  {
+    "Vehicle": "Ford Focus RS 2017\nAutoshow",
+    "Value": "59,000 CR\nRARE",
+    "Sp": "6.9",
+    "Ha": "6.3",
+    "Ac": "7.3",
+    "La": "9.2",
+    "Br": "6.5",
+    "PI": "A718"
+  },
+  {
+    "Vehicle": "Ford Focus RS Preorder Car 2017\nGifted (Pre-Order bonus) / Forzathon Shop",
+    "Value": "59,000 CR\nRARE",
+    "Sp": "7.4",
+    "Ha": "6.7",
+    "Ac": "9.2",
+    "La": "10",
+    "Br": "7.4",
+    "PI": "A800"
+  },
+  {
+    "Vehicle": "Ford FPV Limited Edition Pursuit Ute 2014\nAutoshow",
+    "Value": "50,000 CR\nRARE",
+    "Sp": "7",
+    "Ha": "5.8",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "5.9",
+    "PI": "A710"
+  },
+  {
+    "Vehicle": "Ford GT 2005\nAutoshow",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "7.1",
+    "Ac": "6.4",
+    "La": "7.3",
+    "Br": "7.4",
+    "PI": "S1810"
+  },
+  {
+    "Vehicle": "Ford GT 2017\nAutoshow",
+    "Value": "400,000 CR\nEPIC",
+    "Sp": "8.6",
+    "Ha": "8.4",
+    "Ac": "7.5",
+    "La": "9",
+    "Br": "8.9",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Ford GT \"Welcome Pack\" 2017\nAutoshow (DLC: Welcome Pack",
+    "Value": "400,000 CR\nLEGENDARY",
+    "Sp": "9.2",
+    "Ha": "10",
+    "Ac": "8.3",
+    "La": "9.6",
+    "Br": "10",
+    "PI": "S2998"
+  },
+  {
+    "Vehicle": "Ford GT40 Mk I 1964\nComplete its Barn Find rumor",
+    "Value": "9,000,000 CR\nLEGENDARY",
+    "Sp": "7.4",
+    "Ha": "6.4",
+    "Ac": "6.2",
+    "La": "7.4",
+    "Br": "5.7",
+    "PI": "A772"
+  },
+  {
+    "Vehicle": "Ford GT70 1970\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "5.9",
+    "Ha": "6.6",
+    "Ac": "5.9",
+    "La": "7",
+    "Br": "5.9",
+    "PI": "B694"
+  },
+  {
+    "Vehicle": "Ford Lotus Cortina 1966\nAutoshow",
+    "Value": "50,000 CR\nCOMMON",
+    "Sp": "5.1",
+    "Ha": "4.6",
+    "Ac": "5.3",
+    "La": "6.7",
+    "Br": "4.6",
+    "PI": "D379"
+  },
+  {
+    "Vehicle": "Ford M-Sport Fiesta RS 2017\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "5.9",
+    "Ha": "7.9",
+    "Ac": "9.9",
+    "La": "10",
+    "Br": "8.2",
+    "PI": "S1819"
+  },
+  {
+    "Vehicle": "Ford Mustang 2+2 Fastback 1968\nAutoshow (DLC: Car Pass)",
+    "Value": "50,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "4.5",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "4.2",
+    "PI": "C505"
+  },
+  {
+    "Vehicle": "Ford Mustang Boss 302 1969\nReach Tier 10 in Horizon Life: Drift Club",
+    "Value": "230,000 CR\nLEGENDARY",
+    "Sp": "6.3",
+    "Ha": "5",
+    "Ac": "5",
+    "La": "5.8",
+    "Br": "4.6",
+    "PI": "C564"
+  },
+  {
+    "Vehicle": "Ford Mustang GT 2018\nAutoshow",
+    "Value": "40,000 CR\nRARE",
+    "Sp": "7.5",
+    "Ha": "6.5",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "6.6",
+    "PI": "A778"
+  },
+  {
+    "Vehicle": "Ford Mustang GT Coupe 1965\nAutoshow",
+    "Value": "46,000 CR\nRARE",
+    "Sp": "6",
+    "Ha": "4.4",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "4.3",
+    "PI": "C507"
+  },
+  {
+    "Vehicle": "Ford Mustang GT DeBerti Design 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "7.1",
+    "Ac": "7.2",
+    "La": "8.8",
+    "Br": "7.3",
+    "PI": "S1835"
+  },
+  {
+    "Vehicle": "Ford Mustang Mach 1 1971\nAutoshow",
+    "Value": "45,000 CR\nEPIC",
+    "Sp": "5.7",
+    "Ha": "4.8",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "4.4",
+    "PI": "C561"
+  },
+  {
+    "Vehicle": "Ford Mustang RTR Spec 5 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "7.1",
+    "Ha": "6.8",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "6.8",
+    "PI": "A780"
+  },
+  {
+    "Vehicle": "Ford Mustang Shelby GT500 2020\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "7.9",
+    "Ac": "7",
+    "La": "8.6",
+    "Br": "8.4",
+    "PI": "S1863"
+  },
+  {
+    "Vehicle": "Ford Racing Puma 1999\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.7",
+    "Ha": "6.1",
+    "Ac": "5.3",
+    "La": "6.7",
+    "Br": "5.6",
+    "PI": "C549"
+  },
+  {
+    "Vehicle": "Ford Ranger Raptor 2019\nAutoshow",
+    "Value": "58,000 CR\nCOMMON",
+    "Sp": "5.5",
+    "Ha": "5.8",
+    "Ac": "4.6",
+    "La": "7.3",
+    "Br": "5.6",
+    "PI": "D498"
+  },
+  {
+    "Vehicle": "Ford Ranger T6 Rally Raid 2014\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "5.4",
+    "Ha": "5.8",
+    "Ac": "7",
+    "La": "10",
+    "Br": "5.8",
+    "PI": "A703"
+  },
+  {
+    "Vehicle": "Ford Roadster \"Hula Girl\" 1932\nAutoshow (DLC: Barrett-Jackson Car Pack)",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "5.2",
+    "Ha": "5.7",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "5.1",
+    "PI": "C590"
+  },
+  {
+    "Vehicle": "Ford RS200 1985\nReach Tier 4 in Horizon Life: Dirt Racing",
+    "Value": "260,000 CR\nLEGENDARY",
+    "Sp": "6.2",
+    "Ha": "7.4",
+    "Ac": "8.2",
+    "La": "8",
+    "Br": "7.2",
+    "PI": "S1839"
+  },
+  {
+    "Vehicle": "Ford Shelby GT350R 2016\nAutoshow",
+    "Value": "75,000 CR\nEPIC",
+    "Sp": "7.7",
+    "Ha": "8.1",
+    "Ac": "7.2",
+    "La": "8.8",
+    "Br": "8.5",
+    "PI": "S1840"
+  },
+  {
+    "Vehicle": "Ford Shelby GT500 2013\nAutoshow",
+    "Value": "115,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "6.4",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "6.4",
+    "PI": "A774"
+  },
+  {
+    "Vehicle": "Ford Sierra Cosworth RS500 1987\nAutoshow",
+    "Value": "66,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "5.7",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "5.2",
+    "PI": "B608"
+  },
+  {
+    "Vehicle": "Ford Super Deluxe Station Wagon 1946\nAutoshow",
+    "Value": "75,000 CR\nCOMMON",
+    "Sp": "4.6",
+    "Ha": "3.7",
+    "Ac": "3.7",
+    "La": "5.4",
+    "Br": "3.6",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Ford Supervan 3 1994\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "5.8",
+    "Ha": "9.4",
+    "Ac": "8.2",
+    "La": "9.6",
+    "Br": "10",
+    "PI": "S1828"
+  },
+  {
+    "Vehicle": "Ford SVT Cobra R 1993\nA possible Wheelspin reward",
+    "Value": "28,000 CR\nCOMMON",
+    "Sp": "6.1",
+    "Ha": "4.8",
+    "Ac": "5.5",
+    "La": "7",
+    "Br": "4.9",
+    "PI": "C533"
+  },
+  {
+    "Vehicle": "Ford SVT Cobra R 2000\nAutoshow",
+    "Value": "55,000 CR\nCOMMON",
+    "Sp": "7.3",
+    "Ha": "5.7",
+    "Ac": "5.8",
+    "La": "7.4",
+    "Br": "5.6",
+    "PI": "B682"
+  },
+  {
+    "Vehicle": "Ford Transit 1965\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "3.8",
+    "Ha": "4.1",
+    "Ac": "3.4",
+    "La": "3",
+    "Br": "4.4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Ford Transit SuperSportVan 2011\nAutoshow",
+    "Value": "50,000 CR\nRARE",
+    "Sp": "5.4",
+    "Ha": "5.1",
+    "Ac": "4.6",
+    "La": "7.1",
+    "Br": "5.1",
+    "PI": "D416"
+  },
+  {
+    "Vehicle": "Ford Transit SuperSportVan F.E. 2011\nGifted (DLC: VIP Membership)",
+    "Value": "50,000 CR\nFORZA EDITION",
+    "Sp": "5.4",
+    "Ha": "9.4",
+    "Ac": "5.4",
+    "La": "8.5",
+    "Br": "9.4",
+    "PI": "B695"
+  },
+  {
+    "Vehicle": "Ford XB Falcon GT 1973\nA possible Wheelspin reward",
+    "Value": "60,000 CR\nRARE",
+    "Sp": "6",
+    "Ha": "4.7",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "4.5",
+    "PI": "C529"
+  },
+  {
+    "Vehicle": "Formula Drift #13 Ford Mustang 2015\nAutoshow (DLC: Formula Drift Car Pack)",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "6.6",
+    "Ha": "7.6",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "7.7",
+    "PI": "S1852"
+  },
+  {
+    "Vehicle": "Formula Drift #43 Dodge Viper SRT10 2006\nAutoshow (DLC: Formula Drift Car Pack)",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.7",
+    "Ha": "7.8",
+    "Ac": "6.6",
+    "La": "8.2",
+    "Br": "7.9",
+    "PI": "S1859"
+  },
+  {
+    "Vehicle": "Formula Drift #64 Nissan 370Z 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "7.7",
+    "Ac": "6.7",
+    "La": "8.4",
+    "Br": "7.6",
+    "PI": "S1884"
+  },
+  {
+    "Vehicle": "Formula Drift #98 BMW 325i 1989\nAutoshow (DLC: Formula Drift Car Pack)",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.4",
+    "Ha": "7.2",
+    "Ac": "6.6",
+    "La": "8.2",
+    "Br": "7.2",
+    "PI": "S1837"
+  },
+  {
+    "Vehicle": "Formula Drift #117 599 GTB Fiorano 2007\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "7.3",
+    "Ha": "8.2",
+    "Ac": "7.2",
+    "La": "8.8",
+    "Br": "8.3",
+    "PI": "S1896"
+  },
+  {
+    "Vehicle": "Formula Drift #118 Nissan 240SX 1995\nAutoshow (DLC: Formula Drift Car Pack)",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "6.5",
+    "Ha": "7.6",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "7.6",
+    "PI": "S1860"
+  },
+  {
+    "Vehicle": "Formula Drift #232 Nissan 240SX 1996\nAutoshow (DLC: Formula Drift Car Pack)",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "7.6",
+    "Ac": "6.5",
+    "La": "8.2",
+    "Br": "7.6",
+    "PI": "S1859"
+  },
+  {
+    "Vehicle": "Formula Drift #530 HSV Maloo Gen-F 2016\nAutoshow (DLC: Formula Drift Car Pack)",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "7.3",
+    "Ac": "6.2",
+    "La": "7.9",
+    "Br": "7.4",
+    "PI": "S1836"
+  },
+  {
+    "Vehicle": "Formula Drift #777 Chevrolet Corvette 2013\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "7",
+    "Ha": "7.8",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "7.8",
+    "PI": "S1885"
+  },
+  {
+    "Vehicle": "Formula Drift #777 Nissan 240SX 1997\nAutoshow (DLC: Formula Drift Car Pack)",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.3",
+    "Ha": "7.5",
+    "Ac": "6.8",
+    "La": "8.4",
+    "Br": "7.5",
+    "PI": "S1861"
+  },
+  {
+    "Vehicle": "Funco Motorsports F9 2018\nExpansion: Fortune Island",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6",
+    "Ha": "6.7",
+    "Ac": "8.7",
+    "La": "9.9",
+    "Br": "6.7",
+    "PI": "S1860"
+  },
+  {
+    "Vehicle": "GMC Syclone 1991\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.1",
+    "Ha": "4.7",
+    "Ac": "6.9",
+    "La": "8.4",
+    "Br": "4.6",
+    "PI": "C545"
+  },
+  {
+    "Vehicle": "GMC Typhoon 1992\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.9",
+    "Ha": "4.6",
+    "Ac": "6.2",
+    "La": "7.7",
+    "Br": "4.5",
+    "PI": "C510"
+  },
+  {
+    "Vehicle": "GMC Vandura G-1500 1983\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "4.7",
+    "Ha": "3.9",
+    "Ac": "4.3",
+    "La": "5.4",
+    "Br": "3.8",
+    "PI": "D151"
+  },
+  {
+    "Vehicle": "HDT VK Commodore Group A 1985\nAutoshow",
+    "Value": "28,000 CR\nRARE",
+    "Sp": "5.9",
+    "Ha": "4.8",
+    "Ac": "5.5",
+    "La": "6.6",
+    "Br": "4.6",
+    "PI": "C545"
+  },
+  {
+    "Vehicle": "Hennessey VelociRaptor 6x6 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "350,000 CR\nLEGENDARY",
+    "Sp": "6",
+    "Ha": "6.6",
+    "Ac": "7.1",
+    "La": "8.9",
+    "Br": "6.4",
+    "PI": "A705"
+  },
+  {
+    "Vehicle": "Hennessey Venom GT 2012\nAutoshow",
+    "Value": "1,200,000 CR\nLEGENDARY",
+    "Sp": "10",
+    "Ha": "8.3",
+    "Ac": "7.6",
+    "La": "9.1",
+    "Br": "8.7",
+    "PI": "S2930"
+  },
+  {
+    "Vehicle": "Hillman Imp 1966\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "4.3",
+    "Ha": "4",
+    "Ac": "3.7",
+    "La": "5.6",
+    "Br": "3.8",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Holden HQ Monaro GTS 350 1973\nAutoshow",
+    "Value": "75,000 CR\nCOMMON",
+    "Sp": "5.7",
+    "Ha": "4.7",
+    "Ac": "5.3",
+    "La": "6.7",
+    "Br": "4.4",
+    "PI": "C524"
+  },
+  {
+    "Vehicle": "Holden Sandman HQ Panel Van 1974\nAutoshow",
+    "Value": "55,000 CR\nCOMMON",
+    "Sp": "5.7",
+    "Ha": "4.7",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.5",
+    "PI": "D500"
+  },
+  {
+    "Vehicle": "Holden Torana A9X 1977\nAutoshow",
+    "Value": "130,000 CR\nRARE",
+    "Sp": "5.8",
+    "Ha": "4.7",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "4.5",
+    "PI": "C507"
+  },
+  {
+    "Vehicle": "Holden VL Commodore Group A SV 1988\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "5.2",
+    "Ac": "5.7",
+    "La": "6.8",
+    "Br": "5.2",
+    "PI": "C578"
+  },
+  {
+    "Vehicle": "Honda Civic Coupe GRC 2016\nAutoshow (DLC: Car Pass)",
+    "Value": "155,000 CR\nEPIC",
+    "Sp": "5.8",
+    "Ha": "7.8",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8",
+    "PI": "S1878"
+  },
+  {
+    "Vehicle": "Honda Civic CRX Mugen 1984\nA \"Hard-to-Find\" vehicle",
+    "Value": "40,000 CR\nCOMMON",
+    "Sp": "5.7",
+    "Ha": "5",
+    "Ac": "4.9",
+    "La": "5.4",
+    "Br": "4.7",
+    "PI": "D492"
+  },
+  {
+    "Vehicle": "Honda Civic RS 1974\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5",
+    "Ha": "4.7",
+    "Ac": "4.3",
+    "La": "6.7",
+    "Br": "4.3",
+    "PI": "D320"
+  },
+  {
+    "Vehicle": "Honda Civic Type R 1997\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "5.3",
+    "Ac": "5.5",
+    "La": "6.8",
+    "Br": "5.2",
+    "PI": "C551"
+  },
+  {
+    "Vehicle": "Honda Civic Type-R 2004\nA possible Wheelspin reward",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "5.8",
+    "Ac": "5.7",
+    "La": "7.2",
+    "Br": "5.5",
+    "PI": "B610"
+  },
+  {
+    "Vehicle": "Honda Civic Type-R 2007\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "6.1",
+    "Ha": "6.2",
+    "Ac": "5.7",
+    "La": "6.9",
+    "Br": "5.3",
+    "PI": "C576"
+  },
+  {
+    "Vehicle": "Honda Civic Type R 2015\nAutoshow",
+    "Value": "38,000 CR\nCOMMON",
+    "Sp": "7",
+    "Ha": "6.4",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "6.6",
+    "PI": "A714"
+  },
+  {
+    "Vehicle": "Honda Civic Type R 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "59,000 CR\nRARE",
+    "Sp": "7.4",
+    "Ha": "6.7",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "6.8",
+    "PI": "A745"
+  },
+  {
+    "Vehicle": "Honda CR-X SiR 1991\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "6",
+    "Ha": "5.1",
+    "Ac": "5",
+    "La": "6",
+    "Br": "4.7",
+    "PI": "C504"
+  },
+  {
+    "Vehicle": "Honda NSX-R 1992\nAutoshow",
+    "Value": "90,000 CR\nEPIC",
+    "Sp": "6.9",
+    "Ha": "6.3",
+    "Ac": "6.6",
+    "La": "7.7",
+    "Br": "6.4",
+    "PI": "A707"
+  },
+  {
+    "Vehicle": "Honda NSX-R 2005\nA possible Wheelspin reward",
+    "Value": "150,000 CR\nEPIC",
+    "Sp": "7",
+    "Ha": "6.4",
+    "Ac": "6.6",
+    "La": "7.8",
+    "Br": "5.9",
+    "PI": "A714"
+  },
+  {
+    "Vehicle": "Honda NSX-R GT 2005\nAutoshow (DLC: Car Pass)",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "7",
+    "Ha": "6.9",
+    "Ac": "6.9",
+    "La": "8.3",
+    "Br": "6.8",
+    "PI": "A744"
+  },
+  {
+    "Vehicle": "Honda Prelude Si 1994\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "5.3",
+    "Ac": "5.5",
+    "La": "7.3",
+    "Br": "4.8",
+    "PI": "D500"
+  },
+  {
+    "Vehicle": "Honda Ridgeline Baja Trophy Truck 2015\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6",
+    "Ha": "6.4",
+    "Ac": "6.8",
+    "La": "8.5",
+    "Br": "6.2",
+    "PI": "A751"
+  },
+  {
+    "Vehicle": "Honda S800 1970\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "4.7",
+    "Ha": "4",
+    "Ac": "5.3",
+    "La": "6.8",
+    "Br": "3.9",
+    "PI": "D193"
+  },
+  {
+    "Vehicle": "Honda S2000 2003\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.6",
+    "Ha": "5.4",
+    "Ac": "5.9",
+    "La": "7.4",
+    "Br": "4.9",
+    "PI": "B618"
+  },
+  {
+    "Vehicle": "Honda S2000 CR 2009\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.4",
+    "Ha": "6.2",
+    "Ac": "6.2",
+    "La": "7.5",
+    "Br": "5.3",
+    "PI": "B647"
+  },
+  {
+    "Vehicle": "Hoonigan Chevrolet Bel Air 1955\nAutoshow",
+    "Value": "76,000 CR\nEPIC",
+    "Sp": "6.5",
+    "Ha": "4.3",
+    "Ac": "5.8",
+    "La": "6.9",
+    "Br": "4.5",
+    "PI": "C571"
+  },
+  {
+    "Vehicle": "Hoonigan Chevrolet \"Napalm Nova\" 1972\nA possible Wheelspin reward",
+    "Value": "50,000 CR\nEPIC",
+    "Sp": "7.3",
+    "Ha": "6.3",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "6.7",
+    "PI": "A765"
+  },
+  {
+    "Vehicle": "Hoonigan Ford Bronco 1974\nA \"Hard-to-Find\" vehicle",
+    "Value": "200,000 CR\nEPIC",
+    "Sp": "5.8",
+    "Ha": "8.5",
+    "Ac": "8.4",
+    "La": "10",
+    "Br": "8.2",
+    "PI": "A721"
+  },
+  {
+    "Vehicle": "Hoonigan Ford Escort RS1800 1978\nAutoshow",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "6.7",
+    "Ha": "7.7",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "8.2",
+    "PI": "S1828"
+  },
+  {
+    "Vehicle": "Hoonigan Ford \"Hoonicorn\" Mustang 1965\nAutoshow",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "9.3",
+    "Ha": "8.2",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.5",
+    "PI": "S2985"
+  },
+  {
+    "Vehicle": "Hoonigan Ford RS200 Evolution 1986\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "8",
+    "Ha": "8.2",
+    "Ac": "10",
+    "La": "10",
+    "Br": "7.9",
+    "PI": "S2932"
+  },
+  {
+    "Vehicle": "Hoonigan Gymkhana 8 Ford Fiesta ST RX43 2015\nExpansion: Fortune Island",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "5.9",
+    "Ha": "7.9",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.5",
+    "PI": "S1886"
+  },
+  {
+    "Vehicle": "Hoonigan Gymkhana 9 Ford Focus RS RX 2016\nAutoshow",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "5.9",
+    "Ha": "7.9",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.5",
+    "PI": "S1886"
+  },
+  {
+    "Vehicle": "Hoonigan Gymkhana 9 Ford Focus RS RX \"Welcome Pack\" 2016\nAutoshow (DLC: Welcome Pack",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "6.6",
+    "Ha": "8.1",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.6",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Hoonigan Gymkhana 10 Ford Escort Cosworth Group A 1991\nAutoshow (DLC: Car Pass)",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "7.4",
+    "Ac": "10",
+    "La": "10",
+    "Br": "7.5",
+    "PI": "S1880"
+  },
+  {
+    "Vehicle": "Hoonigan Gymkhana 10 Ford F-150 'Hoonitruck' 1977\nAutoshow (DLC: Car Pass)",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6.8",
+    "Ha": "8.2",
+    "Ac": "9.2",
+    "La": "10",
+    "Br": "8.7",
+    "PI": "S2916"
+  },
+  {
+    "Vehicle": "Hoonigan Gymkhana 10 Ford Fiesta ST 2017\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "5.7",
+    "Ha": "8.2",
+    "Ac": "9",
+    "La": "10",
+    "Br": "8.4",
+    "PI": "S1828"
+  },
+  {
+    "Vehicle": "Hoonigan Gymkhana 10 Ford Focus RS RX 2016\nReach Tier 10 in Horizon Life: Skill Streak",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "5.9",
+    "Ha": "7.9",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.5",
+    "PI": "S1886"
+  },
+  {
+    "Vehicle": "Hoonigan Gymkhana 10 Ford Hoonicorn Mustang 1965\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "9",
+    "Ha": "8.2",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.5",
+    "PI": "S2985"
+  },
+  {
+    "Vehicle": "Hoonigan Mazda RX-7 Twerkstallion 1992\nAutoshow",
+    "Value": "50,000 CR\nEPIC",
+    "Sp": "8.6",
+    "Ha": "7.3",
+    "Ac": "6.3",
+    "La": "8",
+    "Br": "7.3",
+    "PI": "S1838"
+  },
+  {
+    "Vehicle": "Hoonigan Rauh-Welt Begriff Porsche 911 Turbo 1991\nReach Tier 17 in Horizon Life: Street Scene",
+    "Value": "160,000 CR\nEPIC",
+    "Sp": "7.3",
+    "Ha": "8.6",
+    "Ac": "8.2",
+    "La": "9.5",
+    "Br": "8.5",
+    "PI": "S1850"
+  },
+  {
+    "Vehicle": "Hot Wheels 2JetZ 2018\nAutoshow (DLC: Hot Wheels Legends Car Pack)",
+    "Value": "100,000 CR\nLEGENDARY",
+    "Sp": "7.2",
+    "Ha": "8",
+    "Ac": "8.3",
+    "La": "9.7",
+    "Br": "8.3",
+    "PI": "S1889"
+  },
+  {
+    "Vehicle": "Hot Wheels Bone Shaker 2011\nA \"Hard-to-Find\" vehicle",
+    "Value": "150,000 CR\nLEGENDARY",
+    "Sp": "6.7",
+    "Ha": "7",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "7.4",
+    "PI": "A795"
+  },
+  {
+    "Vehicle": "Hot Wheels Chevrolet LUV 1972\nAutoshow (DLC: Hot Wheels Legends Car Pack)",
+    "Value": "100,000 CR\nLEGENDARY",
+    "Sp": "6.1",
+    "Ha": "5.2",
+    "Ac": "7",
+    "La": "8.2",
+    "Br": "5.4",
+    "PI": "B663"
+  },
+  {
+    "Vehicle": "Hot Wheels Ford F-5 Dually Custom Hot Rod 1949\nAutoshow (DLC: Hot Wheels Legends Car Pack)",
+    "Value": "100,000 CR\nLEGENDARY",
+    "Sp": "5.6",
+    "Ha": "6.5",
+    "Ac": "7",
+    "La": "8.7",
+    "Br": "5.7",
+    "PI": "B634"
+  },
+  {
+    "Vehicle": "Hot Wheels Ford Mustang 2005\nA \"Hard-to-Find\" vehicle",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "7.1",
+    "Ha": "9.2",
+    "Ac": "7.3",
+    "La": "8.8",
+    "Br": "9.7",
+    "PI": "S1841"
+  },
+  {
+    "Vehicle": "Hot Wheels International-Harvester Loadstar CO-1600 1969\nAutoshow (DLC: Hot Wheels Legends Car Pack)",
+    "Value": "100,000 CR\nLEGENDARY",
+    "Sp": "5.2",
+    "Ha": "5.2",
+    "Ac": "6",
+    "La": "7",
+    "Br": "6.1",
+    "PI": "C563"
+  },
+  {
+    "Vehicle": "Hot Wheels Nash Metropolitan Custom 1957\nAutoshow (DLC: Hot Wheels Legends Car Pack)",
+    "Value": "100,000 CR\nLEGENDARY",
+    "Sp": "6.4",
+    "Ha": "4.7",
+    "Ac": "5.2",
+    "La": "6.6",
+    "Br": "4.5",
+    "PI": "C559"
+  },
+  {
+    "Vehicle": "Hot Wheels Rip Rod 2017\nStar Card: PR Stunt",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "6.2",
+    "Ha": "6.4",
+    "Ac": "7.3",
+    "La": "8.8",
+    "Br": "6.3",
+    "PI": "A747"
+  },
+  {
+    "Vehicle": "Hot Wheels Studebaker Golden Hawk 'Dream Roadster' 1957\nAutoshow (DLC: Hot Wheels Legends Car Pack)",
+    "Value": "100,000 CR\nLEGENDARY",
+    "Sp": "6.2",
+    "Ha": "5.3",
+    "Ac": "6.3",
+    "La": "7.6",
+    "Br": "5.9",
+    "PI": "A701"
+  },
+  {
+    "Vehicle": "Hot Wheels Twin Mill 1969\nA \"Hard-to-Find\" vehicle",
+    "Value": "110,000 CR\nLEGENDARY",
+    "Sp": "8.8",
+    "Ha": "6.6",
+    "Ac": "6.2",
+    "La": "7.9",
+    "Br": "7.1",
+    "PI": "S1821"
+  },
+  {
+    "Vehicle": "HSV GEN-F GTS 2014\nAutoshow",
+    "Value": "75,000 CR\nRARE",
+    "Sp": "7.6",
+    "Ha": "6.1",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "6.4",
+    "PI": "A747"
+  },
+  {
+    "Vehicle": "HSV GTS 2011\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "6.1",
+    "Ac": "6.2",
+    "La": "7.6",
+    "Br": "6.1",
+    "PI": "A713"
+  },
+  {
+    "Vehicle": "HSV GTSR 1996\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.7",
+    "Ha": "6.1",
+    "Ac": "5.9",
+    "La": "7.5",
+    "Br": "5.3",
+    "PI": "B669"
+  },
+  {
+    "Vehicle": "HSV Limited Edition Gen-F GTS Maloo 2014\nAutoshow",
+    "Value": "62,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6.4",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "6.9",
+    "PI": "A764"
+  },
+  {
+    "Vehicle": "Hudson Hornet 1952\nA \"Hard-to-Find\" vehicle",
+    "Value": "66,000 CR\nRARE",
+    "Sp": "5",
+    "Ha": "4.2",
+    "Ac": "4.8",
+    "La": "6.5",
+    "Br": "4.3",
+    "PI": "D305"
+  },
+  {
+    "Vehicle": "Hummer H1 Alpha 2006\nA possible Wheelspin reward",
+    "Value": "112,000 CR\nRARE",
+    "Sp": "5.2",
+    "Ha": "5.4",
+    "Ac": "4",
+    "La": "6.2",
+    "Br": "4.9",
+    "PI": "D391"
+  },
+  {
+    "Vehicle": "Hummer H1 Alpha Open Top 2006\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.1",
+    "Ha": "5.4",
+    "Ac": "4.1",
+    "La": "6.5",
+    "Br": "5",
+    "PI": "D382"
+  },
+  {
+    "Vehicle": "Hyundai Veloster N 2019\nAutoshow",
+    "Value": "30,000 CR\nCOMMON",
+    "Sp": "6.7",
+    "Ha": "5.8",
+    "Ac": "6",
+    "La": "7.6",
+    "Br": "5.8",
+    "PI": "B657"
+  },
+  {
+    "Vehicle": "Infiniti Q50 Eau Rouge 2014\nAutoshow",
+    "Value": "100,000 CR\nRARE",
+    "Sp": "8.1",
+    "Ha": "6.4",
+    "Ac": "9.2",
+    "La": "10",
+    "Br": "6.8",
+    "PI": "A783"
+  },
+  {
+    "Vehicle": "Infiniti Q60 Concept 2015\nAutoshow",
+    "Value": "50,000 CR\nRARE",
+    "Sp": "7.4",
+    "Ha": "6.3",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "6.6",
+    "PI": "A757"
+  },
+  {
+    "Vehicle": "International Scout 800A 1970\nAutoshow",
+    "Value": "40,000 CR\nCOMMON",
+    "Sp": "5.1",
+    "Ha": "4.1",
+    "Ac": "4.6",
+    "La": "7.6",
+    "Br": "3.8",
+    "PI": "D334"
+  },
+  {
+    "Vehicle": "Italdesign Zerouno 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "8.7",
+    "Ac": "10",
+    "La": "10",
+    "Br": "9.3",
+    "PI": "S1893"
+  },
+  {
+    "Vehicle": "Jaguar C-Type 1953\nAutoshow (DLC: Car Pass)",
+    "Value": "5,000,000 CR\nLEGENDARY",
+    "Sp": "6.4",
+    "Ha": "4.1",
+    "Ac": "5.2",
+    "La": "6.6",
+    "Br": "4",
+    "PI": "D495"
+  },
+  {
+    "Vehicle": "Jaguar D-Type 1956\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "6.4",
+    "Ha": "4.2",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "3.6",
+    "PI": "C513"
+  },
+  {
+    "Vehicle": "Jaguar E-type S1 1961\nComplete its Barn Find rumor",
+    "Value": "150,000 CR\nLEGENDARY",
+    "Sp": "6",
+    "Ha": "5",
+    "Ac": "5.7",
+    "La": "7",
+    "Br": "4.7",
+    "PI": "C539"
+  },
+  {
+    "Vehicle": "Jaguar F-PACE S 2017\nAutoshow",
+    "Value": "55,000 CR\nCOMMON",
+    "Sp": "6.6",
+    "Ha": "5.9",
+    "Ac": "7",
+    "La": "8.7",
+    "Br": "6",
+    "PI": "B698"
+  },
+  {
+    "Vehicle": "Jaguar F-TYPE Project 7 2016\nAutoshow",
+    "Value": "190,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "7",
+    "Ac": "6.4",
+    "La": "8",
+    "Br": "7.4",
+    "PI": "S1805"
+  },
+  {
+    "Vehicle": "Jaguar F-TYPE R Coupé 2015\nAutoshow",
+    "Value": "110,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "6.5",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "6.9",
+    "PI": "A795"
+  },
+  {
+    "Vehicle": "Jaguar I-Pace 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.5",
+    "Ha": "5.9",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "5.9",
+    "PI": "A706"
+  },
+  {
+    "Vehicle": "Jaguar Lightweight E-Type 1964\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "6.9",
+    "Ha": "5.5",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "5.5",
+    "PI": "A707"
+  },
+  {
+    "Vehicle": "Jaguar Mk II 3.8 1959\nAutoshow",
+    "Value": "80,000 CR\nCOMMON",
+    "Sp": "5.5",
+    "Ha": "4.5",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "4.8",
+    "PI": "D414"
+  },
+  {
+    "Vehicle": "Jaguar XE-S 2015\nAutoshow",
+    "Value": "57,000 CR\nCOMMON",
+    "Sp": "7.3",
+    "Ha": "5.5",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "5.3",
+    "PI": "B660"
+  },
+  {
+    "Vehicle": "Jaguar XJ220 1993\nComplete its Barn Find rumor",
+    "Value": "350,000 CR\nLEGENDARY",
+    "Sp": "8.3",
+    "Ha": "6.8",
+    "Ac": "6.8",
+    "La": "7.6",
+    "Br": "7.1",
+    "PI": "S1811"
+  },
+  {
+    "Vehicle": "Jaguar XFR-S 2015\nAutoshow",
+    "Value": "110,000 CR\nRARE",
+    "Sp": "8",
+    "Ha": "6.2",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "6.5",
+    "PI": "A755"
+  },
+  {
+    "Vehicle": "Jaguar XJ-S 1990\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.8",
+    "Ha": "4.7",
+    "Ac": "4.8",
+    "La": "5.7",
+    "Br": "4.8",
+    "PI": "C557"
+  },
+  {
+    "Vehicle": "Jaguar XK120 SE 1954\nAutoshow",
+    "Value": "120,000 CR\nRARE",
+    "Sp": "5.8",
+    "Ha": "4.5",
+    "Ac": "5.7",
+    "La": "7.1",
+    "Br": "4.4",
+    "PI": "D469"
+  },
+  {
+    "Vehicle": "Jaguar XKR-S 2012\nAutoshow",
+    "Value": "100,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "6.5",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "6.7",
+    "PI": "A782"
+  },
+  {
+    "Vehicle": "Jaguar XKR-S GT 2015\nReach Tier 16 in Horizon Life: Road Racing",
+    "Value": "190,000 CR\nEPIC",
+    "Sp": "7.7",
+    "Ha": "6.9",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "7.5",
+    "PI": "A798"
+  },
+  {
+    "Vehicle": "James Bond Edition AMC Hornet X Hatchback 1974\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "5.7",
+    "Ha": "4.3",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "4.2",
+    "PI": "D414"
+  },
+  {
+    "Vehicle": "James Bond Edition Aston Martin DB5 1964\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "650,000 CR\nLEGENDARY",
+    "Sp": "6.3",
+    "Ha": "5",
+    "Ac": "5.7",
+    "La": "7.2",
+    "Br": "4.7",
+    "PI": "B618"
+  },
+  {
+    "Vehicle": "James Bond Edition Aston Martin DB10 2015\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "220,000 CR\nLEGENDARY",
+    "Sp": "7.7",
+    "Ha": "7.4",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "8",
+    "PI": "S1814"
+  },
+  {
+    "Vehicle": "James Bond Edition Aston Martin DBS 1969\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "650,000 CR\nRARE",
+    "Sp": "7",
+    "Ha": "5",
+    "Ac": "5.8",
+    "La": "7.4",
+    "Br": "5",
+    "PI": "B612"
+  },
+  {
+    "Vehicle": "James Bond Edition Aston Martin DBS 2008\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "325,000 CR\nEPIC",
+    "Sp": "7.7",
+    "Ha": "6.9",
+    "Ac": "6.5",
+    "La": "8.2",
+    "Br": "7.4",
+    "PI": "A779"
+  },
+  {
+    "Vehicle": "James Bond Edition Aston Martin V8 1986\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "200,000 CR\nEPIC",
+    "Sp": "6.9",
+    "Ha": "5.3",
+    "Ac": "5.7",
+    "La": "6.8",
+    "Br": "4.9",
+    "PI": "B620"
+  },
+  {
+    "Vehicle": "James Bond Edition BMW Z8 1999\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "6.9",
+    "Ha": "6.3",
+    "Ac": "6.3",
+    "La": "8",
+    "Br": "5.7",
+    "PI": "A720"
+  },
+  {
+    "Vehicle": "James Bond Edition Citroën 2CV6 1981\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "80,000 CR\nCOMMON",
+    "Sp": "4.1",
+    "Ha": "3.9",
+    "Ac": "4.1",
+    "La": "4.8",
+    "Br": "3.8",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "James Bond Edition Jaguar C-X75 2010\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "1,500,000 CR\nLEGENDARY",
+    "Sp": "8.3",
+    "Ha": "7.9",
+    "Ac": "9.8",
+    "La": "10",
+    "Br": "8.5",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "James Bond Edition Lotus Esprit S1 1977\nAutoshow (DLC: Best of Bond Car Pack)",
+    "Value": "550,000 CR\nLEGENDARY",
+    "Sp": "5.7",
+    "Ha": "5.6",
+    "Ac": "5.6",
+    "La": "6.8",
+    "Br": "5.1",
+    "PI": "C541"
+  },
+  {
+    "Vehicle": "Jeep CJ5 Renegade 1976\nAutoshow",
+    "Value": "60,000 CR\nCOMMON",
+    "Sp": "4.8",
+    "Ha": "4.7",
+    "Ac": "6",
+    "La": "8.9",
+    "Br": "4.6",
+    "PI": "D417"
+  },
+  {
+    "Vehicle": "Jeep CJ5 Renegade \"Welcome Pack\" 1976\nAutoshow (DLC: Welcome Pack",
+    "Value": "60,000 CR\nLEGENDARY",
+    "Sp": "5.6",
+    "Ha": "6.1",
+    "Ac": "7.7",
+    "La": "9",
+    "Br": "5.6",
+    "PI": "B700"
+  },
+  {
+    "Vehicle": "Jeep Gladiator Rubicon 2020\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "5.7",
+    "Ha": "4.8",
+    "Ac": "5.4",
+    "La": "7.1",
+    "Br": "4.7",
+    "PI": "D498"
+  },
+  {
+    "Vehicle": "Jeep Grand Cherokee SRT 2014\nA possible Wheelspin reward",
+    "Value": "80,000 CR\nCOMMON",
+    "Sp": "6.7",
+    "Ha": "6",
+    "Ac": "7.5",
+    "La": "9.3",
+    "Br": "6.1",
+    "PI": "A711"
+  },
+  {
+    "Vehicle": "Jeep Grand Cherokee Trackhawk 2018\nReach Tier 8 in Horizon Life: Cross Country",
+    "Value": "73,000 CR\nRARE",
+    "Sp": "7.4",
+    "Ha": "6.2",
+    "Ac": "9.3",
+    "La": "10",
+    "Br": "6.7",
+    "PI": "A780"
+  },
+  {
+    "Vehicle": "Jeep Trailcat 2016\nReach Tier 3 in Horizon Life: Cross Country",
+    "Value": "75,000 CR\nEPIC",
+    "Sp": "6.8",
+    "Ha": "6.5",
+    "Ac": "7",
+    "La": "8.1",
+    "Br": "5.6",
+    "PI": "A790"
+  },
+  {
+    "Vehicle": "Jeep Wrangler Unlimited DeBerti Design 2013\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.6",
+    "Ha": "6.6",
+    "Ac": "7.7",
+    "La": "8.7",
+    "Br": "6.5",
+    "PI": "A796"
+  },
+  {
+    "Vehicle": "Jeep Wrangler Rubicon 2012\nAutoshow",
+    "Value": "50,000 CR\nCOMMON",
+    "Sp": "5.6",
+    "Ha": "4.8",
+    "Ac": "5.7",
+    "La": "7.3",
+    "Br": "4.3",
+    "PI": "D488"
+  },
+  {
+    "Vehicle": "Kia Stinger 2018\nAutoshow",
+    "Value": "46,000 CR\nCOMMON",
+    "Sp": "7.3",
+    "Ha": "6",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "5.9",
+    "PI": "A715"
+  },
+  {
+    "Vehicle": "Koenigsegg Agera 2011\nAutoshow",
+    "Value": "1,500,000 CR\nLEGENDARY",
+    "Sp": "9.6",
+    "Ha": "8.5",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "8.9",
+    "PI": "S2920"
+  },
+  {
+    "Vehicle": "Koenigsegg Agera RS 2017\nAutoshow (DLC: Car Pass)",
+    "Value": "2,000,000 CR\nLEGENDARY",
+    "Sp": "10",
+    "Ha": "9.5",
+    "Ac": "7.5",
+    "La": "9",
+    "Br": "10",
+    "PI": "S2996"
+  },
+  {
+    "Vehicle": "Koenigsegg CC8S 2002\nExpansion: Fortune Island  Treasure Chest #5",
+    "Value": "320,000 CR\nLEGENDARY",
+    "Sp": "9",
+    "Ha": "8.4",
+    "Ac": "7.3",
+    "La": "8.3",
+    "Br": "8.5",
+    "PI": "S1883"
+  },
+  {
+    "Vehicle": "Koenigsegg CCGT 2008\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "10",
+    "Ac": "7.9",
+    "La": "9.3",
+    "Br": "10",
+    "PI": "S2986"
+  },
+  {
+    "Vehicle": "Koenigsegg CCX 2006\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "9",
+    "Ha": "7.9",
+    "Ac": "7.3",
+    "La": "8.8",
+    "Br": "8.3",
+    "PI": "S1881"
+  },
+  {
+    "Vehicle": "Koenigsegg Jesko 2020\nA \"Hard-to-Find\" vehicle",
+    "Value": "2,800,000 CR\nLEGENDARY",
+    "Sp": "10",
+    "Ha": "9.7",
+    "Ac": "8.3",
+    "La": "9.6",
+    "Br": "10",
+    "PI": "S2998"
+  },
+  {
+    "Vehicle": "Koenigsegg One:1 2015\nAutoshow",
+    "Value": "2,850,000 CR\nLEGENDARY",
+    "Sp": "10",
+    "Ha": "9.8",
+    "Ac": "7.5",
+    "La": "9",
+    "Br": "10",
+    "PI": "S2993"
+  },
+  {
+    "Vehicle": "Koenigsegg Regera 2016\nAutoshow",
+    "Value": "1,900,000 CR\nLEGENDARY",
+    "Sp": "9.2",
+    "Ha": "9.1",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "9.7",
+    "PI": "S2972"
+  },
+  {
+    "Vehicle": "KTM X-Bow GT4 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "400,000 CR\nEPIC",
+    "Sp": "6.3",
+    "Ha": "10",
+    "Ac": "6.7",
+    "La": "7.9",
+    "Br": "10",
+    "PI": "S1861"
+  },
+  {
+    "Vehicle": "KTM X-Bow R 2013\nAutoshow",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "6",
+    "Ha": "9.1",
+    "Ac": "7.5",
+    "La": "9.1",
+    "Br": "9.8",
+    "PI": "S1819"
+  },
+  {
+    "Vehicle": "Lamborghini Aventador J 2012\nExpansion: Fortune Island  Treasure Chest #10",
+    "Value": "2,700,000 CR\nEPIC",
+    "Sp": "8.3",
+    "Ha": "7.9",
+    "Ac": "9.4",
+    "La": "10",
+    "Br": "8.3",
+    "PI": "S1871"
+  },
+  {
+    "Vehicle": "Lamborghini Aventador LP700-4 2012\nAutoshow",
+    "Value": "310,000 CR\nEPIC",
+    "Sp": "8.7",
+    "Ha": "7.8",
+    "Ac": "9.8",
+    "La": "10",
+    "Br": "8.3",
+    "PI": "S1882"
+  },
+  {
+    "Vehicle": "Lamborghini Aventador LP700-4 \"Welcome Pack\" 2012\nAutoshow (DLC: Welcome Pack",
+    "Value": "310,000 CR\nLEGENDARY",
+    "Sp": "8.7",
+    "Ha": "8.4",
+    "Ac": "9.8",
+    "La": "10",
+    "Br": "8.8",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Lamborghini Aventador LP700-4 F.E. 2012\nA possible Wheelspin reward",
+    "Value": "560,000 CR\nFORZA EDITION",
+    "Sp": "9",
+    "Ha": "8.5",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.4",
+    "PI": "S2997"
+  },
+  {
+    "Vehicle": "Lamborghini Aventador Superveloce 2016\nA possible Wheelspin reward",
+    "Value": "480,000 CR\nEPIC",
+    "Sp": "8.7",
+    "Ha": "8.7",
+    "Ac": "10",
+    "La": "10",
+    "Br": "9.1",
+    "PI": "S2906"
+  },
+  {
+    "Vehicle": "Lamborghini Centenario LP 770-4 2016\nAutoshow",
+    "Value": "2,300,000 CR\nLEGENDARY",
+    "Sp": "8.6",
+    "Ha": "9.4",
+    "Ac": "10",
+    "La": "10",
+    "Br": "9.8",
+    "PI": "S2918"
+  },
+  {
+    "Vehicle": "Lamborghini Countach LP5000 QV 1988\nAutoshow",
+    "Value": "220,000 CR\nEPIC",
+    "Sp": "7.4",
+    "Ha": "6.6",
+    "Ac": "6.4",
+    "La": "7.5",
+    "Br": "6",
+    "PI": "A759"
+  },
+  {
+    "Vehicle": "Lamborghini Diablo SV 1997\nAutoshow",
+    "Value": "174,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "6.6",
+    "Ac": "6.8",
+    "La": "8",
+    "Br": "6.5",
+    "PI": "A787"
+  },
+  {
+    "Vehicle": "Lamborghini Diablo GTR 1999\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "9.9",
+    "Ac": "8.2",
+    "La": "9.1",
+    "Br": "10",
+    "PI": "S2915"
+  },
+  {
+    "Vehicle": "Lamborghini Gallardo LP 570-4 Spyder Performante 2012\nAutoshow (DLC: Car Pass)",
+    "Value": "280,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "7",
+    "Ac": "7.9",
+    "La": "8.1",
+    "Br": "7.6",
+    "PI": "S1814"
+  },
+  {
+    "Vehicle": "Lamborghini Gallardo LP 570-4 Superleggera 2011\nAutoshow",
+    "Value": "180,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "7.2",
+    "Ac": "8.4",
+    "La": "9.4",
+    "Br": "7.5",
+    "PI": "S1833"
+  },
+  {
+    "Vehicle": "Lamborghini Huracán LP 610-4 2014\nReach Tier 4 in Horizon Life: Road Racing",
+    "Value": "240,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "7.8",
+    "Ac": "9.2",
+    "La": "10",
+    "Br": "8.4",
+    "PI": "S1866"
+  },
+  {
+    "Vehicle": "Lamborghini Huracán Performante 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "275,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "8.5",
+    "Ac": "10",
+    "La": "10",
+    "Br": "9.1",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Lamborghini Jarama S 1972\nAutoshow (DLC: Car Pass)",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "6.3",
+    "Ha": "4.7",
+    "Ac": "5.5",
+    "La": "6.6",
+    "Br": "4.9",
+    "PI": "C559"
+  },
+  {
+    "Vehicle": "Lamborghini LM 002 1986\nAutoshow",
+    "Value": "180,000 CR\nRARE",
+    "Sp": "6.1",
+    "Ha": "5",
+    "Ac": "4.7",
+    "La": "5.3",
+    "Br": "4.5",
+    "PI": "C553"
+  },
+  {
+    "Vehicle": "Lamborghini Miura P400 1967\nAutoshow",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "6.6",
+    "Ha": "5.2",
+    "Ac": "5.6",
+    "La": "6.6",
+    "Br": "4.8",
+    "PI": "B619"
+  },
+  {
+    "Vehicle": "Lamborghini Murciélago LP 670-4 SV 2010\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "7.4",
+    "Ac": "6.7",
+    "La": "8",
+    "Br": "7.9",
+    "PI": "S1840"
+  },
+  {
+    "Vehicle": "Lamborghini Reventón 2008\nAutoshow",
+    "Value": "1,375,000 CR\nLEGENDARY",
+    "Sp": "8.2",
+    "Ha": "7.4",
+    "Ac": "6.7",
+    "La": "8",
+    "Br": "7.9",
+    "PI": "S1841"
+  },
+  {
+    "Vehicle": "Lamborghini Reventón F.E. 2008\nSkill Tree: Lamborghini Miura P400",
+    "Value": "1,625,000 CR\nFORZA EDITION",
+    "Sp": "8.2",
+    "Ha": "7.7",
+    "Ac": "6.7",
+    "La": "8",
+    "Br": "8.2",
+    "PI": "S1847"
+  },
+  {
+    "Vehicle": "Lamborghini Sesto Elemento 2011\nAutoshow",
+    "Value": "2,500,000 CR\nLEGENDARY",
+    "Sp": "8.1",
+    "Ha": "10",
+    "Ac": "10",
+    "La": "10",
+    "Br": "10",
+    "PI": "S2948"
+  },
+  {
+    "Vehicle": "Lamborghini Urus 2019\nExpansion: Fortune Island  Treasure Chest #2",
+    "Value": "150,000 CR\nEPIC",
+    "Sp": "7.6",
+    "Ha": "6.7",
+    "Ac": "7.6",
+    "La": "9.3",
+    "Br": "7.4",
+    "PI": "A795"
+  },
+  {
+    "Vehicle": "Lamborghini Urus Concept 2014\nAutoshow",
+    "Value": "230,000 CR\nEPIC",
+    "Sp": "7.4",
+    "Ha": "6.5",
+    "Ac": "7",
+    "La": "8.7",
+    "Br": "7.1",
+    "PI": "A774"
+  },
+  {
+    "Vehicle": "Lamborghini Veneno 2013\nAutoshow",
+    "Value": "4,500,000 CR\nLEGENDARY",
+    "Sp": "8.5",
+    "Ha": "10",
+    "Ac": "10",
+    "La": "10",
+    "Br": "10",
+    "PI": "S2943"
+  },
+  {
+    "Vehicle": "Lancia 037 Stradale 1982\nAutoshow",
+    "Value": "95,000 CR\nLEGENDARY",
+    "Sp": "6",
+    "Ha": "5.5",
+    "Ac": "6.1",
+    "La": "7.3",
+    "Br": "5.5",
+    "PI": "C590"
+  },
+  {
+    "Vehicle": "Lancia Delta HF Integrale Evo 1992\nA possible Wheelspin reward",
+    "Value": "60,000 CR\nEPIC",
+    "Sp": "5.7",
+    "Ha": "4.7",
+    "Ac": "6.2",
+    "La": "8",
+    "Br": "5",
+    "PI": "C532"
+  },
+  {
+    "Vehicle": "Lancia Delta S4 1986\nAutoshow",
+    "Value": "146,000 CR\nLEGENDARY",
+    "Sp": "5.8",
+    "Ha": "5.4",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "5.6",
+    "PI": "B638"
+  },
+  {
+    "Vehicle": "Lancia Fulvia Coupé Rallye 1.6 HF 1968\nAutoshow",
+    "Value": "60,000 CR\nRARE",
+    "Sp": "5.5",
+    "Ha": "4.7",
+    "Ac": "5.5",
+    "La": "7",
+    "Br": "4.7",
+    "PI": "D490"
+  },
+  {
+    "Vehicle": "Lancia Stratos HF Stradale 1974\nAutoshow",
+    "Value": "550,000 CR\nLEGENDARY",
+    "Sp": "6.1",
+    "Ha": "4.8",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "4.6",
+    "PI": "C544"
+  },
+  {
+    "Vehicle": "Land Rover Defender 90 1997\nAutoshow",
+    "Value": "30,000 CR\nCOMMON",
+    "Sp": "4.8",
+    "Ha": "4.8",
+    "Ac": "4.6",
+    "La": "5.5",
+    "Br": "4.5",
+    "PI": "D357"
+  },
+  {
+    "Vehicle": "Land Rover Range Rover 1973\nComplete its Barn Find rumor",
+    "Value": "50,000 CR\nCOMMON",
+    "Sp": "4.5",
+    "Ha": "4.6",
+    "Ac": "4.3",
+    "La": "6.7",
+    "Br": "4.4",
+    "PI": "D235"
+  },
+  {
+    "Vehicle": "Land Rover Range Rover Sport SVR 2015\nAutoshow",
+    "Value": "133,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6.2",
+    "Ac": "7.5",
+    "La": "9.2",
+    "Br": "6.4",
+    "PI": "A752"
+  },
+  {
+    "Vehicle": "Land Rover Range Rover Velar First Edition 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "85,000 CR\nEPIC",
+    "Sp": "6.7",
+    "Ha": "5.8",
+    "Ac": "6.1",
+    "La": "8",
+    "Br": "5.9",
+    "PI": "B658"
+  },
+  {
+    "Vehicle": "Land Rover Series III 1972\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "3.9",
+    "Ha": "4",
+    "Ac": "3.7",
+    "La": "4.7",
+    "Br": "4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Land Rover Series III F.E. 1972\nA possible Wheelspin reward",
+    "Value": "270,000 CR\nFORZA EDITION",
+    "Sp": "6.6",
+    "Ha": "6.3",
+    "Ac": "7.6",
+    "La": "8.8",
+    "Br": "5.6",
+    "PI": "S1802"
+  },
+  {
+    "Vehicle": "LEGO Speed Champions Bugatti Chiron 2019\nExpansion: LEGO Speed Champions",
+    "Value": "2,400,000 CR\nLEGENDARY",
+    "Sp": "10",
+    "Ha": "8",
+    "Ac": "9.4",
+    "La": "10",
+    "Br": "9",
+    "PI": "S2937"
+  },
+  {
+    "Vehicle": "LEGO Speed Champions Ferrari F40 Competizione 1987\nExpansion: LEGO Speed Champions",
+    "Value": "3,000,000 CR\nLEGENDARY",
+    "Sp": "8",
+    "Ha": "10",
+    "Ac": "8.7",
+    "La": "7.1",
+    "Br": "10",
+    "PI": "S2973"
+  },
+  {
+    "Vehicle": "LEGO Speed Champions McLaren Senna 2019\nExpansion: LEGO Speed Champions",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "8.7",
+    "Ha": "10",
+    "Ac": "9.3",
+    "La": "10",
+    "Br": "10",
+    "PI": "S2978"
+  },
+  {
+    "Vehicle": "LEGO Speed Champions Mini Cooper S Rally 1967\nExpansion: LEGO Speed Champions",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6.4",
+    "Ha": "8.1",
+    "Ac": "8.8",
+    "La": "10",
+    "Br": "8.3",
+    "PI": "S1831"
+  },
+  {
+    "Vehicle": "LEGO Speed Champions Porsche 911 Turbo 3.0 1974\nExpansion: LEGO Speed Champions  (Barn Find)",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "7.6",
+    "Ha": "9.4",
+    "Ac": "8.5",
+    "La": "9.8",
+    "Br": "10",
+    "PI": "S1898"
+  },
+  {
+    "Vehicle": "Lexus IS F 2009\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "7.5",
+    "Ha": "6.1",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "6.1",
+    "PI": "A737"
+  },
+  {
+    "Vehicle": "Lexus LFA 2010\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "7.1",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "7.8",
+    "PI": "S1826"
+  },
+  {
+    "Vehicle": "Lexus RC F 2015\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.2",
+    "Ha": "6.5",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "6.7",
+    "PI": "A761"
+  },
+  {
+    "Vehicle": "Local Motors Rally Fighter 2014\nAutoshow",
+    "Value": "100,000 CR\nEPIC",
+    "Sp": "6.7",
+    "Ha": "6.4",
+    "Ac": "6.1",
+    "La": "7.3",
+    "Br": "5.9",
+    "PI": "A760"
+  },
+  {
+    "Vehicle": "Lola #6 Penske Sunoco T70 MkIIIB 1969\nAutoshow",
+    "Value": "850,000 CR\nEPIC",
+    "Sp": "7.4",
+    "Ha": "6.8",
+    "Ac": "7.9",
+    "La": "9.4",
+    "Br": "6.6",
+    "PI": "S1828"
+  },
+  {
+    "Vehicle": "Lotus 2-Eleven 2009\nA possible Wheelspin reward",
+    "Value": "130,000 CR\nEPIC",
+    "Sp": "6.2",
+    "Ha": "9.3",
+    "Ac": "7.4",
+    "La": "8.9",
+    "Br": "9.9",
+    "PI": "S1813"
+  },
+  {
+    "Vehicle": "Lotus 3-Eleven 2016\nAutoshow",
+    "Value": "150,000 CR\nEPIC",
+    "Sp": "6.8",
+    "Ha": "9.3",
+    "Ac": "8",
+    "La": "9.4",
+    "Br": "9.9",
+    "PI": "S1870"
+  },
+  {
+    "Vehicle": "Lotus 340R 2000\nAutoshow",
+    "Value": "40,000 CR\nRARE",
+    "Sp": "5.6",
+    "Ha": "7.6",
+    "Ac": "7.1",
+    "La": "8.5",
+    "Br": "7.8",
+    "PI": "A706"
+  },
+  {
+    "Vehicle": "Lotus Elan Sprint 1971\nAutoshow",
+    "Value": "57,000 CR\nCOMMON",
+    "Sp": "5.5",
+    "Ha": "5",
+    "Ac": "5.3",
+    "La": "6.3",
+    "Br": "4.7",
+    "PI": "D456"
+  },
+  {
+    "Vehicle": "Lotus Eleven 1956\nAutoshow",
+    "Value": "140,000 CR\nLEGENDARY",
+    "Sp": "5.7",
+    "Ha": "5.7",
+    "Ac": "5.3",
+    "La": "6.3",
+    "Br": "5.2",
+    "PI": "C553"
+  },
+  {
+    "Vehicle": "Lotus Elise 111S 2005\nA possible Wheelspin reward",
+    "Value": "45,000 CR\nCOMMON",
+    "Sp": "5.7",
+    "Ha": "7",
+    "Ac": "6.3",
+    "La": "7.8",
+    "Br": "7",
+    "PI": "B650"
+  },
+  {
+    "Vehicle": "Lotus Elise Series 1 Sport 190 1999\nA \"Hard-to-Find\" vehicle",
+    "Value": "81,000 CR\nLEGENDARY",
+    "Sp": "6.1",
+    "Ha": "6.9",
+    "Ac": "7.2",
+    "La": "8.6",
+    "Br": "6.8",
+    "PI": "A728"
+  },
+  {
+    "Vehicle": "Lotus Elise GT1 1997\nComplete its Barn Find rumor",
+    "Value": "1,800,000 CR\nLEGENDARY",
+    "Sp": "6.8",
+    "Ha": "8.6",
+    "Ac": "7.2",
+    "La": "8.4",
+    "Br": "9",
+    "PI": "S1815"
+  },
+  {
+    "Vehicle": "Lotus Esprit V8 2002\nAutoshow",
+    "Value": "42,000 CR\nRARE",
+    "Sp": "7.3",
+    "Ha": "6.6",
+    "Ac": "7",
+    "La": "8.6",
+    "Br": "6.5",
+    "PI": "A756"
+  },
+  {
+    "Vehicle": "Lotus Evora S 2011\nAutoshow",
+    "Value": "43,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6.6",
+    "Ac": "7.2",
+    "La": "8.8",
+    "Br": "6.6",
+    "PI": "A748"
+  },
+  {
+    "Vehicle": "Lotus Exige S 2012\nAutoshow",
+    "Value": "85,000 CR\nRARE",
+    "Sp": "7",
+    "Ha": "7.1",
+    "Ac": "7.4",
+    "La": "8.9",
+    "Br": "7.4",
+    "PI": "A772"
+  },
+  {
+    "Vehicle": "Maserati 8CTF 1939\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "7.3",
+    "Ha": "5.2",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.8",
+    "PI": "B648"
+  },
+  {
+    "Vehicle": "Maserati 300 S 1957\nAutoshow",
+    "Value": "6,000,000 CR\nLEGENDARY",
+    "Sp": "6.2",
+    "Ha": "5.3",
+    "Ac": "5.8",
+    "La": "7",
+    "Br": "4.7",
+    "PI": "B668"
+  },
+  {
+    "Vehicle": "Maserati A6GCS/53 Pininfarina Berlinetta 1953\nAutoshow",
+    "Value": "2,000,000 CR\nLEGENDARY",
+    "Sp": "5.5",
+    "Ha": "4.8",
+    "Ac": "4.7",
+    "La": "5.1",
+    "Br": "4.6",
+    "PI": "D486"
+  },
+  {
+    "Vehicle": "Maserati Ghibli S Q4 2014\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "7.3",
+    "Ha": "6.1",
+    "Ac": "7.2",
+    "La": "9",
+    "Br": "6.1",
+    "PI": "A737"
+  },
+  {
+    "Vehicle": "Maserati Gran Turismo S 2010\nAutoshow",
+    "Value": "156,000 CR\nRARE",
+    "Sp": "7.4",
+    "Ha": "6.3",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "6.3",
+    "PI": "A727"
+  },
+  {
+    "Vehicle": "Maserati Levante S 2017\nA \"Hard-to-Find\" vehicle",
+    "Value": "85,000 CR\nCOMMON",
+    "Sp": "7.2",
+    "Ha": "5.9",
+    "Ac": "6.7",
+    "La": "8",
+    "Br": "6.2",
+    "PI": "A723"
+  },
+  {
+    "Vehicle": "Maserati MC12 2004\nAutoshow",
+    "Value": "1,000,000 CR\nEPIC",
+    "Sp": "8.4",
+    "Ha": "8",
+    "Ac": "7.5",
+    "La": "9.1",
+    "Br": "8.3",
+    "PI": "S1861"
+  },
+  {
+    "Vehicle": "Maserati MC12 F.E. 2004\nSkill Tree: Maserati 300 S",
+    "Value": "1,250,000 CR\nFORZA EDITION",
+    "Sp": "8.4",
+    "Ha": "10",
+    "Ac": "8.8",
+    "La": "9.9",
+    "Br": "10",
+    "PI": "S2945"
+  },
+  {
+    "Vehicle": "Maserati MC12 Versione Corsa 2008\nA \"Hard-to-Find\" vehicle",
+    "Value": "2,500,000 CR\nLEGENDARY",
+    "Sp": "8.1",
+    "Ha": "10",
+    "Ac": "8.9",
+    "La": "10",
+    "Br": "10",
+    "PI": "S2993"
+  },
+  {
+    "Vehicle": "Maserati Tipo 61 Birdcage 1961\nAutoshow",
+    "Value": "2,400,000 CR\nLEGENDARY",
+    "Sp": "7",
+    "Ha": "5.9",
+    "Ac": "6.3",
+    "La": "8",
+    "Br": "5.7",
+    "PI": "A747"
+  },
+  {
+    "Vehicle": "Mazda Mazdaspeed MX-5 2005\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "6.1",
+    "Ac": "5.2",
+    "La": "7.8",
+    "Br": "5.7",
+    "PI": "B605"
+  },
+  {
+    "Vehicle": "Mazda MX-5 2013\nAutoshow",
+    "Value": "26,000 CR\nCOMMON",
+    "Sp": "5.7",
+    "Ha": "5.5",
+    "Ac": "5.7",
+    "La": "7.4",
+    "Br": "5",
+    "PI": "C525"
+  },
+  {
+    "Vehicle": "Mazda MX-5 2016\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "6.2",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "5.7",
+    "PI": "B625"
+  },
+  {
+    "Vehicle": "Mazda MX-5 Miata 1994\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5.5",
+    "Ha": "4.9",
+    "Ac": "5.2",
+    "La": "6.4",
+    "Br": "4.3",
+    "PI": "D428"
+  },
+  {
+    "Vehicle": "Mazda RX-3 1973\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.2",
+    "Ha": "4.5",
+    "Ac": "5.3",
+    "La": "6.7",
+    "Br": "4.4",
+    "PI": "D359"
+  },
+  {
+    "Vehicle": "Mazda RX-7 1997\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "7.2",
+    "Ha": "6",
+    "Ac": "6.3",
+    "La": "8",
+    "Br": "5.1",
+    "PI": "B681"
+  },
+  {
+    "Vehicle": "Mazda RX-7 GSL-SE 1985\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "5.7",
+    "Ha": "4.7",
+    "Ac": "5.2",
+    "La": "7.1",
+    "Br": "4.5",
+    "PI": "D427"
+  },
+  {
+    "Vehicle": "Mazda RX-7 Spirit R Type-A 2002\nAutoshow (DLC: Car Pass)",
+    "Value": "30,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6.2",
+    "Ac": "6.3",
+    "La": "8",
+    "Br": "5.7",
+    "PI": "A711"
+  },
+  {
+    "Vehicle": "Mazda RX-8 R3 2011\nAutoshow",
+    "Value": "27,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "6",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "5.6",
+    "PI": "B638"
+  },
+  {
+    "Vehicle": "Mazda Cosmo 110S Series II 1972\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.5",
+    "Ha": "4.5",
+    "Ac": "4.9",
+    "La": "6",
+    "Br": "4.4",
+    "PI": "D363"
+  },
+  {
+    "Vehicle": "Mazda Savanna RX-7 1990\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.5",
+    "Ha": "5.3",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "5.3",
+    "PI": "C561"
+  },
+  {
+    "Vehicle": "McLaren 12C Coupé 2011\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "7.5",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "7.8",
+    "PI": "S1854"
+  },
+  {
+    "Vehicle": "McLaren 570S Coupé 2015\nAutoshow",
+    "Value": "224,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "7.5",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "8",
+    "PI": "S1848"
+  },
+  {
+    "Vehicle": "McLaren 600LT Coupé 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "8.5",
+    "Ac": "7.7",
+    "La": "9.2",
+    "Br": "9",
+    "PI": "S1890"
+  },
+  {
+    "Vehicle": "McLaren 650S Coupé 2015\nAutoshow",
+    "Value": "420,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "7.9",
+    "Ac": "7.5",
+    "La": "9.1",
+    "Br": "8.6",
+    "PI": "S1877"
+  },
+  {
+    "Vehicle": "McLaren 650S Spider 2014\nAutoshow (DLC: Car Pass)",
+    "Value": "420,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "7.9",
+    "Ac": "7.5",
+    "La": "9.1",
+    "Br": "8.6",
+    "PI": "S1873"
+  },
+  {
+    "Vehicle": "McLaren 720S Coupe 2018\nAutoshow",
+    "Value": "340,000 CR\nEPIC",
+    "Sp": "8.6",
+    "Ha": "8.9",
+    "Ac": "7.9",
+    "La": "9.4",
+    "Br": "9.4",
+    "PI": "S2929"
+  },
+  {
+    "Vehicle": "McLaren 720S Coupe Preorder Car 2018\nGifted (Pre-Order bonus)",
+    "Value": "340,000 CR\nEPIC",
+    "Sp": "9.2",
+    "Ha": "10",
+    "Ac": "8.6",
+    "La": "9.8",
+    "Br": "10",
+    "PI": "S2998"
+  },
+  {
+    "Vehicle": "McLaren 720S Spider 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "8.7",
+    "Ac": "7.9",
+    "La": "9.3",
+    "Br": "9.4",
+    "PI": "S2914"
+  },
+  {
+    "Vehicle": "McLaren F1 1993\nAutoshow",
+    "Value": "2,000,000 CR\nLEGENDARY",
+    "Sp": "9",
+    "Ha": "6.9",
+    "Ac": "7.3",
+    "La": "8.5",
+    "Br": "7.2",
+    "PI": "S1826"
+  },
+  {
+    "Vehicle": "McLaren F1 GT 1997\nAutoshow",
+    "Value": "5,200,000 CR\nLEGENDARY",
+    "Sp": "8.7",
+    "Ha": "8.3",
+    "Ac": "7.6",
+    "La": "8.9",
+    "Br": "8.6",
+    "PI": "S1888"
+  },
+  {
+    "Vehicle": "McLaren P1 2013\nAutoshow",
+    "Value": "1,350,000 CR\nLEGENDARY",
+    "Sp": "9.3",
+    "Ha": "9.3",
+    "Ac": "7.9",
+    "La": "9.3",
+    "Br": "9.7",
+    "PI": "S2962"
+  },
+  {
+    "Vehicle": "McLaren P1 'Owen's Edition' 2013\nUnreleased (Exclusive Gift)",
+    "Value": "1,200,000 CR\nLEGENDARY",
+    "Sp": "9.3",
+    "Ha": "9.9",
+    "Ac": "8.4",
+    "La": "9.6",
+    "Br": "10",
+    "PI": "S2957"
+  },
+  {
+    "Vehicle": "McLaren Senna 2018\nAutoshow",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "8.4",
+    "Ha": "10",
+    "Ac": "8.7",
+    "La": "9.9",
+    "Br": "10",
+    "PI": "S2977"
+  },
+  {
+    "Vehicle": "McLaren Speedtail 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "2,250,000 CR\nLEGENDARY",
+    "Sp": "9.7",
+    "Ha": "8.5",
+    "Ac": "7.9",
+    "La": "9.3",
+    "Br": "8.7",
+    "PI": "S2940"
+  },
+  {
+    "Vehicle": "Mercedes-AMG C 63 S Coupé 2016\nAutoshow",
+    "Value": "90,000 CR\nRARE",
+    "Sp": "7.5",
+    "Ha": "6.6",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "7.2",
+    "PI": "A777"
+  },
+  {
+    "Vehicle": "Mercedes-AMG E 63 S 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "8",
+    "Ha": "6.5",
+    "Ac": "9.3",
+    "La": "10",
+    "Br": "7",
+    "PI": "S1805"
+  },
+  {
+    "Vehicle": "Mercedes-AMG GT 4-Door Coupé 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "105,000 CR\nRARE",
+    "Sp": "8.3",
+    "Ha": "6.2",
+    "Ac": "9.1",
+    "La": "10",
+    "Br": "6.5",
+    "PI": "A797"
+  },
+  {
+    "Vehicle": "Mercedes-AMG GT R 2017\nAutoshow",
+    "Value": "295,000 CR\nRARE",
+    "Sp": "7.6",
+    "Ha": "7.9",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "8.6",
+    "PI": "S1858"
+  },
+  {
+    "Vehicle": "Mercedes-AMG GT R Preorder Car 2017\nGifted (Pre-Order bonus) / Gifted",
+    "Value": "295,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "8.5",
+    "Ac": "7.8",
+    "La": "9.3",
+    "Br": "9.1",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Mercedes-AMG GT S 2015\nAutoshow",
+    "Value": "157,000 CR\nRARE",
+    "Sp": "7.6",
+    "Ha": "7.3",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "7.9",
+    "PI": "S1820"
+  },
+  {
+    "Vehicle": "Mercedes-Benz #24 Tankpool24 Racing Truck 2015\nAutoshow",
+    "Value": "500,000 CR\nRARE",
+    "Sp": "6",
+    "Ha": "6",
+    "Ac": "6.9",
+    "La": "8.6",
+    "Br": "6.8",
+    "PI": "B682"
+  },
+  {
+    "Vehicle": "Mercedes-Benz 190E 2.5-16 Evolution II 1990\nAutoshow",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "6.6",
+    "Ha": "5.3",
+    "Ac": "5.7",
+    "La": "7.2",
+    "Br": "5.4",
+    "PI": "C579"
+  },
+  {
+    "Vehicle": "Mercedes-Benz 280 SL 1967\nA \"Hard-to-Find\" vehicle",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "5.6",
+    "Ha": "4.6",
+    "Ac": "4.8",
+    "La": "7",
+    "Br": "4.8",
+    "PI": "D448"
+  },
+  {
+    "Vehicle": "Mercedes-Benz 300 SL Coupé 1954\nAutoshow",
+    "Value": "1,200,000 CR\nLEGENDARY",
+    "Sp": "6",
+    "Ha": "4.5",
+    "Ac": "5.4",
+    "La": "6.4",
+    "Br": "4.4",
+    "PI": "D476"
+  },
+  {
+    "Vehicle": "Mercedes-Benz 300 SLR 1955\nAutoshow",
+    "Value": "8,000,000 CR\nLEGENDARY",
+    "Sp": "7.1",
+    "Ha": "5.8",
+    "Ac": "6.1",
+    "La": "7.1",
+    "Br": "4.9",
+    "PI": "A708"
+  },
+  {
+    "Vehicle": "Mercedes-Benz A 45 AMG 2013\nAutoshow",
+    "Value": "65,000 CR\nRARE",
+    "Sp": "7.3",
+    "Ha": "6.1",
+    "Ac": "8",
+    "La": "9.8",
+    "Br": "6.4",
+    "PI": "A722"
+  },
+  {
+    "Vehicle": "Mercedes-Benz AMG CLK GTR 1998\nAutoshow",
+    "Value": "2,000,000 CR\nLEGENDARY",
+    "Sp": "7.7",
+    "Ha": "7.8",
+    "Ac": "7.2",
+    "La": "8.6",
+    "Br": "8.1",
+    "PI": "S1848"
+  },
+  {
+    "Vehicle": "Mercedes-Benz AMG Hammer Coupe 1987\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "5.7",
+    "Ac": "5.9",
+    "La": "6.9",
+    "Br": "5.7",
+    "PI": "A701"
+  },
+  {
+    "Vehicle": "Mercedes-Benz C 63 AMG Coupé Black Series 2012\nAutoshow",
+    "Value": "143,000 CR\nRARE",
+    "Sp": "8.1",
+    "Ha": "6.6",
+    "Ac": "6.4",
+    "La": "8",
+    "Br": "7",
+    "PI": "A792"
+  },
+  {
+    "Vehicle": "Mercedes-Benz E 350 D 4MATIC Terrain \"Project E-AT\" 2017\nReach Tier 4 in Horizon Life: Top Gear",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.7",
+    "Ha": "5.6",
+    "Ac": "5.9",
+    "La": "9",
+    "Br": "5.3",
+    "PI": "C578"
+  },
+  {
+    "Vehicle": "Mercedes-Benz E 63 AMG 2013\nA possible Wheelspin reward",
+    "Value": "105,000 CR\nRARE",
+    "Sp": "8.1",
+    "Ha": "6.2",
+    "Ac": "8.4",
+    "La": "9.8",
+    "Br": "6.5",
+    "PI": "A777"
+  },
+  {
+    "Vehicle": "Mercedes-Benz G 65 AMG 2013\nAutoshow",
+    "Value": "261,000 CR\nRARE",
+    "Sp": "6.6",
+    "Ha": "5.6",
+    "Ac": "8",
+    "La": "10",
+    "Br": "5.6",
+    "PI": "A712"
+  },
+  {
+    "Vehicle": "Mercedes-Benz G 63 AMG 6x6 2014\nReach Tier 7 in Horizon Life: Top Gear",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.4",
+    "Ha": "6.6",
+    "Ac": "5.7",
+    "La": "8.9",
+    "Br": "6",
+    "PI": "B674"
+  },
+  {
+    "Vehicle": "Mercedes-Benz SL 65 AMG Black Series 2009\nAutoshow",
+    "Value": "210,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "7",
+    "Ac": "6.7",
+    "La": "8.3",
+    "Br": "7.3",
+    "PI": "S1820"
+  },
+  {
+    "Vehicle": "Mercedes-Benz SL 65 AMG Black Series F.E. 2009\nSkill Tree: Mercedes-Benz 300 SL Coupé",
+    "Value": "460,000 CR\nFORZA EDITION",
+    "Sp": "8.2",
+    "Ha": "7",
+    "Ac": "6.7",
+    "La": "8.3",
+    "Br": "7.3",
+    "PI": "S1820"
+  },
+  {
+    "Vehicle": "Mercedes-Benz SLK 55 AMG 2012\nAutoshow",
+    "Value": "78,000 CR\nRARE",
+    "Sp": "7.7",
+    "Ha": "6.5",
+    "Ac": "6.6",
+    "La": "8.2",
+    "Br": "6.8",
+    "PI": "A766"
+  },
+  {
+    "Vehicle": "Mercedes-Benz SLS AMG 2011\nAutoshow",
+    "Value": "200,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "6.9",
+    "Ac": "6.9",
+    "La": "8.5",
+    "Br": "7.4",
+    "PI": "S1822"
+  },
+  {
+    "Vehicle": "Mercedes-Benz Super Sport Kurz Barker Roadster 1929\nAutoshow (DLC: Car Pass)",
+    "Value": "5,000,000 CR\nLEGENDARY",
+    "Sp": "5.1",
+    "Ha": "3.8",
+    "Ac": "4.8",
+    "La": "6",
+    "Br": "3.7",
+    "PI": "D229"
+  },
+  {
+    "Vehicle": "Mercedes-Benz Unimog U5023 2014\nAutoshow",
+    "Value": "100,000 CR\nCOMMON",
+    "Sp": "3.8",
+    "Ha": "6.4",
+    "Ac": "3.4",
+    "La": "3.5",
+    "Br": "4.2",
+    "PI": "D163"
+  },
+  {
+    "Vehicle": "Mercedes-Benz W154 1939\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "8.3",
+    "Ha": "5.1",
+    "Ac": "5.6",
+    "La": "7.2",
+    "Br": "4.7",
+    "PI": "B676"
+  },
+  {
+    "Vehicle": "Mercedes-Benz X-Class 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "65,000 CR\nCOMMON",
+    "Sp": "5.2",
+    "Ha": "5.5",
+    "Ac": "4.4",
+    "La": "6.7",
+    "Br": "5.2",
+    "PI": "D417"
+  },
+  {
+    "Vehicle": "Mercury Cougar Eliminator 1970\nReach Tier 24 in Horizon Life: The Eliminator",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.4",
+    "Ha": "4.7",
+    "Ac": "5.1",
+    "La": "6.4",
+    "Br": "4.3",
+    "PI": "C548"
+  },
+  {
+    "Vehicle": "Mercury Coupe 1949\nAutoshow",
+    "Value": "45,000 CR\nCOMMON",
+    "Sp": "4.6",
+    "Ha": "3.9",
+    "Ac": "4.4",
+    "La": "6.3",
+    "Br": "3.7",
+    "PI": "D158"
+  },
+  {
+    "Vehicle": "Meyers Manx 1971\nAutoshow",
+    "Value": "35,000 CR\nRARE",
+    "Sp": "4.3",
+    "Ha": "4.8",
+    "Ac": "4.8",
+    "La": "6",
+    "Br": "4.7",
+    "PI": "D218"
+  },
+  {
+    "Vehicle": "MG Metro 6R4 1986\nAutoshow",
+    "Value": "125,000 CR\nLEGENDARY",
+    "Sp": "5.5",
+    "Ha": "8.6",
+    "Ac": "9.9",
+    "La": "10",
+    "Br": "8.8",
+    "PI": "S1852"
+  },
+  {
+    "Vehicle": "MG MGA Twin-Cam 1958\nAutoshow",
+    "Value": "40,000 CR\nCOMMON",
+    "Sp": "4.9",
+    "Ha": "3.9",
+    "Ac": "4.8",
+    "La": "6.3",
+    "Br": "3.7",
+    "PI": "D222"
+  },
+  {
+    "Vehicle": "MG MGB GT 1965\nComplete its Barn Find rumor",
+    "Value": "30,000 CR\nCOMMON",
+    "Sp": "5",
+    "Ha": "4.5",
+    "Ac": "4.7",
+    "La": "6.6",
+    "Br": "4.5",
+    "PI": "D316"
+  },
+  {
+    "Vehicle": "MG TA Midget 1938\nAutoshow (DLC: Car Pass)",
+    "Value": "50,000 CR\nCOMMON",
+    "Sp": "3.9",
+    "Ha": "3.9",
+    "Ac": "3.6",
+    "La": "5",
+    "Br": "3.9",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "MINI Cooper S 1965\nComplete its Barn Find rumor",
+    "Value": "30,000 CR\nLEGENDARY",
+    "Sp": "4.7",
+    "Ha": "4",
+    "Ac": "4.5",
+    "La": "6.2",
+    "Br": "3.9",
+    "PI": "D205"
+  },
+  {
+    "Vehicle": "MINI John Cooper Works 2009\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "6.2",
+    "Ac": "5.8",
+    "La": "7.4",
+    "Br": "6.5",
+    "PI": "B639"
+  },
+  {
+    "Vehicle": "MINI John Cooper Works Convertible 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "5.9",
+    "Ac": "5.8",
+    "La": "7.3",
+    "Br": "6.1",
+    "PI": "B639"
+  },
+  {
+    "Vehicle": "MINI John Cooper Works Countryman All4 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "5.6",
+    "Ac": "5.6",
+    "La": "8.1",
+    "Br": "5.3",
+    "PI": "C580"
+  },
+  {
+    "Vehicle": "MINI John Cooper Works GP 2012\nA possible Wheelspin reward",
+    "Value": "38,000 CR\nRARE",
+    "Sp": "6.2",
+    "Ha": "5.8",
+    "Ac": "5.8",
+    "La": "7.4",
+    "Br": "5.7",
+    "PI": "B642"
+  },
+  {
+    "Vehicle": "MINI X-Raid All4 Racing Countryman 2014\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "4.4",
+    "Ha": "5.8",
+    "Ac": "6.8",
+    "La": "9.9",
+    "Br": "5.9",
+    "PI": "B682"
+  },
+  {
+    "Vehicle": "MINI X-Raid John Cooper Works Buggy 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "5.4",
+    "Ha": "6.4",
+    "Ac": "6.5",
+    "La": "9.1",
+    "Br": "6.3",
+    "PI": "B674"
+  },
+  {
+    "Vehicle": "Mitsubishi Eclipse GSX 1995\nAutoshow (DLC: Mitsubishi Motors Car Pack)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.6",
+    "Ha": "5.2",
+    "Ac": "5.7",
+    "La": "7.8",
+    "Br": "4.7",
+    "PI": "C543"
+  },
+  {
+    "Vehicle": "Mitsubishi Galant VR-4 1992\nAutoshow (DLC: Mitsubishi Motors Car Pack)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "4.8",
+    "Ac": "6.3",
+    "La": "8.2",
+    "Br": "4.9",
+    "PI": "C532"
+  },
+  {
+    "Vehicle": "Mitsubishi GTO 1997\nAutoshow (DLC: Mitsubishi Motors Car Pack)",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "6.8",
+    "Ha": "5.4",
+    "Ac": "6.2",
+    "La": "8.1",
+    "Br": "5.3",
+    "PI": "B602"
+  },
+  {
+    "Vehicle": "Mitsubishi Lancer Evolution VI GSR 1999\nAutoshow (DLC: Mitsubishi Motors Car Pack)",
+    "Value": "28,000 CR\nRARE",
+    "Sp": "6.3",
+    "Ha": "5.9",
+    "Ac": "7.1",
+    "La": "9.1",
+    "Br": "5.6",
+    "PI": "B675"
+  },
+  {
+    "Vehicle": "Mitsubishi Lancer Evolution VIII MR 2004\nAutoshow (DLC: Mitsubishi Motors Car Pack)",
+    "Value": "31,000 CR\nRARE",
+    "Sp": "6.9",
+    "Ha": "5.9",
+    "Ac": "7.2",
+    "La": "9.1",
+    "Br": "5.5",
+    "PI": "B686"
+  },
+  {
+    "Vehicle": "Mitsubishi Lancer Evolution IX MR 2006\nAutoshow (DLC: Mitsubishi Motors Car Pack)",
+    "Value": "27,000 CR\nRARE",
+    "Sp": "6.7",
+    "Ha": "5.9",
+    "Ac": "6.4",
+    "La": "8.3",
+    "Br": "5.5",
+    "PI": "B649"
+  },
+  {
+    "Vehicle": "Mitsubishi Lancer Evolution X GSR 2008\nAutoshow (DLC: Mitsubishi Motors Car Pack)",
+    "Value": "43,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "6",
+    "Ac": "6.7",
+    "La": "8.9",
+    "Br": "6",
+    "PI": "B678"
+  },
+  {
+    "Vehicle": "Mitsubishi Starion ESI-R 1988\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6",
+    "Ha": "5.3",
+    "Ac": "5.9",
+    "La": "7.8",
+    "Br": "4.9",
+    "PI": "C555"
+  },
+  {
+    "Vehicle": "Morgan 3 Wheeler 2014\nAutoshow",
+    "Value": "50,000 CR\nRARE",
+    "Sp": "5.1",
+    "Ha": "4.7",
+    "Ac": "4.9",
+    "La": "6.1",
+    "Br": "4.7",
+    "PI": "D450"
+  },
+  {
+    "Vehicle": "Morgan Aero GT 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "7.9",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "7.9",
+    "PI": "S1811"
+  },
+  {
+    "Vehicle": "Morgan Aero Supersports 2010\nAutoshow",
+    "Value": "160,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6.3",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "6.3",
+    "PI": "A766"
+  },
+  {
+    "Vehicle": "Morris Mini-Traveller 1965\nReach Tier 8 in Horizon Life: Express Delivery",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "3.7",
+    "Ha": "4",
+    "Ac": "3.5",
+    "La": "4.4",
+    "Br": "4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Morris Minor 1000 1958\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "4",
+    "Ha": "3.9",
+    "Ac": "3.6",
+    "La": "4.9",
+    "Br": "3.8",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Morris Minor Series II Traveler 1953\nExpansion: Fortune Island",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "3.5",
+    "Ha": "3.9",
+    "Ac": "3.3",
+    "La": "3",
+    "Br": "4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Mosler MT900S 2010\nA \"Hard-to-Find\" vehicle",
+    "Value": "320,000 CR\nEPIC",
+    "Sp": "8.1",
+    "Ha": "10",
+    "Ac": "8.8",
+    "La": "9.9",
+    "Br": "10",
+    "PI": "S2957"
+  },
+  {
+    "Vehicle": "Napier Napier-Railton 1933\nA \"Hard-to-Find\" vehicle",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "7.1",
+    "Ha": "5.1",
+    "Ac": "5.3",
+    "La": "6.8",
+    "Br": "5.6",
+    "PI": "B628"
+  },
+  {
+    "Vehicle": "Nissan 240SX SE 1993\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "4.8",
+    "Ac": "5.1",
+    "La": "6.7",
+    "Br": "4.6",
+    "PI": "D449"
+  },
+  {
+    "Vehicle": "Nissan 370Z 2010\nAutoshow",
+    "Value": "40,000 CR\nCOMMON",
+    "Sp": "7.2",
+    "Ha": "6.3",
+    "Ac": "6.2",
+    "La": "7.9",
+    "Br": "5.7",
+    "PI": "A716"
+  },
+  {
+    "Vehicle": "Nissan Fairlady Z 2003\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "7.1",
+    "Ha": "6",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "5.1",
+    "PI": "B671"
+  },
+  {
+    "Vehicle": "Nissan Fairlady Z 432 1969\nAutoshow",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "5.4",
+    "Ha": "4.7",
+    "Ac": "5.4",
+    "La": "6.4",
+    "Br": "4.6",
+    "PI": "D439"
+  },
+  {
+    "Vehicle": "Nissan Fairlady Z Version S Twin Turbo 1994\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.7",
+    "Ha": "6",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "5.5",
+    "PI": "B655"
+  },
+  {
+    "Vehicle": "Nissan GT-R 2017\nAutoshow",
+    "Value": "132,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "7.2",
+    "Ac": "9.6",
+    "La": "10",
+    "Br": "7.6",
+    "PI": "S1836"
+  },
+  {
+    "Vehicle": "Nissan GT-R Preorder Car 2017\nGifted (Pre-Order bonus) / Gifted",
+    "Value": "132,000 CR\nEPIC",
+    "Sp": "7.9",
+    "Ha": "8.5",
+    "Ac": "10",
+    "La": "10",
+    "Br": "9",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Nissan GT-R Black Edition 2012\nAutoshow",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "6.8",
+    "Ac": "9.4",
+    "La": "10",
+    "Br": "7.2",
+    "PI": "S1820"
+  },
+  {
+    "Vehicle": "Nissan Nismo GT-R LM 1995\nA possible Wheelspin reward",
+    "Value": "1,100,000 CR\nLEGENDARY",
+    "Sp": "6.6",
+    "Ha": "6.4",
+    "Ac": "6",
+    "La": "7.6",
+    "Br": "5.8",
+    "PI": "B685"
+  },
+  {
+    "Vehicle": "Nissan Nismo GT-R LM F.E. 1995\nSkill Tree: Nissan R390",
+    "Value": "1,350,000 CR\nFORZA EDITION",
+    "Sp": "7.3",
+    "Ha": "10",
+    "Ac": "7.8",
+    "La": "9.2",
+    "Br": "10",
+    "PI": "S1886"
+  },
+  {
+    "Vehicle": "Nissan Pulsar GTI-R 1991\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.2",
+    "Ha": "5.2",
+    "Ac": "7.1",
+    "La": "8.9",
+    "Br": "4.8",
+    "PI": "C598"
+  },
+  {
+    "Vehicle": "Nissan R390 1998\nAutoshow",
+    "Value": "730,000 CR\nLEGENDARY",
+    "Sp": "7.6",
+    "Ha": "8.2",
+    "Ac": "7.3",
+    "La": "7.8",
+    "Br": "8.5",
+    "PI": "S1877"
+  },
+  {
+    "Vehicle": "Nissan Sentra Nismo 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "24,000 CR\nRARE",
+    "Sp": "5.8",
+    "Ha": "6.1",
+    "Ac": "5.8",
+    "La": "7.4",
+    "Br": "6.2",
+    "PI": "C588"
+  },
+  {
+    "Vehicle": "Nissan Silvia Club K's 1992\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "4.9",
+    "Ac": "5.5",
+    "La": "7",
+    "Br": "4.6",
+    "PI": "C525"
+  },
+  {
+    "Vehicle": "Nissan Silvia K's 1994\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.5",
+    "Ha": "5.4",
+    "Ac": "5.9",
+    "La": "7.5",
+    "Br": "5",
+    "PI": "C600"
+  },
+  {
+    "Vehicle": "Nissan Silvia K's Aero 1998\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.5",
+    "Ha": "5.5",
+    "Ac": "5.9",
+    "La": "7.5",
+    "Br": "5",
+    "PI": "C593"
+  },
+  {
+    "Vehicle": "Nissan Silvia Spec-R 2000\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "6.6",
+    "Ha": "6.1",
+    "Ac": "6.1",
+    "La": "7.7",
+    "Br": "5.2",
+    "PI": "B643"
+  },
+  {
+    "Vehicle": "Nissan Skyline 2000GT-R 1971\nAutoshow",
+    "Value": "60,000 CR\nRARE",
+    "Sp": "5.6",
+    "Ha": "4.6",
+    "Ac": "5.4",
+    "La": "6.4",
+    "Br": "4.5",
+    "PI": "D455"
+  },
+  {
+    "Vehicle": "Nissan Skyline GT-R V-Spec 1993\nAutoshow",
+    "Value": "85,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "5.4",
+    "Ac": "6.2",
+    "La": "7.7",
+    "Br": "5.6",
+    "PI": "B620"
+  },
+  {
+    "Vehicle": "Nissan Skyline GT-R V-Spec 1997\nAutoshow",
+    "Value": "37,000 CR\nEPIC",
+    "Sp": "6.9",
+    "Ha": "5.6",
+    "Ac": "6.5",
+    "La": "8",
+    "Br": "5.5",
+    "PI": "B633"
+  },
+  {
+    "Vehicle": "Nissan Skyline GT-R V-Spec II 2002\nReach Tier 4 in Horizon Life: Street Scene",
+    "Value": "63,000 CR\nEPIC",
+    "Sp": "6.8",
+    "Ha": "6",
+    "Ac": "6.5",
+    "La": "8.1",
+    "Br": "6",
+    "PI": "B691"
+  },
+  {
+    "Vehicle": "Nissan Skyline GTS-R (R31) 1987\nAutoshow",
+    "Value": "100,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "4.9",
+    "Ac": "5.7",
+    "La": "7.2",
+    "Br": "4.6",
+    "PI": "C538"
+  },
+  {
+    "Vehicle": "Nissan Skyline H/T 2000GT-R 1973\nAutoshow",
+    "Value": "170,000 CR\nRARE",
+    "Sp": "5.6",
+    "Ha": "5",
+    "Ac": "5.2",
+    "La": "6.1",
+    "Br": "4.7",
+    "PI": "D494"
+  },
+  {
+    "Vehicle": "Nissan Titan Warrior Concept 2016\nAutoshow",
+    "Value": "50,000 CR\nCOMMON",
+    "Sp": "5.6",
+    "Ha": "5",
+    "Ac": "5",
+    "La": "7.3",
+    "Br": "4.8",
+    "PI": "D491"
+  },
+  {
+    "Vehicle": "Nissan Titan Warrior Concept F.E. 2016\nGifted (DLC: VIP Membership)",
+    "Value": "300,000 CR\nFORZA EDITION",
+    "Sp": "5.6",
+    "Ha": "6.2",
+    "Ac": "5.2",
+    "La": "7.2",
+    "Br": "5.8",
+    "PI": "C583"
+  },
+  {
+    "Vehicle": "Noble M600 2010\nReach Tier 11 in Horizon Life: Speed Trap Hero",
+    "Value": "450,000 CR\nEPIC",
+    "Sp": "8.8",
+    "Ha": "8.8",
+    "Ac": "7.8",
+    "La": "9.3",
+    "Br": "9",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Oldsmobile Hurst/Olds 442 1969\nAutoshow",
+    "Value": "65,000 CR\nRARE",
+    "Sp": "5.8",
+    "Ha": "4.4",
+    "Ac": "5",
+    "La": "6.3",
+    "Br": "4.3",
+    "PI": "C520"
+  },
+  {
+    "Vehicle": "Opel Kadett A 1963\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "4.2",
+    "Ha": "3.9",
+    "Ac": "3.8",
+    "La": "5.5",
+    "Br": "3.8",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Opel Manta 400 1984\nAutoshow",
+    "Value": "100,000 CR\nEPIC",
+    "Sp": "6.6",
+    "Ha": "6.8",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "7",
+    "PI": "A740"
+  },
+  {
+    "Vehicle": "Pagani Huayra 2012\nAutoshow",
+    "Value": "1,300,000 CR\nLEGENDARY",
+    "Sp": "8.8",
+    "Ha": "8.4",
+    "Ac": "7.4",
+    "La": "8.9",
+    "Br": "8.8",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Pagani Huayra BC 2016\nAutoshow",
+    "Value": "1,500,000 CR\nLEGENDARY",
+    "Sp": "8.9",
+    "Ha": "9.8",
+    "Ac": "8",
+    "La": "9.4",
+    "Br": "10",
+    "PI": "S2961"
+  },
+  {
+    "Vehicle": "Pagani Zonda Cinque Roadster 2009\nAutoshow",
+    "Value": "2,100,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "9.5",
+    "Ac": "7.4",
+    "La": "8.9",
+    "Br": "10",
+    "PI": "S2908"
+  },
+  {
+    "Vehicle": "Pagani Zonda R 2010\nAutoshow",
+    "Value": "1,700,000 CR\nLEGENDARY",
+    "Sp": "8.2",
+    "Ha": "10",
+    "Ac": "8.2",
+    "La": "9.5",
+    "Br": "10",
+    "PI": "S2966"
+  },
+  {
+    "Vehicle": "Pagani Zonda R F.E. 2010\nGifted (DLC: VIP Membership)",
+    "Value": "1,950,000 CR\nFORZA EDITION",
+    "Sp": "8.9",
+    "Ha": "10",
+    "Ac": "8.1",
+    "La": "9.5",
+    "Br": "10",
+    "PI": "S2986"
+  },
+  {
+    "Vehicle": "Peel P50 1962\nComplete its Barn Find rumor",
+    "Value": "20,000 CR\nLEGENDARY",
+    "Sp": "3",
+    "Ha": "3",
+    "Ac": "3.2",
+    "La": "4.9",
+    "Br": "7",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Peel Trident 1965\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nRARE",
+    "Sp": "3",
+    "Ha": "3",
+    "Ac": "3.2",
+    "La": "4.5",
+    "Br": "5.4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Penhall The Cholla 2011\nReach Tier 14 in Horizon Life: Cross Country",
+    "Value": "100,000 CR\nEPIC",
+    "Sp": "5.1",
+    "Ha": "6.4",
+    "Ac": "7.2",
+    "La": "8.5",
+    "Br": "6.3",
+    "PI": "B646"
+  },
+  {
+    "Vehicle": "Peugeot 205 Rallye 1991\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.3",
+    "Ha": "5.6",
+    "Ac": "4.8",
+    "La": "7.6",
+    "Br": "5.4",
+    "PI": "C504"
+  },
+  {
+    "Vehicle": "Peugeot 205 T16 1984\nAutoshow",
+    "Value": "200,000 CR\nLEGENDARY",
+    "Sp": "5.8",
+    "Ha": "5.4",
+    "Ac": "6",
+    "La": "6.6",
+    "Br": "5.5",
+    "PI": "C597"
+  },
+  {
+    "Vehicle": "Peugeot 205 T16 F.E. 1984\nA possible Wheelspin reward",
+    "Value": "450,000 CR\nFORZA EDITION",
+    "Sp": "6.9",
+    "Ha": "8.3",
+    "Ac": "10",
+    "La": "9.3",
+    "Br": "8.4",
+    "PI": "S1899"
+  },
+  {
+    "Vehicle": "Peugeot 207 Super 2000 2007\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "6.1",
+    "Ha": "7.8",
+    "Ac": "7.4",
+    "La": "8.8",
+    "Br": "8.1",
+    "PI": "A774"
+  },
+  {
+    "Vehicle": "Plymouth Atomic Punk Bubbletop 1958\nAutoshow (DLC: Barrett-Jackson Car Pack)",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "7.1",
+    "Ha": "5.8",
+    "Ac": "6.2",
+    "La": "7.4",
+    "Br": "4.9",
+    "PI": "A717"
+  },
+  {
+    "Vehicle": "Plymouth Cuda 426 Hemi 1971\nAutoshow",
+    "Value": "160,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "4.7",
+    "Ac": "5.2",
+    "La": "6.5",
+    "Br": "4.3",
+    "PI": "C560"
+  },
+  {
+    "Vehicle": "Plymouth Fury 1958\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.1",
+    "Ha": "4.5",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "4.4",
+    "PI": "C518"
+  },
+  {
+    "Vehicle": "Plymouth Hemi Cuda Convertible Barrett-Jackson Edition 1970\nAutoshow (DLC: Barrett-Jackson Car Pack)",
+    "Value": "55,000 CR\nEPIC",
+    "Sp": "6.4",
+    "Ha": "5.6",
+    "Ac": "5.7",
+    "La": "7.2",
+    "Br": "5.2",
+    "PI": "B689"
+  },
+  {
+    "Vehicle": "Polaris RZR XP 1000 EPS 2015\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "4.5",
+    "Ha": "5.8",
+    "Ac": "5.5",
+    "La": "7.1",
+    "Br": "6.2",
+    "PI": "D464"
+  },
+  {
+    "Vehicle": "Pontiac Firebird 1968\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.9",
+    "Ha": "4.4",
+    "Ac": "5",
+    "La": "6.2",
+    "Br": "4.3",
+    "PI": "C509"
+  },
+  {
+    "Vehicle": "Pontiac Firebird Trans Am 1977\nAutoshow",
+    "Value": "45,000 CR\nRARE",
+    "Sp": "6",
+    "Ha": "4.5",
+    "Ac": "5",
+    "La": "6.1",
+    "Br": "4.2",
+    "PI": "D431"
+  },
+  {
+    "Vehicle": "Pontiac Firebird Trans Am GTA 1987\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "4.8",
+    "Ac": "5.4",
+    "La": "6.8",
+    "Br": "4.5",
+    "PI": "C505"
+  },
+  {
+    "Vehicle": "Pontiac Firebird Trans Am SD-455 1973\nA possible Wheelspin reward",
+    "Value": "61,000 CR\nCOMMON",
+    "Sp": "6.3",
+    "Ha": "4.7",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "4.4",
+    "PI": "C536"
+  },
+  {
+    "Vehicle": "Pontiac GTO 1965\nA \"Hard-to-Find\" vehicle",
+    "Value": "48,000 CR\nLEGENDARY",
+    "Sp": "5.6",
+    "Ha": "4.3",
+    "Ac": "5",
+    "La": "6.3",
+    "Br": "4.3",
+    "PI": "C514"
+  },
+  {
+    "Vehicle": "Pontiac GTO Judge 1969\nAutoshow",
+    "Value": "90,000 CR\nRARE",
+    "Sp": "5.8",
+    "Ha": "4.4",
+    "Ac": "5",
+    "La": "6.3",
+    "Br": "4.3",
+    "PI": "C514"
+  },
+  {
+    "Vehicle": "Porsche #3 917 LH 1970\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "8.5",
+    "Ha": "7",
+    "Ac": "8",
+    "La": "9.4",
+    "Br": "6.4",
+    "PI": "S1868"
+  },
+  {
+    "Vehicle": "Porsche #23 917/20 1971\nAutoshow",
+    "Value": "10,000,000 CR\nLEGENDARY",
+    "Sp": "8.3",
+    "Ha": "7.1",
+    "Ac": "8",
+    "La": "9.5",
+    "Br": "6.6",
+    "PI": "S1861"
+  },
+  {
+    "Vehicle": "Porsche #46 356 SL Gmünd Coupe 1951\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "4.6",
+    "Ha": "4.8",
+    "Ac": "3.9",
+    "La": "6.4",
+    "Br": "4.6",
+    "PI": "D199"
+  },
+  {
+    "Vehicle": "Porsche #185 959 Prodrive Rally Raid 1986\nAutoshow (DLC: Car Pass)",
+    "Value": "205,000 CR\nLEGENDARY",
+    "Sp": "6.8",
+    "Ha": "6.9",
+    "Ac": "8.8",
+    "La": "10",
+    "Br": "7.1",
+    "PI": "A779"
+  },
+  {
+    "Vehicle": "Porsche 356A Speedster 1957\nAutoshow",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "4.7",
+    "Ha": "4.1",
+    "Ac": "4.1",
+    "La": "6.8",
+    "Br": "3.8",
+    "PI": "D185"
+  },
+  {
+    "Vehicle": "Porsche 356 A 1600 Super 1959\nAutoshow (DLC: Car Pass)",
+    "Value": "240,000 CR\nLEGENDARY",
+    "Sp": "4.9",
+    "Ha": "4",
+    "Ac": "3.8",
+    "La": "6.1",
+    "Br": "3.7",
+    "PI": "D180"
+  },
+  {
+    "Vehicle": "Porsche 356 C Cabriolet Emory Special 1964\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.1",
+    "Ha": "5.9",
+    "Ac": "6.8",
+    "La": "8.4",
+    "Br": "5.7",
+    "PI": "B687"
+  },
+  {
+    "Vehicle": "Porsche 356 RSR from Emory Motorsport 1960\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.1",
+    "Ha": "7.7",
+    "Ac": "7.4",
+    "La": "9",
+    "Br": "8.1",
+    "PI": "S1846"
+  },
+  {
+    "Vehicle": "Porsche 550A Spyder 1955\nAutoshow",
+    "Value": "600,000 CR\nLEGENDARY",
+    "Sp": "5.9",
+    "Ha": "4.2",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "3.7",
+    "PI": "D387"
+  },
+  {
+    "Vehicle": "Porsche 718 RS 60 1960\nAutoshow",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "6.3",
+    "Ha": "6.5",
+    "Ac": "6.7",
+    "La": "7.8",
+    "Br": "5.5",
+    "PI": "A716"
+  },
+  {
+    "Vehicle": "Porsche 718 RS 60 \"Welcome Pack\" 1960\nAutoshow (DLC: Welcome Pack",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "6.6",
+    "Ha": "7.4",
+    "Ac": "7.2",
+    "La": "8.8",
+    "Br": "6.5",
+    "PI": "A800"
+  },
+  {
+    "Vehicle": "Porsche 718 Cayman GTS 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.3",
+    "Ha": "7.5",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "8",
+    "PI": "S1808"
+  },
+  {
+    "Vehicle": "Porsche 906 Carrera 6 1966\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "6.8",
+    "Ha": "6.5",
+    "Ac": "6.9",
+    "La": "8.1",
+    "Br": "5.5",
+    "PI": "A748"
+  },
+  {
+    "Vehicle": "Porsche 911 Carrera 2 by Gunther Werks 1995\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "7.2",
+    "Ha": "7.6",
+    "Ac": "8.3",
+    "La": "7.6",
+    "Br": "8",
+    "PI": "S1823"
+  },
+  {
+    "Vehicle": "Porsche 911 Carrera RS 1973\nAutoshow",
+    "Value": "200,000 CR\nLEGENDARY",
+    "Sp": "6.1",
+    "Ha": "5.7",
+    "Ac": "6.7",
+    "La": "8.1",
+    "Br": "5",
+    "PI": "B631"
+  },
+  {
+    "Vehicle": "Porsche 911 Carrera S 2019\nAutoshow (DLC: Car Pass)",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "8.1",
+    "Ac": "7.4",
+    "La": "8.9",
+    "Br": "8.4",
+    "PI": "S1840"
+  },
+  {
+    "Vehicle": "Porsche 911 GT1 Strassenversion 1998\nAutoshow",
+    "Value": "2,500,000 CR\nLEGENDARY",
+    "Sp": "7.6",
+    "Ha": "8.2",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "8.8",
+    "PI": "S1850"
+  },
+  {
+    "Vehicle": "Porsche 911 GT2 1995\nAutoshow",
+    "Value": "550,000 CR\nEPIC",
+    "Sp": "7.1",
+    "Ha": "6.6",
+    "Ac": "7.6",
+    "La": "9.2",
+    "Br": "7",
+    "PI": "A774"
+  },
+  {
+    "Vehicle": "Porsche 911 GT2 RS 2012\nAutoshow",
+    "Value": "240,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "8.3",
+    "Ac": "8.7",
+    "La": "9.9",
+    "Br": "8.9",
+    "PI": "S1882"
+  },
+  {
+    "Vehicle": "Porsche 911 GT2 RS 2018\nAutoshow",
+    "Value": "315,000 CR\nEPIC",
+    "Sp": "8.2",
+    "Ha": "8.8",
+    "Ac": "8.4",
+    "La": "9.7",
+    "Br": "9.4",
+    "PI": "S2910"
+  },
+  {
+    "Vehicle": "Porsche 911 GT3 2004\nAutoshow",
+    "Value": "65,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "7.2",
+    "Ac": "7.8",
+    "La": "9.1",
+    "Br": "7.6",
+    "PI": "S1803"
+  },
+  {
+    "Vehicle": "Porsche 911 GT3 RS 2016\nAutoshow",
+    "Value": "235,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "9.6",
+    "Ac": "8.4",
+    "La": "9.6",
+    "Br": "10",
+    "PI": "S2904"
+  },
+  {
+    "Vehicle": "Porsche 911 GT3 RS Preorder Car 2016\nGifted (Pre-Order bonus) / HL: The Eliminator - Tier 20",
+    "Value": "235,000 CR\nEPIC",
+    "Sp": "8.6",
+    "Ha": "10",
+    "Ac": "8.7",
+    "La": "9.9",
+    "Br": "10",
+    "PI": "S2998"
+  },
+  {
+    "Vehicle": "Porsche 911 GT3 RS 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "255,000 CR\nEPIC",
+    "Sp": "8.3",
+    "Ha": "9.7",
+    "Ac": "8.3",
+    "La": "9.6",
+    "Br": "10",
+    "PI": "S2915"
+  },
+  {
+    "Vehicle": "Porsche 911 GT3 RS 4.0 2012\nAutoshow",
+    "Value": "200,000 CR\nEPIC",
+    "Sp": "7.8",
+    "Ha": "8.1",
+    "Ac": "8.6",
+    "La": "9.8",
+    "Br": "8.7",
+    "PI": "S1847"
+  },
+  {
+    "Vehicle": "Porsche 911 reimagined by Singer - DLS 1990\nA \"Hard-to-Find\" vehicle",
+    "Value": "1,800,000 CR\nLEGENDARY",
+    "Sp": "8",
+    "Ha": "7.4",
+    "Ac": "8.5",
+    "La": "9.8",
+    "Br": "7.8",
+    "PI": "S1855"
+  },
+  {
+    "Vehicle": "Porsche 911 Turbo 3.3 1982\nAutoshow",
+    "Value": "150,000 CR\nLEGENDARY",
+    "Sp": "6.4",
+    "Ha": "5.9",
+    "Ac": "6.5",
+    "La": "6.7",
+    "Br": "5.6",
+    "PI": "B688"
+  },
+  {
+    "Vehicle": "Porsche 911 Turbo S 2014\nAutoshow",
+    "Value": "150,000 CR\nEPIC",
+    "Sp": "8.3",
+    "Ha": "6.6",
+    "Ac": "9.1",
+    "La": "10",
+    "Br": "7.2",
+    "PI": "S1827"
+  },
+  {
+    "Vehicle": "Porsche 914/6 1970\nA \"Hard-to-Find\" vehicle",
+    "Value": "24,000 CR\nRARE",
+    "Sp": "5.3",
+    "Ha": "4.7",
+    "Ac": "5.2",
+    "La": "7",
+    "Br": "4.2",
+    "PI": "D408"
+  },
+  {
+    "Vehicle": "Porsche 918 Spyder 2014\nAutoshow",
+    "Value": "850,000 CR\nLEGENDARY",
+    "Sp": "8.9",
+    "Ha": "9.2",
+    "Ac": "10",
+    "La": "10",
+    "Br": "9.7",
+    "PI": "S2942"
+  },
+  {
+    "Vehicle": "Porsche 928 GTS 1993\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7",
+    "Ha": "5.9",
+    "Ac": "6.6",
+    "La": "7.9",
+    "Br": "6",
+    "PI": "B698"
+  },
+  {
+    "Vehicle": "Porsche 944 Turbo 1989\nAutoshow",
+    "Value": "35,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "5.9",
+    "Ac": "6.5",
+    "La": "8.1",
+    "Br": "6",
+    "PI": "B659"
+  },
+  {
+    "Vehicle": "Porsche 959 1987\nAutoshow",
+    "Value": "400,000 CR\nLEGENDARY",
+    "Sp": "7.7",
+    "Ha": "6.3",
+    "Ac": "9",
+    "La": "10",
+    "Br": "6.7",
+    "PI": "A784"
+  },
+  {
+    "Vehicle": "Porsche 968 Turbo S 1993\nAutoshow (DLC: Car Pass)",
+    "Value": "140,000 CR\nRARE",
+    "Sp": "6.9",
+    "Ha": "6.1",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "6.2",
+    "PI": "A716"
+  },
+  {
+    "Vehicle": "Porsche Carrera GT 2003\nAutoshow",
+    "Value": "400,000 CR\nEPIC",
+    "Sp": "8",
+    "Ha": "8.1",
+    "Ac": "7.5",
+    "La": "9",
+    "Br": "8.6",
+    "PI": "S1866"
+  },
+  {
+    "Vehicle": "Porsche Cayenne Turbo 2012\nAutoshow",
+    "Value": "110,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6",
+    "Ac": "7.7",
+    "La": "9.5",
+    "Br": "6.3",
+    "PI": "A740"
+  },
+  {
+    "Vehicle": "Porsche Cayenne Turbo 2018\nA possible Wheelspin reward",
+    "Value": "220,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "6.5",
+    "Ac": "8.7",
+    "La": "10",
+    "Br": "7.1",
+    "PI": "A769"
+  },
+  {
+    "Vehicle": "Porsche Cayman GT4 2016\nAutoshow",
+    "Value": "85,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "8.3",
+    "Ac": "7.8",
+    "La": "9.3",
+    "Br": "8.8",
+    "PI": "S1840"
+  },
+  {
+    "Vehicle": "Porsche Cayman GTS 2015\nReach Tier 8 in Horizon Life: Road Racing",
+    "Value": "80,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "7.2",
+    "Ac": "7",
+    "La": "8.6",
+    "Br": "7.5",
+    "PI": "A791"
+  },
+  {
+    "Vehicle": "Porsche Macan Turbo 2015\nAutoshow",
+    "Value": "105,000 CR\nRARE",
+    "Sp": "6.7",
+    "Ha": "6",
+    "Ac": "7",
+    "La": "8.9",
+    "Br": "6.4",
+    "PI": "A708"
+  },
+  {
+    "Vehicle": "Porsche Macan Turbo 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "105,000 CR\nRARE",
+    "Sp": "6.9",
+    "Ha": "5.9",
+    "Ac": "7.3",
+    "La": "10",
+    "Br": "6.2",
+    "PI": "A720"
+  },
+  {
+    "Vehicle": "Porsche Panamera Turbo 2017\nAutoshow",
+    "Value": "150,000 CR\nRARE",
+    "Sp": "7.9",
+    "Ha": "6.6",
+    "Ac": "8.5",
+    "La": "10",
+    "Br": "7.2",
+    "PI": "A789"
+  },
+  {
+    "Vehicle": "Quadra Turbo-R V-Tech 2058\nWin the \"_:NIGHTCITY.exe_\" Street Scene event",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "7.8",
+    "Ha": "8.4",
+    "Ac": "8.5",
+    "La": "10",
+    "Br": "8.6",
+    "PI": "S1890"
+  },
+  {
+    "Vehicle": "Quartz Regalia 723\nA \"Hard-to-Find\" vehicle",
+    "Value": "100,000 CR\nLEGENDARY",
+    "Sp": "6.2",
+    "Ha": "5.9",
+    "Ac": "7",
+    "La": "9",
+    "Br": "5.6",
+    "PI": "B675"
+  },
+  {
+    "Vehicle": "Quartz Regalia Type-D 723\nSkill Tree: Quartz Regalia",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "5",
+    "Ha": "6.5",
+    "Ac": "6.7",
+    "La": "9.8",
+    "Br": "6.5",
+    "PI": "C597"
+  },
+  {
+    "Vehicle": "Radical RXC Turbo 2015\nAutoshow",
+    "Value": "330,000 CR\nEPIC",
+    "Sp": "7.3",
+    "Ha": "10",
+    "Ac": "8",
+    "La": "9.4",
+    "Br": "10",
+    "PI": "S2958"
+  },
+  {
+    "Vehicle": "RAESR Tachyon Speed 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "1,050,000 CR\nLEGENDARY",
+    "Sp": "8.7",
+    "Ha": "8.5",
+    "Ac": "6.9",
+    "La": "8.6",
+    "Br": "8.9",
+    "PI": "S2969"
+  },
+  {
+    "Vehicle": "RAM 1500 Rebel TRX Concept 2017\nExpansion: Fortune Island",
+    "Value": "100,000 CR\nRARE",
+    "Sp": "6",
+    "Ha": "6.2",
+    "Ac": "7.7",
+    "La": "9.2",
+    "Br": "6.9",
+    "PI": "A716"
+  },
+  {
+    "Vehicle": "RAM 2500 Power Wagon 2017\nReach Tier 8 in Horizon Life: Dirt Racing",
+    "Value": "47,000 CR\nCOMMON",
+    "Sp": "6.1",
+    "Ha": "5.2",
+    "Ac": "4.7",
+    "La": "5.2",
+    "Br": "5.1",
+    "PI": "C518"
+  },
+  {
+    "Vehicle": "Reliant Supervan III 1972\nAutoshow",
+    "Value": "35,000 CR\nCOMMON",
+    "Sp": "3.9",
+    "Ha": "3.3",
+    "Ac": "4.1",
+    "La": "5.4",
+    "Br": "3.6",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Renault 5 Turbo 1980\nAutoshow",
+    "Value": "120,000 CR\nRARE",
+    "Sp": "5.5",
+    "Ha": "5",
+    "Ac": "6.3",
+    "La": "8",
+    "Br": "4.8",
+    "PI": "C512"
+  },
+  {
+    "Vehicle": "Renault 5 Turbo F.E. 1980\nA possible Wheelspin reward",
+    "Value": "316,000 CR\nFORZA EDITION",
+    "Sp": "7.5",
+    "Ha": "8.5",
+    "Ac": "8.8",
+    "La": "10",
+    "Br": "9.3",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Renault Alpine A110 1600s 1973\nReach Tier 16 in Horizon Life: Dirt Racing",
+    "Value": "98,000 CR\nLEGENDARY",
+    "Sp": "5.9",
+    "Ha": "5.1",
+    "Ac": "5.8",
+    "La": "7.2",
+    "Br": "4.6",
+    "PI": "C522"
+  },
+  {
+    "Vehicle": "Renault Clio R.S. 2010\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "5.8",
+    "Ac": "5.8",
+    "La": "7.4",
+    "Br": "5.5",
+    "PI": "C598"
+  },
+  {
+    "Vehicle": "Renault Clio R.S. F.E. 2010\nA possible Wheelspin reward",
+    "Value": "275,000 CR\nFORZA EDITION",
+    "Sp": "5.9",
+    "Ha": "7.7",
+    "Ac": "6.2",
+    "La": "7.7",
+    "Br": "7.7",
+    "PI": "A701"
+  },
+  {
+    "Vehicle": "Renault Clio R.S. 16 Concept 2016\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "7.3",
+    "Ac": "6.5",
+    "La": "8.1",
+    "Br": "7.4",
+    "PI": "A731"
+  },
+  {
+    "Vehicle": "Renault Clio RS 197 2007\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "6.1",
+    "Ac": "5.6",
+    "La": "6.9",
+    "Br": "6.3",
+    "PI": "C592"
+  },
+  {
+    "Vehicle": "Renault Clio R.S. 200 EDC 2013\nAutoshow",
+    "Value": "29,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "6",
+    "Ac": "6",
+    "La": "7.6",
+    "Br": "6.1",
+    "PI": "B606"
+  },
+  {
+    "Vehicle": "Renault Clio Williams 1993\nReach Tier 8 in Horizon Life: Street Scene",
+    "Value": "30,000 CR\nRARE",
+    "Sp": "5.6",
+    "Ha": "5.2",
+    "Ac": "5.7",
+    "La": "7.3",
+    "Br": "4.9",
+    "PI": "C502"
+  },
+  {
+    "Vehicle": "Renault Mégane R26.R 2008\nReach Tier 10 in Horizon Life: The Eliminator",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.2",
+    "Ha": "7",
+    "Ac": "6.3",
+    "La": "7.9",
+    "Br": "7.2",
+    "PI": "A704"
+  },
+  {
+    "Vehicle": "Renault Megane R.S. 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "7",
+    "Ac": "6",
+    "La": "7.6",
+    "Br": "7.1",
+    "PI": "A702"
+  },
+  {
+    "Vehicle": "Renault Megane R.S. 250 2010\nAutoshow",
+    "Value": "30,000 CR\nCOMMON",
+    "Sp": "6.3",
+    "Ha": "6.4",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "6.5",
+    "PI": "B666"
+  },
+  {
+    "Vehicle": "Renault Sport Clio V6 2003\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.3",
+    "Ha": "5.9",
+    "Ac": "5.9",
+    "La": "7.3",
+    "Br": "5.6",
+    "PI": "B627"
+  },
+  {
+    "Vehicle": "Rimac Concept Two 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "2,000,000 CR\nLEGENDARY",
+    "Sp": "9.3",
+    "Ha": "8.1",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.5",
+    "PI": "S2994"
+  },
+  {
+    "Vehicle": "RJ Anderson #37 Polaris RZR-Rockstar Energy Pro 2 Truck 2016\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6.6",
+    "Ha": "6.7",
+    "Ac": "6.2",
+    "La": "7.6",
+    "Br": "6.5",
+    "PI": "S1815"
+  },
+  {
+    "Vehicle": "Rossion Q1 2010\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7.5",
+    "Ha": "8.3",
+    "Ac": "7.6",
+    "La": "9.1",
+    "Br": "8.7",
+    "PI": "S1855"
+  },
+  {
+    "Vehicle": "Rover SD1 Vitesse 1984\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.8",
+    "Ha": "5.1",
+    "Ac": "5",
+    "La": "5.9",
+    "Br": "4.7",
+    "PI": "D498"
+  },
+  {
+    "Vehicle": "Saleen S1 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "7",
+    "Ha": "8",
+    "Ac": "7.9",
+    "La": "9.3",
+    "Br": "8.5",
+    "PI": "S1837"
+  },
+  {
+    "Vehicle": "Saleen S5S Raptor 2010\nExpansion: Fortune Island  (Treasure Chest #8)",
+    "Value": "180,000 CR\nEPIC",
+    "Sp": "8.4",
+    "Ha": "8",
+    "Ac": "7.9",
+    "La": "9.4",
+    "Br": "8.3",
+    "PI": "S1873"
+  },
+  {
+    "Vehicle": "Saleen S7 2004\nAutoshow",
+    "Value": "388,000 CR\nEPIC",
+    "Sp": "8.3",
+    "Ha": "8.2",
+    "Ac": "7.8",
+    "La": "9.3",
+    "Br": "8.4",
+    "PI": "S1879"
+  },
+  {
+    "Vehicle": "Shelby 1000 2012\nA \"Hard-to-Find\" vehicle",
+    "Value": "105,000 CR\nEPIC",
+    "Sp": "8.7",
+    "Ha": "6",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "6.3",
+    "PI": "A782"
+  },
+  {
+    "Vehicle": "Shelby Cobra 427 S/C 1965\nAutoshow",
+    "Value": "2,100,000 CR\nLEGENDARY",
+    "Sp": "6.6",
+    "Ha": "5.4",
+    "Ac": "5.9",
+    "La": "7.5",
+    "Br": "4.8",
+    "PI": "B700"
+  },
+  {
+    "Vehicle": "Shelby Cobra Daytona Coupé 1965\nAutoshow",
+    "Value": "8,000,000 CR\nLEGENDARY",
+    "Sp": "7.3",
+    "Ha": "5",
+    "Ac": "5.5",
+    "La": "6.5",
+    "Br": "4.8",
+    "PI": "B645"
+  },
+  {
+    "Vehicle": "Shelby Monaco King Cobra 1963\nAutoshow (DLC: Barrett-Jackson Car Pack)",
+    "Value": "550,000 CR\nLEGENDARY",
+    "Sp": "7.4",
+    "Ha": "7.2",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "6.5",
+    "PI": "S1837"
+  },
+  {
+    "Vehicle": "Spania GTA Spano 2016\nAutoshow",
+    "Value": "800,000 CR\nEPIC",
+    "Sp": "9",
+    "Ha": "8.7",
+    "Ac": "7.7",
+    "La": "9.1",
+    "Br": "9.3",
+    "PI": "S2931"
+  },
+  {
+    "Vehicle": "Subaru #199 WRX STI VT15R Rally Car 2016\nAutoshow",
+    "Value": "300,000 CR\nEPIC",
+    "Sp": "5.9",
+    "Ha": "7.7",
+    "Ac": "8.8",
+    "La": "10",
+    "Br": "8",
+    "PI": "A762"
+  },
+  {
+    "Vehicle": "Subaru #199 WRX STI VT15R Rally Car \"Welcome Pack\" 2016\nAutoshow (DLC: Welcome Pack",
+    "Value": "300,000 CR\nLEGENDARY",
+    "Sp": "6.1",
+    "Ha": "7.3",
+    "Ac": "9.2",
+    "La": "10",
+    "Br": "7.7",
+    "PI": "A800"
+  },
+  {
+    "Vehicle": "Subaru BRZ 2013\nAutoshow",
+    "Value": "32,000 CR\nCOMMON",
+    "Sp": "6.4",
+    "Ha": "5.2",
+    "Ac": "5.8",
+    "La": "7.3",
+    "Br": "4.7",
+    "PI": "C562"
+  },
+  {
+    "Vehicle": "Subaru Impreza 22B STi 1998\nComplete its Barn Find rumor",
+    "Value": "110,000 CR\nLEGENDARY",
+    "Sp": "6.4",
+    "Ha": "6",
+    "Ac": "6.6",
+    "La": "8.5",
+    "Br": "5.5",
+    "PI": "B650"
+  },
+  {
+    "Vehicle": "Subaru Impreza WRX STi 2004\nA possible Wheelspin reward",
+    "Value": "28,000 CR\nCOMMON",
+    "Sp": "6.6",
+    "Ha": "5.8",
+    "Ac": "7.5",
+    "La": "9.4",
+    "Br": "5.5",
+    "PI": "B670"
+  },
+  {
+    "Vehicle": "Subaru Impreza WRX STI 2005\nAutoshow",
+    "Value": "51,000 CR\nCOMMON",
+    "Sp": "6.7",
+    "Ha": "5.9",
+    "Ac": "7.7",
+    "La": "9.5",
+    "Br": "5.5",
+    "PI": "B694"
+  },
+  {
+    "Vehicle": "Subaru Impreza WRX STI 2008\nAutoshow",
+    "Value": "31,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "6",
+    "Ac": "6.9",
+    "La": "9.2",
+    "Br": "6.1",
+    "PI": "B681"
+  },
+  {
+    "Vehicle": "Subaru Legacy RS 1990\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.1",
+    "Ha": "4.8",
+    "Ac": "5.6",
+    "La": "7.4",
+    "Br": "4.9",
+    "PI": "C503"
+  },
+  {
+    "Vehicle": "Subaru WRX STI 2011\nAutoshow",
+    "Value": "33,000 CR\nRARE",
+    "Sp": "6.7",
+    "Ha": "6",
+    "Ac": "6.7",
+    "La": "8.5",
+    "Br": "6",
+    "PI": "B682"
+  },
+  {
+    "Vehicle": "Subaru WRX STI 2015\nAutoshow",
+    "Value": "42,000 CR\nRARE",
+    "Sp": "6.7",
+    "Ha": "6",
+    "Ac": "7",
+    "La": "8.8",
+    "Br": "6.1",
+    "PI": "B693"
+  },
+  {
+    "Vehicle": "Sunbeam Tiger 1967\nAutoshow",
+    "Value": "65,000 CR\nRARE",
+    "Sp": "5.8",
+    "Ha": "4.5",
+    "Ac": "5.6",
+    "La": "7.1",
+    "Br": "4.5",
+    "PI": "D500"
+  },
+  {
+    "Vehicle": "Talbot Sunbeam Lotus 1979\nAutoshow",
+    "Value": "25,000 CR\nRARE",
+    "Sp": "5.3",
+    "Ha": "4.6",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.7",
+    "PI": "D469"
+  },
+  {
+    "Vehicle": "Tamo Racemo 2017\nAutoshow",
+    "Value": "600,000 CR\nEPIC",
+    "Sp": "5.9",
+    "Ha": "5.7",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "5.6",
+    "PI": "C577"
+  },
+  {
+    "Vehicle": "Terradyne Gurkha LAPV 2014\nAutoshow",
+    "Value": "450,000 CR\nLEGENDARY",
+    "Sp": "5",
+    "Ha": "5.1",
+    "Ac": "3.5",
+    "La": "4.1",
+    "Br": "5.3",
+    "PI": "D223"
+  },
+  {
+    "Vehicle": "Top Gear Track-Tor 2014\nReach Tier 5 in Horizon Life: Top Gear",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "5.2",
+    "Ha": "6.9",
+    "Ac": "6.8",
+    "La": "8.4",
+    "Br": "5.9",
+    "PI": "C577"
+  },
+  {
+    "Vehicle": "Toyota #1 T100 Baja Truck 1993\nAutoshow",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "5.6",
+    "Ha": "6.6",
+    "Ac": "7.4",
+    "La": "9.2",
+    "Br": "6.5",
+    "PI": "A732"
+  },
+  {
+    "Vehicle": "Toyota #1 T100 Baja Truck \"Welcome Pack\" 1993\nAutoshow (DLC: Welcome Pack",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "7.1",
+    "Ha": "7.1",
+    "Ac": "8.6",
+    "La": "9.9",
+    "Br": "6.6",
+    "PI": "A800"
+  },
+  {
+    "Vehicle": "Toyota 2000GT 1969\nA \"Hard-to-Find\" vehicle",
+    "Value": "750,000 CR\nLEGENDARY",
+    "Sp": "6",
+    "Ha": "4.6",
+    "Ac": "5.5",
+    "La": "7",
+    "Br": "4.4",
+    "PI": "D447"
+  },
+  {
+    "Vehicle": "Toyota Celica GT 1974\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.1",
+    "Ha": "4.5",
+    "Ac": "4.6",
+    "La": "6.3",
+    "Br": "4.4",
+    "PI": "D312"
+  },
+  {
+    "Vehicle": "Toyota Celica GT-Four RC ST185 1992\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.5",
+    "Ha": "5.2",
+    "Ac": "6.3",
+    "La": "8.4",
+    "Br": "5.1",
+    "PI": "C577"
+  },
+  {
+    "Vehicle": "Toyota Celica GT-Four ST205 1994\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.8",
+    "Ha": "5.1",
+    "Ac": "6.7",
+    "La": "8.4",
+    "Br": "5",
+    "PI": "C595"
+  },
+  {
+    "Vehicle": "Toyota Corolla SR5 1974\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "4.8",
+    "Ha": "4.5",
+    "Ac": "4.2",
+    "La": "6.8",
+    "Br": "4.5",
+    "PI": "D290"
+  },
+  {
+    "Vehicle": "Toyota GT86 2013\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "6.2",
+    "Ha": "5.2",
+    "Ac": "5.8",
+    "La": "7.3",
+    "Br": "5.1",
+    "PI": "C562"
+  },
+  {
+    "Vehicle": "Toyota Hilux Arctic Trucks AT38 2007\nAutoshow",
+    "Value": "55,000 CR\nCOMMON",
+    "Sp": "5",
+    "Ha": "6.7",
+    "Ac": "4.6",
+    "La": "5.8",
+    "Br": "5.7",
+    "PI": "C516"
+  },
+  {
+    "Vehicle": "Toyota Land Cruiser Arctic Trucks AT37 2016\nAutoshow",
+    "Value": "83,000 CR\nCOMMON",
+    "Sp": "5",
+    "Ha": "6.3",
+    "Ac": "4.3",
+    "La": "5.1",
+    "Br": "5.3",
+    "PI": "D444"
+  },
+  {
+    "Vehicle": "Toyota MR2 GT 1995\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.8",
+    "Ha": "5.3",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "4.8",
+    "PI": "B621"
+  },
+  {
+    "Vehicle": "Toyota MR2 SC 1989\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "5.9",
+    "Ha": "4.9",
+    "Ac": "5.6",
+    "La": "7.6",
+    "Br": "4.7",
+    "PI": "D481"
+  },
+  {
+    "Vehicle": "Toyota Sprinter Trueno GT Apex 1985\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5.4",
+    "Ha": "4.7",
+    "Ac": "5.6",
+    "La": "7.2",
+    "Br": "4.5",
+    "PI": "D444"
+  },
+  {
+    "Vehicle": "Toyota Supra 2.0 GT 1992\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "6.2",
+    "Ha": "5.1",
+    "Ac": "5.8",
+    "La": "7.5",
+    "Br": "4.7",
+    "PI": "C543"
+  },
+  {
+    "Vehicle": "Toyota Supra RZ 1998\nAutoshow",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "7.1",
+    "Ha": "6.1",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "5.6",
+    "PI": "B693"
+  },
+  {
+    "Vehicle": "Triumph Spitfire 1962\nComplete its Barn Find rumor",
+    "Value": "20,000 CR\nRARE",
+    "Sp": "5",
+    "Ha": "3.9",
+    "Ac": "5",
+    "La": "6.3",
+    "Br": "3.7",
+    "PI": "D203"
+  },
+  {
+    "Vehicle": "Triumph TR3B 1962\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "4.8",
+    "Ha": "4.4",
+    "Ac": "3.9",
+    "La": "5.8",
+    "Br": "4.3",
+    "PI": "D243"
+  },
+  {
+    "Vehicle": "Triumph TR6 PI 1970\nAutoshow (DLC: Car Pass)",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5.5",
+    "Ha": "4.6",
+    "Ac": "5",
+    "La": "6.3",
+    "Br": "4.5",
+    "PI": "D419"
+  },
+  {
+    "Vehicle": "Triumph TR7 Roadster 1979\nReach Tier 7 in Horizon Life: Horizon Super7",
+    "Value": "250,000 CR\nEPIC",
+    "Sp": "5",
+    "Ha": "4.7",
+    "Ac": "4.2",
+    "La": "5.4",
+    "Br": "4.4",
+    "PI": "D245"
+  },
+  {
+    "Vehicle": "TVR Cerbera Speed 12 1998\nComplete its Barn Find rumor",
+    "Value": "500,000 CR\nLEGENDARY",
+    "Sp": "9",
+    "Ha": "7.7",
+    "Ac": "6.6",
+    "La": "8.2",
+    "Br": "7.7",
+    "PI": "S1874"
+  },
+  {
+    "Vehicle": "TVR Griffith 2018\nAutoshow (DLC: Car Pass)",
+    "Value": "105,000 CR\nRARE",
+    "Sp": "7.7",
+    "Ha": "7.9",
+    "Ac": "6.9",
+    "La": "8.6",
+    "Br": "8.3",
+    "PI": "S1844"
+  },
+  {
+    "Vehicle": "TVR Sagaris 2005\nAutoshow",
+    "Value": "86,000 CR\nEPIC",
+    "Sp": "7.2",
+    "Ha": "7.1",
+    "Ac": "6.4",
+    "La": "8.1",
+    "Br": "7",
+    "PI": "A797"
+  },
+  {
+    "Vehicle": "TVR Sagaris F.E. 2005\nSkill Tree: TVR Sagaris",
+    "Value": "336,000 CR\nFORZA EDITION",
+    "Sp": "7.9",
+    "Ha": "9.4",
+    "Ac": "7.9",
+    "La": "9.4",
+    "Br": "9.1",
+    "PI": "S2902"
+  },
+  {
+    "Vehicle": "TVR Tuscan S 2001\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nRARE",
+    "Sp": "7.1",
+    "Ha": "6.3",
+    "Ac": "6.6",
+    "La": "8.2",
+    "Br": "6.3",
+    "PI": "A747"
+  },
+  {
+    "Vehicle": "Ultima Evolution Coupe 1020 2015\nReach Tier 4 in Horizon Life: The Drag Strip",
+    "Value": "130,000 CR\nEPIC",
+    "Sp": "9",
+    "Ha": "10",
+    "Ac": "8.6",
+    "La": "9.8",
+    "Br": "10",
+    "PI": "S2998"
+  },
+  {
+    "Vehicle": "Vauxhall Astra VXR 2012\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.5",
+    "Ha": "6.3",
+    "Ac": "6.1",
+    "La": "7.8",
+    "Br": "6.7",
+    "PI": "B684"
+  },
+  {
+    "Vehicle": "Vauxhall Corsa VXR 2009\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "6.1",
+    "Ha": "5.9",
+    "Ac": "5.3",
+    "La": "7.4",
+    "Br": "5.1",
+    "PI": "C600"
+  },
+  {
+    "Vehicle": "Vauxhall Corsa VXR 2016\nAutoshow",
+    "Value": "28,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "6.1",
+    "Ac": "5.2",
+    "La": "7.5",
+    "Br": "6.3",
+    "PI": "B610"
+  },
+  {
+    "Vehicle": "Vauxhall Insignia VXR 2010\nAutoshow (DLC: Car Pass)",
+    "Value": "42,000 CR\nCOMMON",
+    "Sp": "7.1",
+    "Ha": "6",
+    "Ac": "6.8",
+    "La": "8.6",
+    "Br": "6",
+    "PI": "B676"
+  },
+  {
+    "Vehicle": "Vauxhall Lotus Carlton 1990\nAutoshow",
+    "Value": "70,000 CR\nRARE",
+    "Sp": "7.2",
+    "Ha": "5.4",
+    "Ac": "5.9",
+    "La": "7.6",
+    "Br": "5.3",
+    "PI": "B665"
+  },
+  {
+    "Vehicle": "Vauxhall Monaro VXR 2005\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "7.6",
+    "Ha": "6",
+    "Ac": "6.2",
+    "La": "7.8",
+    "Br": "5.5",
+    "PI": "A716"
+  },
+  {
+    "Vehicle": "Vauxhall VX220 Turbo 2004\nAutoshow (DLC: Car Pass)",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "6.4",
+    "Ha": "6.8",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "6.8",
+    "PI": "A717"
+  },
+  {
+    "Vehicle": "Volkswagen #34 Volkswagen Andretti Rallycross Beetle 2017\nAutoshow",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "5.7",
+    "Ha": "7.8",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.1",
+    "PI": "S1869"
+  },
+  {
+    "Vehicle": "Volkswagen #94 Volkswagen Motorsport I.D R Pikes Peak 2018\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "6.2",
+    "Ha": "10",
+    "Ac": "10",
+    "La": "10",
+    "Br": "10",
+    "PI": "S2998"
+  },
+  {
+    "Vehicle": "Volkswagen #1107 Desert Dingo Racing Stock Bug 1970\nAutoshow",
+    "Value": "25,000 CR\nEPIC",
+    "Sp": "4.8",
+    "Ha": "6",
+    "Ac": "4.7",
+    "La": "6.4",
+    "Br": "5.2",
+    "PI": "D438"
+  },
+  {
+    "Vehicle": "Volkswagen Beetle 1963\nAutoshow",
+    "Value": "20,000 CR\nLEGENDARY",
+    "Sp": "4.1",
+    "Ha": "4",
+    "Ac": "3.7",
+    "La": "3.8",
+    "Br": "3.8",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Volkswagen Class 5/1600 Baja Bug 1969\nAutoshow",
+    "Value": "60,000 CR\nEPIC",
+    "Sp": "4.6",
+    "Ha": "6.3",
+    "Ac": "4.5",
+    "La": "7.2",
+    "Br": "6.1",
+    "PI": "D407"
+  },
+  {
+    "Vehicle": "Volkswagen Corrado VR6 1995\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "6.2",
+    "Ha": "5.2",
+    "Ac": "5.5",
+    "La": "7.1",
+    "Br": "4.8",
+    "PI": "C535"
+  },
+  {
+    "Vehicle": "Volkswagen Double Cab Pick-Up 1966\nAutoshow (DLC: Car Pass)",
+    "Value": "50,000 CR\nRARE",
+    "Sp": "3.8",
+    "Ha": "4",
+    "Ac": "3.6",
+    "La": "3.7",
+    "Br": "4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Volkswagen Global RallyCross Beetle 2014\nA possible Wheelspin reward",
+    "Value": "500,000 CR\nEPIC",
+    "Sp": "6.1",
+    "Ha": "7.6",
+    "Ac": "10",
+    "La": "10",
+    "Br": "7.9",
+    "PI": "S1846"
+  },
+  {
+    "Vehicle": "Volkswagen Golf GTI 1983\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "5.2",
+    "Ha": "4.7",
+    "Ac": "5.4",
+    "La": "6.9",
+    "Br": "4.6",
+    "PI": "D408"
+  },
+  {
+    "Vehicle": "Volkswagen Golf Gti 16v Mk2 1992\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "5.5",
+    "Ha": "5",
+    "Ac": "5.2",
+    "La": "6.5",
+    "Br": "4.7",
+    "PI": "D454"
+  },
+  {
+    "Vehicle": "Volkswagen Golf R 2010\nA possible Wheelspin reward",
+    "Value": "64,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "5.8",
+    "Ac": "6.6",
+    "La": "8.3",
+    "Br": "5.1",
+    "PI": "B661"
+  },
+  {
+    "Vehicle": "Volkswagen Golf R 2014\nAutoshow",
+    "Value": "50,000 CR\nRARE",
+    "Sp": "6.6",
+    "Ha": "6",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "5.6",
+    "PI": "B672"
+  },
+  {
+    "Vehicle": "Volkswagen Golf R32 2003\nAutoshow",
+    "Value": "20,000 CR\nRARE",
+    "Sp": "6.4",
+    "Ha": "5.8",
+    "Ac": "6.6",
+    "La": "8.6",
+    "Br": "5.4",
+    "PI": "B630"
+  },
+  {
+    "Vehicle": "Volkswagen GTI VR6 Mk3 1998\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "5.1",
+    "Ac": "5.5",
+    "La": "6.9",
+    "Br": "5.1",
+    "PI": "C512"
+  },
+  {
+    "Vehicle": "Volkswagen Karmann Ghia 1967\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "4.2",
+    "Ha": "4.5",
+    "Ac": "3.7",
+    "La": "5.4",
+    "Br": "4.6",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Volkswagen Scirocco R 2011\nAutoshow",
+    "Value": "45,000 CR\nRARE",
+    "Sp": "6.5",
+    "Ha": "6.2",
+    "Ac": "6",
+    "La": "7.7",
+    "Br": "6.2",
+    "PI": "B678"
+  },
+  {
+    "Vehicle": "Volkswagen Scirocco S 1981\nAutoshow",
+    "Value": "20,000 CR\nCOMMON",
+    "Sp": "4.8",
+    "Ha": "4.6",
+    "Ac": "4.4",
+    "La": "6.4",
+    "Br": "4.5",
+    "PI": "D264"
+  },
+  {
+    "Vehicle": "Volkswagen Touareg R50 2008\nAutoshow",
+    "Value": "48,000 CR\nCOMMON",
+    "Sp": "6.4",
+    "Ha": "5.9",
+    "Ac": "5.5",
+    "La": "9",
+    "Br": "6.3",
+    "PI": "B631"
+  },
+  {
+    "Vehicle": "Volkswagen Type 2 De Luxe 1963\nAutoshow",
+    "Value": "40,000 CR\nLEGENDARY",
+    "Sp": "3.8",
+    "Ha": "4",
+    "Ac": "3.6",
+    "La": "3.9",
+    "Br": "3.9",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Volkswagen Type 2 De Luxe F.E. 1963\nA possible Wheelspin reward",
+    "Value": "290,000 CR\nFORZA EDITION",
+    "Sp": "8.7",
+    "Ha": "8.6",
+    "Ac": "10",
+    "La": "10",
+    "Br": "8.3",
+    "PI": "S1897"
+  },
+  {
+    "Vehicle": "Volkswagen Type 3 1600 L 1967\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nCOMMON",
+    "Sp": "4.6",
+    "Ha": "4.5",
+    "Ac": "3.8",
+    "La": "5.6",
+    "Br": "4.5",
+    "PI": "D153"
+  },
+  {
+    "Vehicle": "Volvo 242 Turbo Evolution 1983\nAutoshow",
+    "Value": "45,000 CR\nCOMMON",
+    "Sp": "5.9",
+    "Ha": "4.5",
+    "Ac": "5.5",
+    "La": "7",
+    "Br": "4.8",
+    "PI": "C512"
+  },
+  {
+    "Vehicle": "Volvo 850 R 1997\nAutoshow",
+    "Value": "25,000 CR\nCOMMON",
+    "Sp": "6.5",
+    "Ha": "5",
+    "Ac": "5.1",
+    "La": "6.5",
+    "Br": "4.6",
+    "PI": "C544"
+  },
+  {
+    "Vehicle": "Volvo Iron Knight 2016\nAutoshow",
+    "Value": "800,000 CR\nEPIC",
+    "Sp": "7.6",
+    "Ha": "5.9",
+    "Ac": "7.3",
+    "La": "8.9",
+    "Br": "6.9",
+    "PI": "A797"
+  },
+  {
+    "Vehicle": "Volvo V60 Polestar 2015\nAutoshow",
+    "Value": "62,000 CR\nRARE",
+    "Sp": "6.8",
+    "Ha": "5.5",
+    "Ac": "7",
+    "La": "8.9",
+    "Br": "5.7",
+    "PI": "B652"
+  },
+  {
+    "Vehicle": "VUHL 05RR 2017\nA \"Hard-to-Find\" vehicle",
+    "Value": "250,000 CR\nLEGENDARY",
+    "Sp": "6.9",
+    "Ha": "10",
+    "Ac": "9.1",
+    "La": "10",
+    "Br": "10",
+    "PI": "S2926"
+  },
+  {
+    "Vehicle": "W Motors Lykan HyperSport 2016\nAutoshow",
+    "Value": "3,400,000 CR\nLEGENDARY",
+    "Sp": "8.7",
+    "Ha": "8.4",
+    "Ac": "7.7",
+    "La": "9.2",
+    "Br": "9",
+    "PI": "S2907"
+  },
+  {
+    "Vehicle": "Willys MB Jeep 1945\nAutoshow",
+    "Value": "40,000 CR\nCOMMON",
+    "Sp": "3.9",
+    "Ha": "4.2",
+    "Ac": "4",
+    "La": "6",
+    "Br": "4",
+    "PI": "D100"
+  },
+  {
+    "Vehicle": "Zenvo ST1 2016\nReach Tier 10 in Horizon Life: World's Fastest",
+    "Value": "1,000,000 CR\nLEGENDARY",
+    "Sp": "8.8",
+    "Ha": "7.9",
+    "Ac": "7.1",
+    "La": "8.7",
+    "Br": "8.4",
+    "PI": "S1900"
+  },
+  {
+    "Vehicle": "Zenvo TSR-S 2019\nA \"Hard-to-Find\" vehicle",
+    "Value": "1,200,000 CR\nLEGENDARY",
+    "Sp": "8.9",
+    "Ha": "9.9",
+    "Ac": "8.2",
+    "La": "9.5",
+    "Br": "10",
+    "PI": "S2972"
+  }
+]
