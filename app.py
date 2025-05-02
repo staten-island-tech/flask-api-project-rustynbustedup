@@ -3,25 +3,22 @@ import json
 
 app = Flask(__name__)
 
-# Load cars
-with open('cars.json') as f:
-    cars = json.load(f)
-
-# Clean line breaks
-for car in cars:
-    car['Vehicle'] = car['Vehicle'].replace('\n', ' ')
-    car['Value'] = car['Value'].replace('\n', ' ')
-
 @app.route('/')
 def index():
+    with open('Cars.Json', 'r') as file:
+        cars = json.load(file)
     return render_template('index.html', cars=cars)
 
 @app.route('/api/cars', methods=['GET'])
 def get_cars():
+    with open('Cars.Json', 'r') as file:
+        cars = json.load(file)
     return jsonify(cars)
 
 @app.route('/api/cars/<int:car_index>', methods=['GET'])
 def get_car_by_index(car_index):
+    with open('Cars.Json', 'r') as file:
+        cars = json.load(file)
     if 0 <= car_index < len(cars):
         return jsonify(cars[car_index])
     else:
