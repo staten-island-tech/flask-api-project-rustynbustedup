@@ -1,61 +1,123 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Forza Horizon 4 Cars</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        .card-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 20px;
-            width: 95%;
-            margin: auto;
-            padding: 20px;
-        }
-        .card {
-            border: 1px solid #999;
-            border-radius: 8px;
-            padding: 15px;
-            text-align: center;
-            background-color: #f9f9f9;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        .card h2 {
-            font-size: 1.2em;
-            margin: 0;
-        }
-        .stats {
-            display: none;
-            margin-top: 10px;
-            text-align: left;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Forza Cars</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f5f5f5;
+      padding: 20px;
+    }
+    h1 {
+      text-align: center;
+    }
+    .card-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: center;
+    }
+    .card {
+      background-color: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+      padding: 15px;
+      width: 250px;
+      cursor: pointer;
+      transition: background-color 0.2s ease;
+      overflow: hidden;
+    }
+    .card:hover {
+      background-color: #f0f0f0;
+    }
+    .card img {
+      width: 100%;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+    .card h2 {
+      font-size: 1.1em;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+    .card .details {
+      display: none;
+      margin-top: 10px;
+    }
+    .card.expanded .details {
+      display: block;
+    }
+    .stat {
+      margin: 4px 0;
+      font-size: 0.9em;
+    }
+    .value, .pi {
+      margin-top: 10px;
+      font-weight: bold;
+    }
+  </style>
 </head>
 <body>
-    <h1 style="text-align:center;">Forza Horizon 4 Car List</h1>
-    <div class="card-container">
-        {% for car in cars %}
-        <div class="card" onclick="toggleStats(this)">
-            <h2>{{ car.Vehicle }}</h2>
-            <div class="stats">
-                <p><strong>Value:</strong> {{ car.Value }}</p>
-                <p><strong>Speed:</strong> {{ car.Sp }}</p>
-                <p><strong>Handling:</strong> {{ car.Ha }}</p>
-                <p><strong>Acceleration:</strong> {{ car.Ac }}</p>
-                <p><strong>Launch:</strong> {{ car.La }}</p>
-                <p><strong>Braking:</strong> {{ car.Br }}</p>
-                <p><strong>PI:</strong> {{ car.PI }}</p>
-            </div>
-        </div>
-        {% endfor %}
-    </div>
-    <script>
-        function toggleStats(card) {
-            const stats = card.querySelector('.stats');
-            stats.style.display = stats.style.display === 'block' ? 'none' : 'block';
-        }
-    </script>
+  <h1>All cars and their stats in Forza Horizon 4</h1>
+  <div class="card-container" id="card-container"></div>
+
+  <script>
+    fetch('cars.json')
+      .then(response => response.json())
+      .then(data => {
+        const container = document.getElementById('card-container');
+        data.forEach(car => {
+          const card = document.createElement('div');
+          card.className = 'card';
+
+          const title = document.createElement('h2');
+          title.textContent = car.Vehicle.split('\n')[0];
+          card.appendChild(title);
+
+          const details = document.createElement('div');
+          details.className = 'details';
+
+          const value = document.createElement('div');
+          value.className = 'value';
+          value.textContent = `Value: ${car.Value.split('\n')[0]}`;
+          details.appendChild(value);
+
+          const pi = document.createElement('div');
+          pi.className = 'pi';
+          pi.textContent = `Class: ${car.PI}`;
+          details.appendChild(pi);
+
+          const stats = ['Sp', 'Ha', 'Ac', 'La', 'Br'];
+          const labels = {
+            Sp: 'Speed',
+            Ha: 'Handling',
+            Ac: 'Acceleration',
+            La: 'Launch',
+            Br: 'Braking'
+          };
+
+          stats.forEach(stat => {
+            const statEl = document.createElement('div');
+            statEl.className = 'stat';
+            statEl.textContent = `${labels[stat]}: ${car[stat]}`;
+            details.appendChild(statEl);
+          });
+
+          card.appendChild(details);
+
+          // Toggle details visibility on click
+          card.addEventListener('click', () => {
+            card.classList.toggle('expanded');
+          });
+
+          container.appendChild(card);
+        });
+      })
+      .catch(err => {
+        console.error('Failed to load car data:', err);
+      });
+  </script>
 </body>
 </html>
