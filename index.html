@@ -30,7 +30,7 @@
       overflow: hidden;
     }
     .card:hover {
-      background-color: #f0f0f0;
+      background-color: #d42323;
     }
     .card img {
       width: 100%;
@@ -71,6 +71,12 @@
         data.forEach(car => {
           const card = document.createElement('div');
           card.className = 'card';
+
+          // Add the car image from base64
+          const image = document.createElement('img');
+          image.src = car.Image;
+          image.alt = car.Vehicle.split('\n')[0];
+          card.appendChild(image);
 
           const title = document.createElement('h2');
           title.textContent = car.Vehicle.split('\n')[0];
