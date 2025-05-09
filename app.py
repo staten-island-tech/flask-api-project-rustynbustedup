@@ -17,7 +17,7 @@ def get_all_drivers():
 # Home Page
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return render_template('index.html')
 
 # List all drivers, with optional filters and sorting
 @app.route('/drivers')
