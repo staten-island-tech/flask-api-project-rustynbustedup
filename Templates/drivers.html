@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>All F1 Drivers</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      font-weight: 700;
+    }
+
+    .card {
+      transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+    }
+
+    /* Racing button style */
+    .btn-racing {
+      background-color: #e10600; /* F1 Red */
+      color: white;
+      border: 2px solid black;
+      font-weight: bold;
+      text-transform: uppercase;
+      transition: all 0.3s ease;
+    }
+
+    .btn-racing:hover {
+      background-color: black;
+      color: #e10600;
+      border-color: #e10600;
+      transform: scale(1.05);
+    }
+
+    .btn-racing::before {
+      content: "🏁 ";
+    }
+  </style>
+</head>
+<body>
+  <div class="container py-4">
+    <h1 class="mb-4">F1 Drivers</h1>
+
+    <!-- Filter & Sort -->
+    <form method="get" class="row g-3 mb-4">
+      <div class="col-md-4">
+        <input type="text" name="nationality" class="form-control" placeholder="Filter by nationality (e.g. British)">
+      </div>
+      <div class="col-md-4">
+        <select name="sort" class="form-select">
+          <option value="">Sort by...</option>
+          <option value="surname">Last Name</option>
+          <option value="dob">Date of Birth</option>
+        </select>
+      </div>
+      <div class="col-md-4 d-grid">
+        <button type="submit" class="btn btn-racing">Apply Filters</button>
+      </div>
+    </form>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4">
+      {% for driver in drivers %}
+        <div class="col">
+          <div class="card h-100 p-3">
+            <div class="card-body">
+              <h5 class="card-title">{{ driver.givenName }} {{ driver.familyName }}</h5>
+              <p class="card-text">
+                <strong>Nationality:</strong> {{ driver.nationality }}<br>
+                <strong>DOB:</strong> {{ driver.dateOfBirth }}
+              </p>
+              <a href="{{ url_for('driver_detail', driver_id=driver.driverId) }}" class="btn btn-racing">View Driver</a>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+</body>
+</html>

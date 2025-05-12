@@ -6,7 +6,7 @@ app = Flask(__name__)
 # Utility function to get all drivers
 def get_all_drivers():
     try:
-        url = "http://ergast.com/api/f1/drivers.json?limit=1000"
+        url = "http://ergast.com/api/f1/drivers.json?limit=2000"
         response = requests.get(url)
         data = response.json()
         return data['MRData']['DriverTable']['Drivers']
@@ -19,7 +19,7 @@ def get_all_drivers():
 def home():
     return render_template('index.html')
 
-# List all drivers, with optional filters and sorting
+# All drivers page
 @app.route('/drivers')
 def drivers():
     try:
