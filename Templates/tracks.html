@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>F1 Circuits</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #f8f9fa;
+      color: #212529;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 30px;
+      font-weight: 700;
+      color: #e10600; /* F1 Red */
+      border-bottom: 3px solid #e10600;
+      padding-bottom: 10px;
+      display: inline-block;
+    }
+
+    .card {
+      border: 2px solid #e10600;
+      background-color: #fff;
+      transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    }
+
+    .card-title {
+      color: #e10600;
+      font-weight: bold;
+      font-size: 1.25rem;
+    }
+
+    .card-text strong {
+      color: #000;
+    }
+
+    .circuit-link {
+      color: #e10600;
+      text-decoration: none;
+    }
+
+    .circuit-link:hover {
+      text-decoration: underline;
+      color: #c00000;
+    }
+
+    .btn-racing {
+      background-color: #e10600;
+      color: white;
+      border: 2px solid black;
+      font-weight: bold;
+      text-transform: uppercase;
+      transition: all 0.3s ease;
+    }
+
+    .btn-racing:hover {
+      background-color: black;
+      color: #e10600;
+      border-color: #e10600;
+      transform: scale(1.05);
+    }
+
+    .btn-racing::before {
+      content: "🏁 ";
+    }
+
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container py-4">
+    <h1>Formula 1 Circuits</h1>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4 mt-4">
+      {% for circuit in circuits %}
+        <div class="col">
+          <div class="card h-100 p-3">
+            <div class="card-body">
+              <h5 class="card-title">{{ circuit.circuitName }}</h5>
+              <p class="card-text">
+                <strong>📍 Location:</strong> {{ circuit.Location.locality }}, {{ circuit.Location.country }}<br>
+                <strong>🔗 URL:</strong> 
+                <a class="circuit-link" href="{{ circuit.url }}" target="_blank">{{ circuit.url }}</a>
+              </p>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="footer">
+      <a href="/" class="btn btn-racing mt-4">Back to Home</a>
+    </div>
+  </div>
+</body>
+</html>

@@ -62,7 +62,6 @@ def driver_detail(driver_id):
     except Exception as e:
         return render_template('error.html', message="Driver not found."), 404
 
-# Error handling
 @app.errorhandler(404)
 def not_found(e):
     return render_template("404.html"), 404
