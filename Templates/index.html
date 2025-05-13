@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>F1 Drivers Home</title>
+  <title>F1 Home</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
-      background-image: url('https://www.publicdomainpictures.net/pictures/270000/velka/checkered-flag.jpg'); /* High-res JPEG */
+      background-image: url('https://www.publicdomainpictures.net/pictures/270000/velka/checkered-flag.jpg');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -25,16 +25,29 @@
       color: #fff;
     }
 
-    .btn-primary {
-      background-color: #e10600; /* F1 Red */
-      border: none;
+    .btn-primary, .btn-secondary {
       font-size: 1.2rem;
       padding: 12px 30px;
       transition: all 0.3s ease;
+      margin: 10px;
+      border: none;
+    }
+
+    .btn-primary {
+      background-color: #e10600;
     }
 
     .btn-primary:hover {
       background-color: #b30000;
+      transform: scale(1.05);
+    }
+
+    .btn-secondary {
+      background-color: #555;
+    }
+
+    .btn-secondary:hover {
+      background-color: #333;
       transform: scale(1.05);
     }
 
@@ -48,9 +61,10 @@
   <div class="container text-center">
     <div class="overlay mx-auto" style="max-width: 700px;">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/F1.svg" alt="F1 Logo" class="logo">
-      <h1 class="mb-4">Welcome to the Formula 1 Driver Explorer</h1>
-      <p class="lead">Browse current and past F1 drivers using live data from the Ergast API.</p>
-      <a href="/drivers" class="btn btn-primary btn-lg mt-3">🏎️ Explore Drivers</a>
+      <h1 class="mb-4">Welcome to the Formula 1 Explorer</h1>
+      <p class="lead">Explore Formula 1 history, drivers, and circuits using live data from the Ergast API.</p>
+      <a href="/drivers" class="btn btn-primary btn-lg">🏎️ Explore Drivers</a>
+      <a href="/tracks" class="btn btn-secondary btn-lg">🛣️ Explore Tracks</a>
     </div>
   </div>
 </body>

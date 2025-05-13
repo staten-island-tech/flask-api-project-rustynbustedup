@@ -38,6 +38,17 @@ def drivers():
         return render_template('drivers.html', drivers=drivers)
     except Exception as e:
         return render_template('error.html', message=str(e)), 500
+    
+@app.route('/tracks')
+def tracks():
+    try:
+        url = "http://ergast.com/api/f1/circuits.json?limit=100"
+        response = requests.get(url)
+        data = response.json()
+        circuits = data['MRData']['CircuitTable']['Circuits']
+        return render_template('tracks.html', circuits=circuits)
+    except Exception as e:
+        return render_template('error.html', message="Error fetching track data."), 500
 
 # Driver detail page
 @app.route('/driver/<driver_id>')
