@@ -5,12 +5,23 @@
   font-weight: bold;
 }
 
-.tracks_page .card {
-  background-color: #fffaf0;
+.tracks_page.card {
+  background-color: hsl(0, 100%, 46%);
   border-color: #e10600;
 }
 
-.tracks_page .btn-racing {
+.tracks_page.btn-racing {
   background-color: #333;
 }
 
+.index_page h1 {
+  color: #e10600;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.index_page.card {
+  background-color: #fffaf0;
+  border-color: #e10600;
+}
