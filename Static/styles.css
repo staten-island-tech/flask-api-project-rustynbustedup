@@ -1,19 +1,4 @@
-.tracks_page h1 {
-  color: #e10600;
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: bold;
-}
-
-.tracks_page.card {
-  background-color: hsl(0, 100%, 46%);
-  border-color: #e10600;
-}
-
-.tracks_page.btn-racing {
-  background-color: #333;
-}
-
+.tracks_page h1,
 .index_page h1 {
   color: #e10600;
   text-align: center;
@@ -21,7 +6,19 @@
   font-weight: bold;
 }
 
-.index_page.card {
+/* Card styling on Tracks page */
+.tracks_page .card {
+  background-color: hsl(0, 100%, 46%);
+  border-color: #e10600;
+}
+
+/* Button styling for racing theme on Tracks page */
+.tracks_page .btn-racing {
+  background-color: #333;
+}
+
+/* Card styling on Index page */
+.index_page .card {
   background-color: #fffaf0;
   border-color: #e10600;
 }
