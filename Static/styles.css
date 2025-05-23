@@ -1,54 +1,105 @@
+/* DARK BACKGROUND FOR THE PAGE */
+body,
+.tracks_page,
+.index_page,
+.drivers_page {
+  background-color: #0d0d0d;
+  color: #ffffff;
+}
+
+/* HEADERS: Clean, bold, no glow */
 .tracks_page h1,
-.index_page h1 {
+.index_page h1,
+.drivers_page h1,
+.driver_detail_page h1 {
   color: #e10600;
   text-align: center;
   text-transform: uppercase;
-  font-weight: bold;
+  font-weight: 900;
+  font-size: 3rem;
+  letter-spacing: 2px;
+  text-shadow: none;
+  animation: none;
 }
 
-/* Card styling on Tracks page */
+/* CARD STYLING: Tracks Page */
 .tracks_page .card {
-  background-color: hsl(0, 0%, 99%);
-  border-color: #e10600;
+  background-color: #1a1a1a;
+  border: 2px solid #e10600;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 0 12px rgba(255, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  color: #fff;
 }
 
-/* Button styling for racing theme on Tracks page */
+.tracks_page .card:hover {
+  transform: scale(1.06);
+  box-shadow: 0 0 30px #e10600, 0 0 50px #ff4d4d;
+}
+
+/* BUTTON STYLING: Tracks Page */
 .tracks_page .btn-racing {
-  background-color: #333;
+  background-color: #111;
+  color: #fff;
+  border: 2px solid #e10600;
+  padding: 0.75rem 1.5rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  box-shadow: 0 0 12px #e10600, 0 0 24px #ff4d4d;
+  transition: all 0.3s ease;
+  cursor: pointer;
 }
 
-/* Card styling on Index page */
+.tracks_page .btn-racing:hover {
+  background-color: #e10600;
+  color: #000;
+  box-shadow: 0 0 20px #e10600, 0 0 40px #ff1a1a;
+}
+
+/* INDEX PAGE CARD STYLE (OPTIONAL - still light themed here) */
 .index_page .card {
   background-color: white;
   border-color: #e10600;
 }
-.drivers_page h1 {
-  color: #e10600;
-  text-align: center;
-  text-transform: uppercase;
-  font-weight: bold;
-}
 
-/* Card styling on Drivers page */
+/* CARD STYLING: Drivers Page */
 .drivers_page .card {
-  background-color: white; 
-  border-color: #e10600;
+  background-color: #1a1a1a;
+  border: 2px solid #e10600;
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 0 12px rgba(255, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  color: #fff;
 }
 
-/* Button styling for Drivers page */
+.drivers_page .card:hover {
+  transform: scale(1.06);
+  box-shadow: 0 0 30px #e10600, 0 0 50px #ff4d4d;
+}
+
+/* BUTTON STYLING: Drivers Page */
 .drivers_page .btn-racing {
-  background-color: red; /* Deep red for a bold racing look */
-  color:white;
-  border: none;
-  transition: background-color 0.3s ease;
+  background-color: #111;
+  color: white;
+  border: 2px solid #e10600;
+  padding: 0.75rem 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 0 12px #e10600, 0 0 24px #ff4d4d;
 }
 
 .drivers_page .btn-racing:hover {
   background-color: #e10600;
-  color: white;
+  color: black;
+  box-shadow: 0 0 20px #e10600, 0 0 40px #ff1a1a;
 }
 
-/* Heading style on Driver Detail page */
+/* DRIVER DETAIL PAGE HEADERS */
 .driver_detail_page h1 {
   color: #e10600;
   text-align: center;
@@ -56,20 +107,21 @@
   font-weight: bold;
 }
 
-/* Container spacing and max-width */
+/* CONTAINER SETTINGS */
 .driver_detail_page .container {
   max-width: 800px;
   margin: auto;
 }
 
-/* List group styling */
+/* LIST GROUP ITEMS */
 .driver_detail_page .list-group-item {
-  background-color: #fdfdfd;
+  background-color: #1a1a1a;
   border-color: #e10600;
   font-size: 1.1rem;
+  color: #fff;
 }
 
-/* Link styling inside list */
+/* LINKS INSIDE LIST ITEMS */
 .driver_detail_page .list-group-item a {
   color: #e10600;
   text-decoration: underline;
@@ -80,11 +132,12 @@
   text-decoration: none;
 }
 
-/* Back button */
+/* BACK BUTTON */
 .driver_detail_page .btn-secondary {
   background-color: #333;
   border-color: #333;
   color: #fff;
+  transition: background-color 0.3s ease, border-color 0.3s ease;
 }
 
 .driver_detail_page .btn-secondary:hover {
