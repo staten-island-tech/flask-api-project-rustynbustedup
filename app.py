@@ -1,75 +1,71 @@
-from flask import Flask, render_template, request, redirect, url_for #imports Flask tools needed for the web app
-import requests #used to send HTTP requests to APIs
+from flask import Flask, render_template, request, redirect, url_for
+import requests
 
-app = Flask(__name__) #initialize the Flask app
+app = Flask(__name__)
 
-# Getting all drivers from the API 
 def get_all_drivers():
     try:
-        url = "http://ergast.com/api/f1/drivers.json?limit=2000" #API endpoint to get all F1 drivers
-        response = requests.get(url) #send GET request to the API
-        data = response.json() #convert the response into a Python dictionary
-        return data['MRData']['DriverTable']['Drivers'] #return the list of drivers from the data
+        url = "http://ergast.com/api/f1/drivers.json?limit=2000"
+        response = requests.get(url)
+        data = response.json()
+        return data['MRData']['DriverTable']['Drivers']
     except Exception as e:
-        print(f"Error fetching drivers: {e}") #print error if something goes wrong
-        return [] #return empty list on error
+        print(f"Error fetching drivers: {e}")
+        return []
 
-# Home Page
-@app.route('/') #route for homepage
+@app.route('/')
 def home():
-    return render_template('index.html') #load index.html when user visits root URL
+    return render_template('index.html')
 
-# All drivers page
-@app.route('/drivers') #route for drivers page
+@app.route('/drivers')
 def drivers():
     try:
-        drivers = get_all_drivers() #fetch all drivers using the function
-        nationality = request.args.get('nationality') #get nationality filter from query params
-        sort_by = request.args.get('sort') #get sorting preference from query params
+        drivers = get_all_drivers()
+        nationality = request.args.get('nationality')
+        sort_by = request.args.get('sort')
 
         if nationality:
-            drivers = [d for d in drivers if d['nationality'].lower() == nationality.lower()] 
-            #filter the list by nationality
+            drivers = [d for d in drivers if d['nationality'].lower() == nationality.lower()]
 
         if sort_by == 'surname':
-            drivers = sorted(drivers, key=lambda x: x['familyName']) #sort drivers by surname if selected
+            drivers = sorted(drivers, key=lambda x: x['familyName'])
+            
         elif sort_by == 'dob':
-            drivers = sorted(drivers, key=lambda x: x['dateOfBirth']) #sort by date of birth if selected
+            drivers = sorted(drivers, key=lambda x: x['dateOfBirth'])
 
-        return render_template('drivers.html', drivers=drivers) #show the driver list 
+        return render_template('drivers.html', drivers=drivers)
     except Exception as e:
-        return render_template('error.html', message=str(e)), 500 #shows error page if smtn goe wong
+        return render_template('error.html', message=str(e)), 500
 
-@app.route('/tracks') #route for tracks page
+@app.route('/tracks')
 def tracks():
     try:
-        url = "http://ergast.com/api/f1/circuits.json?limit=100" #API endpoint to get all F1 circuits
-        response = requests.get(url) #send GET request to the API
-        data = response.json() #convert JSON response to Python dict
-        circuits = data['MRData']['CircuitTable']['Circuits'] #tae the list of circuits
-        return render_template('tracks.html', circuits=circuits) #show the circuits in the template
+        url = "http://ergast.com/api/f1/circuits.json?limit=100"
+        response = requests.get(url)
+        data = response.json()
+        circuits = data['MRData']['CircuitTable']['Circuits']
+        return render_template('tracks.html', circuits=circuits)
     except Exception as e:
-        return render_template('error.html', message="Error fetching track data."), 500 #error page if API fails
+        return render_template('error.html', message="Error fetching track data."), 500
 
-# Driver detail page
-@app.route('/driver/<driver_id>') #dynamic route for individual driver pages
-def driver_detail(driver_id): #gives id about driver on the page (named)
+@app.route('/driver/<driver_id>')
+def driver_detail(driver_id):
     try:
-        url = f"http://ergast.com/api/f1/drivers/{driver_id}.json" #API endpoint to get driver details by ID
-        response = requests.get(url) #send GET request
-        data = response.json() #convert JSON to Python
-        driver = data['MRData']['DriverTable']['Drivers'][0] #get the first driver 
-        return render_template('driver_detail.html', driver=driver) #show the driver details in template
+        url = f"http://ergast.com/api/f1/drivers/{driver_id}.json"
+        response = requests.get(url)
+        data = response.json()
+        driver = data['MRData']['DriverTable']['Drivers'][0]
+        return render_template('driver_detail.html', driver=driver)
     except Exception as e:
-        return render_template("error.html", message="Driver not found."), 404 #show error page if not found
+        return render_template("error.html", message="Driver not found."), 404
 
-@app.errorhandler(404) # 404 page not foud
+@app.errorhandler(404)
 def not_found(e):
-    return render_template("404.html"), 404 #404 page
+    return render_template("error.html", message="Page Not Found"), 404
 
-@app.errorhandler(500) #custom handler for server error
+@app.errorhandler(500)
 def server_error(e):
-    return render_template("error.html", message="Internal Server Error"), 500 #error page for server error
+    return render_template("error.html", message="Internal Server Error"), 500
 
-if __name__ == '__main__': 
-    app.run(debug=True) #run the app 
+if __name__ == '__main__':
+    app.run(debug=True)
